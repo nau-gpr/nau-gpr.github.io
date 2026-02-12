@@ -1,0 +1,65 @@
+// Make page header alignment consistent with widget page header alignment
+.universal-wrapper h1 {
+  text-align: center;
+}
+
+// Center the CTA shortcode button
+.cta-group {
+  justify-content: center;
+}
+
+// Faculty profile image styling fixes
+.featured-image-wrapper {
+  float: right !important;
+  margin: 0 0 1.5rem 2rem !important;
+  max-width: 250px !important;
+  max-height: 250px !important;
+  clear: right !important;
+  
+  .featured-image {
+    width: 100% !important;
+    height: auto !important;
+    max-width: 250px !important;
+    max-height: 250px !important;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .article-header-caption {
+    display: block;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #6b7280;
+    margin-top: 0.5rem;
+    font-style: italic;
+  }
+}
+
+// Ensure article content flows around the image
+.article-style {
+  overflow: hidden;
+  
+  h2:first-child {
+    margin-top: 0;
+  }
+  
+  p:first-of-type {
+    margin-top: 0;
+  }
+}
+
+// Mobile responsive adjustments for faculty profiles
+@media (max-width: 768px) {
+  .featured-image-wrapper {
+    float: none !important;
+    margin: 0 auto 1.5rem auto !important;
+    max-width: 200px !important;
+    max-height: 200px !important;
+    display: block !important;
+    
+    .featured-image {
+      max-width: 200px !important;
+      max-height: 200px !important;
+    }
+  }
+}

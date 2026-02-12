@@ -1,0 +1,304 @@
+/* Faculty profile image styling fixes */
+.featured-image-wrapper {
+  float: right !important;
+  margin: 0 0 1.5rem 2rem !important;
+  max-width: 250px !important;
+  clear: right !important;
+}
+
+.featured-image-wrapper .featured-image {
+  width: auto !important;
+  height: auto !important;
+  max-width: 250px !important;
+  max-height: 300px !important;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.featured-image-wrapper .article-header-caption {
+  display: block;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #6b7280;
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+
+/* Ensure article content flows around the image */
+.article-style {
+  overflow: hidden;
+}
+
+.article-style h2:first-child {
+  margin-top: 0;
+}
+
+.article-style p:first-of-type {
+  margin-top: 0;
+}
+
+/* Mobile responsive adjustments for faculty profiles */
+@media (max-width: 768px) {
+  .featured-image-wrapper {
+    float: none !important;
+    margin: 0 auto 1.5rem auto !important;
+    max-width: 200px !important;
+    display: block !important;
+  }
+  
+  .featured-image-wrapper .featured-image {
+    width: auto !important;
+    height: auto !important;
+    max-width: 200px !important;
+    max-height: 240px !important;
+  }
+}
+
+/* Feature block link styling */
+.feature-link {
+  display: block;
+  padding: 1.5rem;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  height: 100%;
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.feature-link:hover {
+  background-color: rgba(0, 52, 102, 0.05);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 52, 102, 0.15);
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.feature-link:focus {
+  outline: 2px solid rgba(0, 52, 102, 0.5);
+  outline-offset: 2px;
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+/* Ensure feature columns have equal height */
+.featurette .col-12.col-sm-4 {
+  display: flex;
+  margin-bottom: 2rem;
+}
+
+.featurette-icon {
+  font-size: 2.5rem;
+  color: #003366;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+/* Hide dates from displaying on all pages */
+.article-dates,
+.article-date,
+.pub-list-item .article-metadata,
+.media .article-metadata,
+.article-header .article-metadata,
+.page-header .article-metadata,
+.article-metadata .article-date,
+time[datetime],
+.published-date,
+.date {
+  display: none !important;
+}
+
+/* Hide specific Hugo Blox date elements */
+.docs-date,
+.docs-article-date,
+.blox-date,
+.article-header-caption time,
+.page-subtitle time,
+.page-date,
+.post-date,
+.entry-date,
+.pub-date,
+.publication-date,
+.meta-date,
+.date-meta,
+.article-title + .text-muted,
+.page-header .text-muted,
+.card-text time,
+.card-date,
+.post-meta time,
+.post-meta .date,
+.content-date,
+.page-meta,
+.article-meta,
+.wg-page-date,
+.wg-card .card-text time,
+h1 + .text-muted,
+h1 + .article-metadata,
+.article-title + .article-metadata,
+.page-title + .text-muted,
+.hero-title + .text-muted,
+.hero-lead + .text-muted {
+  display: none !important;
+}
+
+/* Additional comprehensive date hiding selectors */
+.article-container .article-metadata,
+.page-body .article-metadata,
+.hero-body .article-metadata,
+.content-container .article-metadata,
+.main-content .text-muted,
+.page-content .text-muted,
+.hero-content .text-muted,
+.article-style .text-muted,
+.entry-content .text-muted,
+.post-content .text-muted,
+main .text-muted time,
+article .text-muted,
+section .text-muted time,
+header .text-muted,
+.container .text-muted time,
+.row .text-muted time,
+.col .text-muted time {
+  display: none !important;
+}
+
+/* Universal time element hiding */
+main time,
+article time,
+section time,
+header time,
+.page time,
+.post time,
+.entry time,
+.content time,
+.hero time {
+  display: none !important;
+}
+
+/* Hide elements that might contain dates in various formats */
+[datetime*="0001"],
+[data-date*="0001"],
+span[title*="0001"],
+div[title*="0001"] {
+  display: none !important;
+}
+
+/* Nuclear option - hide all small/muted text that might contain dates */
+.text-muted,
+.text-secondary,
+.small.text-muted,
+small.text-muted,
+.meta,
+.metadata,
+p.text-muted,
+span.text-muted {
+  visibility: hidden !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 0 !important;
+}
+
+/* But show specific elements we want to keep */
+.text-muted.btn,
+.text-muted.card-text,
+.text-muted.description,
+.text-muted.summary,
+.text-muted.alert,
+button.text-muted,
+a.text-muted,
+.nav .text-muted,
+.navbar .text-muted {
+  visibility: visible !important;
+  height: auto !important;
+  margin: revert !important;
+  padding: revert !important;
+  line-height: revert !important;
+}
+
+/* Additional date hiding rules for newer Hugo/Blox versions */
+.article-header .article-date,
+.hero-subtitle + .text-muted,
+.page-header + .text-muted,
+h1.page-title ~ .text-muted,
+.hero-title ~ .text-muted,
+.blox-hero .text-muted time,
+.hero-body .text-muted,
+.hero-content .text-muted,
+[id*="hero"] .text-muted,
+[class*="hero"] .text-muted time,
+[class*="landing"] .text-muted time,
+section[class*="wg"] .text-muted time {
+  display: none !important;
+  visibility: hidden !important;
+}
+
+/* Hide any text that contains Jan 1, 0001 pattern */
+*:contains("Jan 1, 0001"),
+*:contains("January 1, 0001"),
+*[title*="0001-01-01"],
+*[datetime*="0001-01-01"] {
+  display: none !important;
+}
+
+/* Force hide specific Hugo Blox generated date elements */
+.wg-hero .text-muted,
+.wg-pages .text-muted,
+.section-heading + .text-muted,
+.hero-lead + .text-muted + *,
+.hero-title ~ * time,
+main section .text-muted {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  overflow: hidden !important;
+}
+
+/* Social media icons styling */
+.navbar-social {
+  margin-left: 1rem;
+}
+
+.navbar-social-link {
+  color: #6b7280;
+  font-size: 1.2rem;
+  transition: color 0.3s ease;
+  text-decoration: none;
+}
+
+.navbar-social-link:hover {
+  color: #003366;
+  text-decoration: none;
+}
+
+.footer-social {
+  margin-bottom: 2rem;
+}
+
+.footer-social h5 {
+  color: #003366;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.footer-social-link {
+  color: #6b7280;
+  font-size: 1.5rem;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  margin: 0 0.5rem;
+}
+
+.footer-social-link:hover {
+  color: #003366;
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
