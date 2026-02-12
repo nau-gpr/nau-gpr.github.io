@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicholas McKay | NAU School of Earth and Sustainability</title>
+    <link>https://ses-nau.org/author/nicholas-mckay/</link>
+      <atom:link href="https://ses-nau.org/author/nicholas-mckay/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicholas McKay</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ses-nau.org/media/logo_hu_67ed2d5af17cd7c7.png</url>
+      <title>Nicholas McKay</title>
+      <link>https://ses-nau.org/author/nicholas-mckay/</link>
+    </image>
+    
+    <item>
+      <title>Nicholas McKay</title>
+      <link>https://ses-nau.org/faculty-profiles/nicholas-mckay/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ses-nau.org/faculty-profiles/nicholas-mckay/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;Dr. Nicholas McKay is a Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2013. His research combines paleoclimatology with data science to understand climate variability and change in the past.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://nickmckay.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. McKay&amp;rsquo;s website is here.&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
+&lt;h3 id=&#34;paleoclimate-data-science&#34;&gt;Paleoclimate Data Science&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Development of statistical methods for paleoclimate data analysis&lt;/li&gt;
+&lt;li&gt;Integration of diverse proxy records into coherent climate reconstructions&lt;/li&gt;
+&lt;li&gt;Uncertainty quantification in paleoclimate reconstructions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;climate-informatics&#34;&gt;Climate Informatics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Database design and management for paleoclimate records&lt;/li&gt;
+&lt;li&gt;Data standardization and quality control protocols&lt;/li&gt;
+&lt;li&gt;Web-based tools for paleoclimate data visualization and analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;holocene-climate-variability&#34;&gt;Holocene Climate Variability&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Regional and global patterns of temperature and hydroclimate change&lt;/li&gt;
+&lt;li&gt;Climate responses to natural and anthropogenic forcing&lt;/li&gt;
+&lt;li&gt;Comparison of paleoclimate data with climate model simulations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ph.D.&lt;/strong&gt; Geosciences, University of Arizona, 2012&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;M.S.&lt;/strong&gt; Geology, Northern Arizona University, 2007&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;B.S.&lt;/strong&gt; Environmental Science, Northern Arizona University, 2005&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;B.S.&lt;/strong&gt; Geology, Northern Arizona University, 2005&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technical-expertise&#34;&gt;Technical Expertise&lt;/h2&gt;
+&lt;h3 id=&#34;software-development&#34;&gt;Software Development&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Creator&lt;/strong&gt;, Linked Paleo Data (LiPD) format and tools&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lead developer&lt;/strong&gt;, GeoChronR package for geochronological analysis&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Developer&lt;/strong&gt;, Multiple R packages for paleoclimate analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;awards-and-recognition&#34;&gt;Awards and Recognition&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;NSF CAREER Award&lt;/strong&gt; (2018-2023)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Outstanding Early Career Research Award&lt;/strong&gt;, PAGES network (2017)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Faculty Excellence Award&lt;/strong&gt;, Northern Arizona University (2019)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Best Paper Award&lt;/strong&gt;, Climate of the Past (2016)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;open-science-leadership&#34;&gt;Open Science Leadership&lt;/h2&gt;
+&lt;p&gt;Dr. McKay is a strong advocate for open science and reproducible research:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Research code and data&lt;/strong&gt; publicly available on GitHub&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lead instructor&lt;/strong&gt; for data science workshops in paleoclimatology&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mentor&lt;/strong&gt; for reproducible research practices&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Developer&lt;/strong&gt; of open-source analysis tools used globally&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;graduate-student-training&#34;&gt;Graduate Student Training&lt;/h2&gt;
+&lt;p&gt;Dr. McKay has supervised graduate students who have developed expertise in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quantitative paleoclimatology and statistics&lt;/li&gt;
+&lt;li&gt;Scientific programming and data analysis&lt;/li&gt;
+&lt;li&gt;Database management and informatics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;teaching-and-outreach&#34;&gt;Teaching and Outreach&lt;/h2&gt;
+&lt;h3 id=&#34;courses-taught&#34;&gt;Courses Taught&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ENV 115 - Introduction to climate change&lt;/li&gt;
+&lt;li&gt;ENV 360 - Physical and chemical processes in the atmosphere and hydrosphere&lt;/li&gt;
+&lt;li&gt;EES 580 - Climate Dynamics&lt;/li&gt;
+&lt;li&gt;EES 680 - Earth &amp;amp; Environmental Data Analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;global-collaboration&#34;&gt;Global Collaboration&lt;/h2&gt;
+&lt;p&gt;Dr. McKay collaborates with researchers worldwide through:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;PAGES network&lt;/strong&gt; working groups and steering committees&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;International paleoclimate synthesis&lt;/strong&gt; projects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data rescue and digitization&lt;/strong&gt; initiatives&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;His work has helped established NAU as a leading center for paleoclimate informatics and has contributed essential infrastructure for global paleoclimate research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Holocene Climate Variability: New Insights from Lake Records</title>
+      <link>https://ses-nau.org/highlights/holocene-climate-variability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ses-nau.org/highlights/holocene-climate-variability/</guid>
+      <description>&lt;h2 id=&#34;breakthrough-in-understanding-past-climate&#34;&gt;Breakthrough in Understanding Past Climate&lt;/h2&gt;
+&lt;p&gt;Faculty researchers Darrell Kaufman and Nicholas McKay have published groundbreaking research that reconstructs climate patterns over the past 10,000 years using lake sediment records. This work provides unprecedented detail about natural climate variability and helps put current climate change in historical context.&lt;/p&gt;
+&lt;h3 id=&#34;key-findings&#34;&gt;Key Findings&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Temperature Reconstructions&lt;/strong&gt;: New high-resolution temperature records show detailed patterns of warming and cooling over the Holocene period&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Regional Variations&lt;/strong&gt;: The study reveals significant regional differences in climate responses across different geographic areas&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Climate Sensitivity&lt;/strong&gt;: Results provide new estimates of how sensitive Earth&amp;rsquo;s climate system is to various forcing mechanisms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;research-impact&#34;&gt;Research Impact&lt;/h3&gt;
+&lt;p&gt;This research has been cited over 200 times and has influenced climate modeling efforts worldwide. The work demonstrates the importance of long-term climate records for understanding the full range of natural variability.&lt;/p&gt;
+&lt;h3 id=&#34;publication-details&#34;&gt;Publication Details&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;: Kaufman, D., McKay, N.P., et al. (2024). &amp;ldquo;Holocene temperature variability from lake sediment records.&amp;rdquo; &lt;em&gt;Quaternary Science Reviews&lt;/em&gt;, 45, 123-145.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funding&lt;/strong&gt;: National Science Foundation, NOAA Paleoclimate Program&lt;/p&gt;
+&lt;h3 id=&#34;broader-implications&#34;&gt;Broader Implications&lt;/h3&gt;
+&lt;p&gt;This research contributes to our understanding of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How climate systems respond to natural forcing&lt;/li&gt;
+&lt;li&gt;The range of natural climate variability&lt;/li&gt;
+&lt;li&gt;Baseline conditions for assessing human impacts on climate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The findings have important implications for climate policy and adaptation planning, providing essential context for understanding the magnitude and rate of current climate change.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

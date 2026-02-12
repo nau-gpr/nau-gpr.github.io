@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education | NAU School of Earth and Sustainability</title>
+    <link>https://ses-nau.org/tag/education/</link>
+      <atom:link href="https://ses-nau.org/tag/education/index.xml" rel="self" type="application/rss+xml" />
+    <description>Education</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ses-nau.org/media/logo_hu_67ed2d5af17cd7c7.png</url>
+      <title>Education</title>
+      <link>https://ses-nau.org/tag/education/</link>
+    </image>
+    
+    <item>
+      <title>Graduate Degree Programs</title>
+      <link>https://ses-nau.org/student-opportunities/graduate-degrees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ses-nau.org/student-opportunities/graduate-degrees/</guid>
+      <description>&lt;h2 id=&#34;graduate-degree-programs&#34;&gt;Graduate Degree Programs&lt;/h2&gt;
+&lt;p&gt;The School of Earth and Sustainability offers four comprehensive graduate degree programs designed to prepare students for advanced careers in research, industry, government, and academia.&lt;/p&gt;
+&lt;h2 id=&#34;master-of-science-in-geology-ms&#34;&gt;Master of Science in Geology (MS)&lt;/h2&gt;
+&lt;div class=&#34;card&#34;&gt;
+  &lt;div class=&#34;card-header&#34; id=&#34;geologyHeader&#34;&gt;
+    &lt;h5 class=&#34;mb-0&#34;&gt;
+      &lt;button class=&#34;btn btn-link btn-block text-left&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#geologyCollapse&#34; aria-expanded=&#34;true&#34; aria-controls=&#34;geologyCollapse&#34;&gt;
+        &lt;i class=&#34;fas fa-chevron-down&#34;&gt;&lt;/i&gt; View Program Details
+      &lt;/button&gt;
+    &lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div id=&#34;geologyCollapse&#34; class=&#34;collapse show&#34; aria-labelledby=&#34;geologyHeader&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://ses-nau.org/student-opportunities/geology-ms/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;program-overview&#34;&gt;Program Overview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Focus Areas:&lt;/strong&gt; Sedimentary, igneous, and metamorphic rocks; stratigraphy, structure, volcanology, surficial processes, water resources&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Application Deadline:&lt;/strong&gt; January 1st&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; Typically 2 years&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;research-themes&#34;&gt;Research Themes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Past &amp;amp; Present Climate Change&lt;/li&gt;
+&lt;li&gt;Tectonics &amp;amp; Earth&amp;rsquo;s Interior&lt;/li&gt;
+&lt;li&gt;Sedimentary Geology &amp;amp; Geomorphology&lt;/li&gt;
+&lt;li&gt;Water Management Policy &amp;amp; Science&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;funding-opportunities&#34;&gt;Funding Opportunities&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Research Assistantships with $15,000+ annual stipend&lt;/li&gt;
+&lt;li&gt;Teaching Assistantships with $15,000+ annual stipend&lt;/li&gt;
+&lt;li&gt;Tuition waiver included with assistantships&lt;/li&gt;
+&lt;li&gt;Additional research grants available&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;career-outcomes&#34;&gt;Career Outcomes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;90% employment rate&lt;/strong&gt; upon graduation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Environmental consulting firms&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Energy industry positions&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Federal and state government agencies&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Teaching and education roles&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PhD program preparation&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;master-of-science-in-environmental-sciences-and-policy-ms&#34;&gt;Master of Science in Environmental Sciences and Policy (MS)&lt;/h2&gt;
+&lt;div class=&#34;card&#34;&gt;
+  &lt;div class=&#34;card-header&#34; id=&#34;envSciHeader&#34;&gt;
+    &lt;h5 class=&#34;mb-0&#34;&gt;
+      &lt;button class=&#34;btn btn-link btn-block text-left collapsed&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#envSciCollapse&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;envSciCollapse&#34;&gt;
+        &lt;i class=&#34;fas fa-chevron-down&#34;&gt;&lt;/i&gt; View Program Details
+      &lt;/button&gt;
+    &lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div id=&#34;envSciCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;envSciHeader&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://ses-nau.org/student-opportunities/environmental-sciences-policy/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;program-overview-1&#34;&gt;Program Overview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; Two-year program&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Application Deadline:&lt;/strong&gt; January 1st&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Emphasis Areas:&lt;/strong&gt; Environmental Sciences and Policy, Paleoenvironmental Sciences&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;research-areas&#34;&gt;Research Areas&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Past &amp;amp; Present Climate Change&lt;/li&gt;
+&lt;li&gt;Water Management Policy &amp;amp; Science&lt;/li&gt;
+&lt;li&gt;Ecology &amp;amp; Conservation&lt;/li&gt;
+&lt;li&gt;Environment &amp;amp; Society&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;funding-opportunities-1&#34;&gt;Funding Opportunities&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Research and Teaching Assistantships with $15,000+ stipend&lt;/li&gt;
+&lt;li&gt;Wyss Scholars program for exceptional students&lt;/li&gt;
+&lt;li&gt;Tuition remission with assistantships&lt;/li&gt;
+&lt;li&gt;External fellowship opportunities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;career-outcomes-1&#34;&gt;Career Outcomes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Government agencies (EPA, USGS, NOAA)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Non-profit environmental organizations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Private sector environmental consulting&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Policy research institutions&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Entrepreneurial environmental projects&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;master-of-science-in-climate-science-and-solutions-ms&#34;&gt;Master of Science in Climate Science and Solutions (MS)&lt;/h2&gt;
+&lt;div class=&#34;card&#34;&gt;
+  &lt;div class=&#34;card-header&#34; id=&#34;climateHeader&#34;&gt;
+    &lt;h5 class=&#34;mb-0&#34;&gt;
+      &lt;button class=&#34;btn btn-link btn-block text-left collapsed&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#climateCollapse&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;climateCollapse&#34;&gt;
+        &lt;i class=&#34;fas fa-chevron-down&#34;&gt;&lt;/i&gt; View Program Details
+      &lt;/button&gt;
+    &lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div id=&#34;climateCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;climateHeader&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://ses-nau.org/student-opportunities/climate-science-solutions/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;program-overview-2&#34;&gt;Program Overview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Type:&lt;/strong&gt; Professional Science Master&amp;rsquo;s degree&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 18-month, non-thesis program&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Total Credits:&lt;/strong&gt; 36 (18 core, 12 electives, 6 career development)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;core-curriculum&#34;&gt;Core Curriculum&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Climate change science fundamentals&lt;/li&gt;
+&lt;li&gt;Environmental economics&lt;/li&gt;
+&lt;li&gt;Greenhouse gas management&lt;/li&gt;
+&lt;li&gt;Sustainable systems design&lt;/li&gt;
+&lt;li&gt;Environmental discourse and communication&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;special-features&#34;&gt;Special Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Professional Summer Internship:&lt;/strong&gt; Mandatory industry experience&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry Advisory Board:&lt;/strong&gt; Direct input from industry professionals&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Career Development:&lt;/strong&gt; Professional skills and networking focus&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accelerated Timeline:&lt;/strong&gt; Complete degree in 1.5 years&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;target-background&#34;&gt;Target Background&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Engineering graduates&lt;/li&gt;
+&lt;li&gt;Science degree holders&lt;/li&gt;
+&lt;li&gt;Environmental Studies majors&lt;/li&gt;
+&lt;li&gt;Business professionals seeking environmental expertise&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;career-opportunities&#34;&gt;Career Opportunities&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Climate consulting firms&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Corporate sustainability departments&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Government climate agencies&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Renewable energy companies&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Environmental policy organizations&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;doctor-of-philosophy-in-earth-sciences-and-environmental-sustainability-phd&#34;&gt;Doctor of Philosophy in Earth Sciences and Environmental Sustainability (PhD)&lt;/h2&gt;
+&lt;div class=&#34;card&#34;&gt;
+  &lt;div class=&#34;card-header&#34; id=&#34;phdHeader&#34;&gt;
+    &lt;h5 class=&#34;mb-0&#34;&gt;
+      &lt;button class=&#34;btn btn-link btn-block text-left collapsed&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#phdCollapse&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;phdCollapse&#34;&gt;
+        &lt;i class=&#34;fas fa-chevron-down&#34;&gt;&lt;/i&gt; View Program Details
+      &lt;/button&gt;
+    &lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div id=&#34;phdCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;phdHeader&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://ses-nau.org/student-opportunities/earth-sciences-environmental-sustainability-phd/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;program-overview-3&#34;&gt;Program Overview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Requirements:&lt;/strong&gt; 30 course units, comprehensive examination, dissertation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Application Deadline:&lt;/strong&gt; January 1st&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; Typically 4-6 years&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;emphasis-areas&#34;&gt;Emphasis Areas&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Earth Systems:&lt;/strong&gt; Geological processes and earth system interactions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Climate &amp;amp; Environmental Change:&lt;/strong&gt; Paleoclimatology and modern climate dynamics&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ecology Evolution &amp;amp; Conservation Biology:&lt;/strong&gt; Biodiversity and ecosystem conservation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Environment &amp;amp; Society:&lt;/strong&gt; Human-environment interactions and policy&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Engineering Sustainable Systems:&lt;/strong&gt; Technical solutions for sustainability challenges&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;program-requirements&#34;&gt;Program Requirements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Coursework:&lt;/strong&gt; Minimum 30 units of graduate-level courses&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Comprehensive Exam:&lt;/strong&gt; Written and oral examinations in area of specialization&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dissertation Research:&lt;/strong&gt; Original research contribution to the field&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching Experience:&lt;/strong&gt; Required teaching or outreach component&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;funding-support&#34;&gt;Funding Support&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Research Assistantships: $20,000-$27,000 annual stipend&lt;/li&gt;
+&lt;li&gt;Teaching Assistantships: $20,000-$27,000 annual stipend&lt;/li&gt;
+&lt;li&gt;Full tuition waiver included&lt;/li&gt;
+&lt;li&gt;Health insurance coverage&lt;/li&gt;
+&lt;li&gt;Conference travel support&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;career-focus&#34;&gt;Career Focus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;University faculty positions&lt;/li&gt;
+&lt;li&gt;Government research agencies&lt;/li&gt;
+&lt;li&gt;Private sector R&amp;amp;D roles&lt;/li&gt;
+&lt;li&gt;Environmental consulting leadership&lt;/li&gt;
+&lt;li&gt;Policy research institutions&lt;/li&gt;
+&lt;li&gt;International organizations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;professional-development.jpg&#34; alt=&#34;Professional Development&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;PhD students engage in cutting-edge research and professional development opportunities&lt;/em&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;guidance-for-applying-to-naus-graduate-school-to-pursue-an-advanced-degrees-in-ses&#34;&gt;Guidance for applying to NAU’s graduate school to pursue an advanced degrees in SES&lt;/h1&gt;
+&lt;p&gt;First, if you plan to apply to a thesis-based program (ESP MS, GLG MS, and ESES PhD), &lt;a href=&#34;https://ses-nau.org/faculty-profiles/&#34;&gt;get to know our faculty&lt;/a&gt; and &lt;a href=&#34;https://ses-nau.org/grad-opportunites&#34;&gt;review current opportunities for students&lt;/a&gt;. &lt;strong&gt;It is very important that you reach out to faculty members you would be interested in working with before you apply&lt;/strong&gt;. Faculty expect to receive emails from prospective students and will be happy to hear from you about your specific interests. They can also tell you more about their research and if they have space available in their labs.&lt;/p&gt;
+&lt;p&gt;Second, entry into any SES Graduate Program requires an online application through the Office of Graduate and Professional Studies. A completed application for admission will include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An online application for admission to the NAU Office of Graduate and Professional Studies, with the required application fee;&lt;/li&gt;
+&lt;li&gt;Transcripts of all undergraduate and graduate course work;&lt;/li&gt;
+&lt;li&gt;Three letters of recommendation from academic or professional supervisors (download the referee form from the online application);&lt;/li&gt;
+&lt;li&gt;A statement of your interests and goals, and your reasons for pursuing an advanced degree;&lt;/li&gt;
+&lt;li&gt;(For all thesis-based programs – ESP MS, GLG MS, and ESES PhD) names of the faculty advisor(s) you have been in contact with and would like to work with;&lt;/li&gt;
+&lt;li&gt;Submission by the January 1st application deadline.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:SES.Admin@nau.edu&#34;&gt;SES.Admin@nau.edu&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Phone:&lt;/strong&gt; 928-523-9333&lt;br&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Room A108, Building 11, Ashurst, NAU Flagstaff Campus&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Graduate Program Coordinator:&lt;/strong&gt; Contact for specific program information and application guidance&lt;/p&gt;
+&lt;div class=&#34;text-center my-4&#34;&gt;
+  &lt;a href=&#34;https://nau.edu/apply/&#34; class=&#34;btn btn-success btn-lg&#34; target=&#34;_blank&#34;&gt;Apply to NAU&lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Degree Programs</title>
+      <link>https://ses-nau.org/student-opportunities/undergraduate-degrees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ses-nau.org/student-opportunities/undergraduate-degrees/</guid>
+      <description>&lt;h2 id=&#34;undergraduate-degree-programs&#34;&gt;Undergraduate Degree Programs&lt;/h2&gt;
+&lt;p&gt;The School of Earth and Sustainability offers five undergraduate degree programs designed to provide students with comprehensive knowledge and hands-on experience in earth sciences, environmental science, and sustainability studies.&lt;/p&gt;
+&lt;h2 id=&#34;geology-bachelor-of-science-bs&#34;&gt;Geology Bachelor of Science (BS)&lt;/h2&gt;
+&lt;div class=&#34;card&#34;&gt;
+  &lt;div class=&#34;card-header&#34; id=&#34;geologyBSHeader&#34;&gt;
+    &lt;h5 class=&#34;mb-0&#34;&gt;
+      &lt;button class=&#34;btn btn-link btn-block text-left&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#geologyBSCollapse&#34; aria-expanded=&#34;true&#34; aria-controls=&#34;geologyBSCollapse&#34;&gt;
+        &lt;i class=&#34;fas fa-chevron-down&#34;&gt;&lt;/i&gt; View Program Details
+      &lt;/button&gt;
+    &lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div id=&#34;geologyBSCollapse&#34; class=&#34;collapse show&#34; aria-labelledby=&#34;geologyBSHeader&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
+&lt;h3 id=&#34;program-overview&#34;&gt;Program Overview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Total Units:&lt;/strong&gt; 120&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Major Requirements:&lt;/strong&gt; 70-72 units&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Minimum GPA:&lt;/strong&gt; 2.5 for major courses&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;Develops interdisciplinary knowledge to understand the physical and biological history of the Earth. This program emphasizes field and laboratory experiences that prepare students for professional careers in geology.&lt;/p&gt;
+&lt;h3 id=&#34;key-features&#34;&gt;Key Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Extensive field and laboratory experiences&lt;/li&gt;
+&lt;li&gt;Preparation for potential professional licensure&lt;/li&gt;
+&lt;li&gt;Strong foundation in earth sciences&lt;/li&gt;
+&lt;li&gt;Individual research opportunities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;geology-capstone.jpg&#34; alt=&#34;Field Experience&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Students conducting hands-on geological fieldwork and research projects&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;career-outcomes&#34;&gt;Career Outcomes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Professional geologist careers with potential for licensure&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Environmental consulting&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Natural resource exploration&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Government agencies (USGS, state geological surveys)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Graduate school preparation&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;environmental-sciences-bachelor-of-science-bs&#34;&gt;Environmental Sciences Bachelor of Science (BS)&lt;/h2&gt;
+&lt;div class=&#34;card&#34;&gt;
+  &lt;div class=&#34;card-header&#34; id=&#34;envSciBSHeader&#34;&gt;
+    &lt;h5 class=&#34;mb-0&#34;&gt;
+      &lt;button class=&#34;btn btn-link btn-block text-left collapsed&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#envSciBSCollapse&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;envSciBSCollapse&#34;&gt;
+        &lt;i class=&#34;fas fa-chevron-down&#34;&gt;&lt;/i&gt; View Program Details
+      &lt;/button&gt;
+    &lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div id=&#34;envSciBSCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;envSciBSHeader&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
+&lt;h3 id=&#34;program-overview-1&#34;&gt;Program Overview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Total Units:&lt;/strong&gt; 120&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Minimum GPA:&lt;/strong&gt; 2.0&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multiple Emphasis Areas Available&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;description-1&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;Interdisciplinary degree exploring environmental problems and solutions through scientific approaches. Students gain hands-on learning experiences and can specialize in various emphasis areas.&lt;/p&gt;
+&lt;h3 id=&#34;emphasis-areas&#34;&gt;Emphasis Areas&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Environmental Geology&lt;/li&gt;
+&lt;li&gt;Applied Statistics&lt;/li&gt;
+&lt;li&gt;Environmental Administration and Policy&lt;/li&gt;
+&lt;li&gt;Biology&lt;/li&gt;
+&lt;li&gt;Chemistry&lt;/li&gt;
+&lt;li&gt;Climate&lt;/li&gt;
+&lt;li&gt;Environmental Communication&lt;/li&gt;
+&lt;li&gt;Environmental Management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;career-outcomes-1&#34;&gt;Career Outcomes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Environmental consulting firms&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Government environmental agencies&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Non-profit environmental organizations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Graduate programs in environmental fields&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Corporate sustainability positions&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;environmental-and-sustainability-studies-bachelor-of-arts-ba&#34;&gt;Environmental and Sustainability Studies Bachelor of Arts (BA)&lt;/h2&gt;
+&lt;div class=&#34;card&#34;&gt;
+  &lt;div class=&#34;card-header&#34; id=&#34;essBAHeader&#34;&gt;
+    &lt;h5 class=&#34;mb-0&#34;&gt;
+      &lt;button class=&#34;btn btn-link btn-block text-left collapsed&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#essBACollapse&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;essBACollapse&#34;&gt;
+        &lt;i class=&#34;fas fa-chevron-down&#34;&gt;&lt;/i&gt; View Program Details
+      &lt;/button&gt;
+    &lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div id=&#34;essBACollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;essBAHeader&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
+&lt;h3 id=&#34;program-overview-2&#34;&gt;Program Overview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Total Units:&lt;/strong&gt; 120&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Major Requirements:&lt;/strong&gt; 57 units&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Foreign Language:&lt;/strong&gt; 16 units required&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;description-2&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;Integrates natural sciences, social sciences, and humanities to address complex environmental and sustainability challenges. This program takes a holistic approach to environmental problem-solving.&lt;/p&gt;
+&lt;h3 id=&#34;special-programs&#34;&gt;Special Programs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Optional accelerated 4+1 graduate programs&lt;/li&gt;
+&lt;li&gt;Potential Bachelor/Juris Doctor 3+3 program&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;career-focus&#34;&gt;Career Focus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Non-profit organizations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Government agencies&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Community organizations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Environmental education&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Policy and advocacy roles&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;environmental-and-sustainability-studies-bachelor-of-science-bs&#34;&gt;Environmental and Sustainability Studies Bachelor of Science (BS)&lt;/h2&gt;
+&lt;div class=&#34;card&#34;&gt;
+  &lt;div class=&#34;card-header&#34; id=&#34;essBSHeader&#34;&gt;
+    &lt;h5 class=&#34;mb-0&#34;&gt;
+      &lt;button class=&#34;btn btn-link btn-block text-left collapsed&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#essBSCollapse&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;essBSCollapse&#34;&gt;
+        &lt;i class=&#34;fas fa-chevron-down&#34;&gt;&lt;/i&gt; View Program Details
+      &lt;/button&gt;
+    &lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div id=&#34;essBSCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;essBSHeader&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
+&lt;h3 id=&#34;program-overview-3&#34;&gt;Program Overview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Total Units:&lt;/strong&gt; 120&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Major Requirements:&lt;/strong&gt; 63-64 units&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Minimum Major GPA:&lt;/strong&gt; 2.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;description-3&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;Focuses on real-world solutions to environmental and sustainability challenges with a stronger emphasis on scientific and technical approaches compared to the BA program.&lt;/p&gt;
+&lt;h3 id=&#34;accelerated-options&#34;&gt;Accelerated Options&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;4+1 MA in Sustainable Communities&lt;/li&gt;
+&lt;li&gt;4+1 MS in Climate Science &amp;amp; Solutions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;career-paths&#34;&gt;Career Paths&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Non-profit organizations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Government agencies&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Community action organizations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Environmental consulting&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sustainable business practices&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;earth-science-bachelor-of-science-in-education-bsed&#34;&gt;Earth Science Bachelor of Science in Education (BSED)&lt;/h2&gt;
+&lt;div class=&#34;card&#34;&gt;
+  &lt;div class=&#34;card-header&#34; id=&#34;bsedHeader&#34;&gt;
+    &lt;h5 class=&#34;mb-0&#34;&gt;
+      &lt;button class=&#34;btn btn-link btn-block text-left collapsed&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#bsedCollapse&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;bsedCollapse&#34;&gt;
+        &lt;i class=&#34;fas fa-chevron-down&#34;&gt;&lt;/i&gt; View Program Details
+      &lt;/button&gt;
+    &lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div id=&#34;bsedCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;bsedHeader&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
+&lt;h3 id=&#34;program-overview-4&#34;&gt;Program Overview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Total Units:&lt;/strong&gt; 120&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Major Units:&lt;/strong&gt; 99 units&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Minimum GPA:&lt;/strong&gt; 2.5&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;description-4&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;Prepares students to teach Earth sciences in grades 6-12. This program combines strong scientific content knowledge with pedagogical training for effective science teaching.&lt;/p&gt;
+&lt;h3 id=&#34;certification&#34;&gt;Certification&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Arizona teaching certification&lt;/li&gt;
+&lt;li&gt;Nationally recognized by NSTA (National Science Teachers Association)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;requirements&#34;&gt;Requirements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Minimum 2.5 GPA&lt;/li&gt;
+&lt;li&gt;Complete TSM 101 with &amp;ldquo;C&amp;rdquo; or better&lt;/li&gt;
+&lt;li&gt;Student teaching experience&lt;/li&gt;
+&lt;li&gt;Pass required certification exams&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;career-outcome&#34;&gt;Career Outcome&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Secondary science teacher certification&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Educational leadership opportunities&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Science curriculum development&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Educational outreach programs&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;application-information&#34;&gt;Application Information&lt;/h2&gt;
+&lt;h3 id=&#34;admission-requirements&#34;&gt;Admission Requirements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;High school diploma or equivalent&lt;/li&gt;
+&lt;li&gt;Satisfactory SAT or ACT scores&lt;/li&gt;
+&lt;li&gt;Completed application to Northern Arizona University&lt;/li&gt;
+&lt;li&gt;Official transcripts from all previous institutions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;student-support-services&#34;&gt;Student Support Services&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Professional academic advisors&lt;/li&gt;
+&lt;li&gt;Faculty mentorship programs&lt;/li&gt;
+&lt;li&gt;Career counseling services&lt;/li&gt;
+&lt;li&gt;Graduate school preparation guidance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:SES.Admin@nau.edu&#34;&gt;SES.Admin@nau.edu&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Phone:&lt;/strong&gt; 928-523-9333&lt;br&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Room A108, Building 11, Ashurst, NAU Flagstaff Campus&lt;/p&gt;
+&lt;div class=&#34;text-center my-4&#34;&gt;
+  &lt;a href=&#34;https://nau.edu/apply/&#34; class=&#34;btn btn-success btn-lg&#34; target=&#34;_blank&#34;&gt;Apply to NAU&lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
