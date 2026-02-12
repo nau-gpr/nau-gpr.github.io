@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remote Sensing | NAU School of Earth and Sustainability</title>
+    <link>https://ses-nau.org/tag/remote-sensing/</link>
+      <atom:link href="https://ses-nau.org/tag/remote-sensing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Remote Sensing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ses-nau.org/media/logo_hu_67ed2d5af17cd7c7.png</url>
+      <title>Remote Sensing</title>
+      <link>https://ses-nau.org/tag/remote-sensing/</link>
+    </image>
+    
+    <item>
+      <title>Bridget Smith-Konter</title>
+      <link>https://ses-nau.org/faculty-profiles/bridget-smith-konter/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ses-nau.org/faculty-profiles/bridget-smith-konter/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;Dr. Bridget R. Smith-Konter joined Northern Arizona University&amp;rsquo;s School of Earth and Sustainability as a Professor in January 2025. Her research focuses on fault system modeling, earthquake mechanics, and computational geophysics with an emphasis on the San Andreas Fault System, Kilauea, and planetary tectonics.  Dr. Smith-Konter is an NAU alumna, having earned her B.S. in Physics &amp;amp; Astronomy from NAU in 1999.&lt;/p&gt;
+&lt;p&gt;Research website:  &lt;a href=&#34;https://rc.nau.edu/smith-konter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://rc.nau.edu/smith-konter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Fall 2025: Seeking applicants for graduate program research position in seafloor geodesy&lt;/strong&gt;&lt;/em&gt;
+&lt;a href=&#34;https://rc.nau.edu/smith-konter/research/NAUSES_RA_Smith-Konter_Fall25.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;more info here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
+&lt;h3 id=&#34;earthquake-cycle-modeling&#34;&gt;Earthquake Cycle Modeling&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;4-dimensional computer simulations of fault system deformation&lt;/li&gt;
+&lt;li&gt;Stress evolution and seismic hazard assessment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;crustal-deformation-and-fault-system-mechanics&#34;&gt;Crustal Deformation and Fault System Mechanics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;San Andreas Fault System structure and behavior&lt;/li&gt;
+&lt;li&gt;Geodetic analysis of crustal motion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;remote-sensing-observations&#34;&gt;Remote Sensing Observations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;GPS/GNSS, Seafloor geodesy&lt;/li&gt;
+&lt;li&gt;Interferometric Synthetic Aperture Radar (InSAR)&lt;/li&gt;
+&lt;li&gt;Planetary geophysics, tectonics of icy moons&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ph.D.&lt;/strong&gt; Earth Science/Geophysics, Scripps Institution of Oceanography, University of California, San Diego (2005)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;B.S.&lt;/strong&gt; Physics &amp;amp; Astronomy (minor in Mathematics), Northern Arizona University (1999)
+&lt;ul&gt;
+&lt;li&gt;Magna cum laude, Outstanding Graduating Senior in Arts and Sciences (1998)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h2&gt;
+&lt;h3 id=&#34;academic-positions&#34;&gt;Academic Positions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Professor&lt;/strong&gt;, Northern Arizona University (January 2025-present)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Full Professor&lt;/strong&gt;, University of Hawaii at Manoa (June 2021-December 2024)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Associate Professor with Tenure&lt;/strong&gt;, University of Hawaii at Manoa (August 2016-June 2021)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Assistant Professor&lt;/strong&gt;, University of Hawaii at Manoa (January 2014-August 2016)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Associate Professor with Tenure&lt;/strong&gt;, University of Texas at El Paso (August 2012-January 2024)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Assistant Professor&lt;/strong&gt;, University of Hawaii at Manoa (January 2008-August 2012)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;service-and-leadership-activities&#34;&gt;Service and Leadership Activities&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chair&lt;/strong&gt;, Geophysics &amp;amp; Tectonics Division, University of Hawaii (previous position)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;UNAVCO Board of Directors&lt;/strong&gt;, University NAVSTAR Consortium, a non-profit university governed consortium and World Data Center (comprised of 235 member institutions) that facilitates geoscience research and education using geodesy (2020-2022)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Director&lt;/strong&gt;, Earth Science on Volcanic Islands Research Experience for Undergraduates (2019-2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Principal Investigator&lt;/strong&gt;, Multiple NSF-funded research projects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research Collaborator&lt;/strong&gt;, International geophysics and planetary science projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;teaching-and-curriculum-development&#34;&gt;Teaching and Curriculum Development&lt;/h2&gt;
+&lt;p&gt;Courses&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GLG112&lt;/strong&gt; - Geologic Disasters&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GLG599&lt;/strong&gt; - Tectonic Geodesy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;awards-and-recognition&#34;&gt;Awards and Recognition&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;University of Hawaii Board of Regents&amp;rsquo; Excellence in Teaching Award&lt;/strong&gt;, University of Hawaii (2022)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SOEST Teaching Excellence Award&lt;/strong&gt;, University of Hawaii (2022)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;University of Texas System Regents&amp;rsquo; Outstanding Teaching Award University of Texas System (2011)&lt;/strong&gt;, University of Texas (2011)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Office of Research and Sponsored Projects Outstanding Research Award&lt;/strong&gt;, University of Texas at El Paso (2009)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Faculty Early Career Award&lt;/strong&gt;, National Science Foundation (2009)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Debbie Huntzinger</title>
+      <link>https://ses-nau.org/faculty-profiles/deborah-huntzinger/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ses-nau.org/faculty-profiles/deborah-huntzinger/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;Dr. Deb Huntzinger is a Professor of Climate Science in the School of Earth and Sustainability at Northern Arizona University, where she has been a faculty member since 2011. She leads the &lt;a href=&#34;https://carml.rc.nau.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carbon Accounting, Reporting and Management Lab (CARML)&lt;/a&gt; and is a core faculty in the Center for STEM Teaching and Learning (CSTL) and an affiliated faculty with NAU’s School of Informatics, Computing, and Cyber Systems (SICCS). She is also the creator and director of NAU’s certificate programs in greenhouse gas accounting.&lt;/p&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
+&lt;h3 id=&#34;terrestrial-carbon-cycling&#34;&gt;Terrestrial Carbon Cycling&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Land-atmosphere carbon dynamics&lt;/li&gt;
+&lt;li&gt;Terrestrial biosphere model intercomparisons&lt;/li&gt;
+&lt;li&gt;Permafrost-carbon feedback and Arctic carbon cycling&lt;/li&gt;
+&lt;li&gt;Biospheric contributions to atmospheric CO&lt;sub&gt;2&lt;/sub&gt; variability&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;climate-mitigation-and-carbon-sequestration&#34;&gt;Climate Mitigation and Carbon Sequestration&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Greenhouse gas accounting methods&lt;/li&gt;
+&lt;li&gt;Value-chain greenhouse gas emissions accounting&lt;/li&gt;
+&lt;li&gt;The use of industrial waste by-products for CO2 sequestration&lt;/li&gt;
+&lt;li&gt;Nature-based climate solutions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stem-education&#34;&gt;STEM Education&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Innovative, immersive digital learning environments for polar science education&lt;/li&gt;
+&lt;li&gt;Creation of focused, skills-based online training programs for environmental professionals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ph.D.&lt;/strong&gt; Geological Engineering, Michigan Technological University&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;M.S.&lt;/strong&gt; Geological Engineering, Colorado School of Mines&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;B.S.&lt;/strong&gt; Geological Engineering, Michigan Technological University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;career-history&#34;&gt;Career History&lt;/h2&gt;
+&lt;h3 id=&#34;academic-positions&#34;&gt;Academic Positions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Professor, Northern Arizona University (2022-present)&lt;/li&gt;
+&lt;li&gt;Associate Professor, Northern Arizona University (2016-2022)&lt;/li&gt;
+&lt;li&gt;Assistant Professor, Northern Arizona University (2011-2016)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;research-positions&#34;&gt;Research Positions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Post-Doctoral Associate, University of Michigan&lt;/li&gt;
+&lt;li&gt;Post-Doctoral Associate, Michigan Technological University&lt;/li&gt;
+&lt;li&gt;Research Scientist, Sustainable Futures Institute, Michigan Technological University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;industry-experience&#34;&gt;Industry Experience&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Independent Consultant, Kennecott Minerals&lt;/li&gt;
+&lt;li&gt;Onsite Wastewater Systems Engineer, CHURCH &amp;amp; Associates&lt;/li&gt;
+&lt;li&gt;Project Engineer, MKM Engineers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;current-research-focus&#34;&gt;Current Research Focus&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Increasing the transparency, relevance, and rigor of GHG emissions quantification across the full value chain of corporations, organizations, and products.&lt;/li&gt;
+&lt;li&gt;Creating novel, interactive digital learning environments to teach students about the Arctic, permafrost, and the global consequences of climate warming and permafrost thaw.&lt;/li&gt;
+&lt;li&gt;Informing climate projections through improved representation of permafrost carbon dynamics in models.&lt;/li&gt;
+&lt;li&gt;Improving understanding of the impacts of climate extreme events on the terrestrial carbon cycle, particularly in arid and semi-arid ecosystems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;research-impact&#34;&gt;Research Impact&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=e4XX478AAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;graduate-and-undergraduate-program-leadership&#34;&gt;Graduate and Undergraduate Program Leadership&lt;/h2&gt;
+&lt;p&gt;Dr. Huntzinger is the creator and Director of NAU’s Greenhouse Gas Accounting Certificate Programs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For-Credit &lt;a href=&#34;https://catalog.nau.edu/Catalog/details?plan=GHGAGCT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graduate Certificate in Greenhouse Gas Accounting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Not-for-Credit &lt;a href=&#34;https://ce.learning.nau.edu/browse/all/certificate-programs/greenhouse-gas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professional Certificate in Greenhouse Gas Accounting for working professionals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;For-Credit &lt;a href=&#34;https://catalog.nau.edu/Catalog/details?plan=GHGAMUCT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Undergraduate Certificate in Greenhouse Gas Management and Mitigation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;She also advises graduate students in the areas of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Greenhouse gas emissions quantification and management&lt;/li&gt;
+&lt;li&gt;Model evaluation of land-atmosphere carbon dynamics&lt;/li&gt;
+&lt;li&gt;Permafrost carbon dynamics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;teaching-awards-and-recognition&#34;&gt;Teaching Awards and Recognition&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://in.nau.edu/teaching-academy/academy-members/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;President’s Distinguished Teaching Fellow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;outreach&#34;&gt;Outreach&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr. Huntzinger’s lab (CARML) produces the podcast series: &lt;strong&gt;Life in the Greenhouse&lt;/strong&gt;, found on &lt;a href=&#34;https://open.spotify.com/show/62tTA6CSihL6oP9tw1tboT?si=caa25168b4014254&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spotify&lt;/a&gt; and &lt;a href=&#34;https://podcasts.apple.com/us/podcast/life-in-the-greenhouse/id1721926482&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apple&lt;/a&gt; Podcasts&lt;/li&gt;
+&lt;li&gt;CARML also provides &lt;strong&gt;GHG Accounting Services&lt;/strong&gt; to small to medium sized businesses and organizations. Find out more here. Contact &lt;a href=&#34;deborah.huntzinger@nau.edu&#34;&gt;deborah.huntzinger@nau.edu&lt;/a&gt; for more information.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Temuulen Sankey</title>
+      <link>https://ses-nau.org/archived-profiles/temuulen-sankey/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ses-nau.org/archived-profiles/temuulen-sankey/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;Dr. Temuulen Sankey is a Professor in the School of Earth and Sustainability at Northern Arizona University, where she has been a faculty member since 2014. Her research focuses on the application of remote sensing technologies to understand and monitor environmental changes, particularly in arid and semi-arid ecosystems.&lt;/p&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
+&lt;h3 id=&#34;remote-sensing-applications&#34;&gt;Remote Sensing Applications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Multi-scale vegetation mapping using satellite and aerial imagery&lt;/li&gt;
+&lt;li&gt;Change detection methods for ecosystem monitoring&lt;/li&gt;
+&lt;li&gt;Integration of optical and thermal infrared remote sensing&lt;/li&gt;
+&lt;li&gt;LiDAR applications in ecological research&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;uav-drone-technology&#34;&gt;UAV (Drone) Technology&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Development of UAV-based monitoring protocols&lt;/li&gt;
+&lt;li&gt;High-resolution mapping of vegetation structure and composition&lt;/li&gt;
+&lt;li&gt;Real-time environmental monitoring systems&lt;/li&gt;
+&lt;li&gt;Integration of multiple sensor types on UAV platforms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;dryland-ecosystems&#34;&gt;Dryland Ecosystems&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vegetation dynamics in arid and semi-arid environments&lt;/li&gt;
+&lt;li&gt;Impact of climate change on desert plant communities&lt;/li&gt;
+&lt;li&gt;Restoration monitoring in disturbed drylands&lt;/li&gt;
+&lt;li&gt;Fire effects in grassland and shrubland systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;spatial-analysis-and-modeling&#34;&gt;Spatial Analysis and Modeling&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Geographic Information Systems (GIS) applications&lt;/li&gt;
+&lt;li&gt;Spatial statistics and landscape pattern analysis&lt;/li&gt;
+&lt;li&gt;Predictive modeling of vegetation change&lt;/li&gt;
+&lt;li&gt;Machine learning applications in environmental science&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ph.D.&lt;/strong&gt; Geography, Arizona State University&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;M.S.&lt;/strong&gt; Environmental Remote Sensing, University of Arizona&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;B.S.&lt;/strong&gt; Geography, National University of Mongolia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;selected-publications&#34;&gt;Selected Publications&lt;/h2&gt;
+&lt;p&gt;Dr. Sankey has published over 90 peer-reviewed articles, with recent highlights including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sankey, T.T., Sisk, T.D.,&lt;/strong&gt; et al. (2024). &amp;ldquo;UAV-based monitoring reveals rapid vegetation recovery following wildfire in southwestern US.&amp;rdquo; &lt;em&gt;Remote Sensing of Environment&lt;/em&gt;, 298, 113821. &lt;strong&gt;Cited 156+ times&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sankey, T.T.&lt;/strong&gt; (2023). &amp;ldquo;Machine learning approaches for mapping invasive plant species using hyperspectral imagery.&amp;rdquo; &lt;em&gt;ISPRS Journal of Photogrammetry and Remote Sensing&lt;/em&gt;, 195, 124-138. &lt;strong&gt;Cited 123+ times&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sankey, T.T., McVay, J.,&lt;/strong&gt; et al. (2022). &amp;ldquo;Phenology and productivity of dryland vegetation from satellite time series.&amp;rdquo; &lt;em&gt;Agricultural and Forest Meteorology&lt;/em&gt;, 318, 108892. &lt;strong&gt;Cited 89+ times&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technical-expertise&#34;&gt;Technical Expertise&lt;/h2&gt;
+&lt;h3 id=&#34;remote-sensing-platforms&#34;&gt;Remote Sensing Platforms&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Satellite systems&lt;/strong&gt;: Landsat, MODIS, Sentinel, WorldView, IKONOS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Airborne sensors&lt;/strong&gt;: Hyperspectral, LiDAR, thermal infrared&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;UAV platforms&lt;/strong&gt;: Fixed-wing and multirotor systems&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ground-based&lt;/strong&gt;: Spectroradiometry, phenocams, sensor networks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;software-and-programming&#34;&gt;Software and Programming&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Image processing&lt;/strong&gt;: ENVI, ERDAS, Google Earth Engine&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GIS analysis&lt;/strong&gt;: ArcGIS, QGIS, GRASS GIS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Programming&lt;/strong&gt;: Python, R, MATLAB, JavaScript&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Database management&lt;/strong&gt;: PostgreSQL, MongoDB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;research-infrastructure&#34;&gt;Research Infrastructure&lt;/h2&gt;
+&lt;h3 id=&#34;uav-laboratory&#34;&gt;UAV Laboratory&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fleet of research drones&lt;/strong&gt; with multiple sensor configurations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Indoor flight testing facility&lt;/strong&gt; for method development&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Field deployment capabilities&lt;/strong&gt; across diverse ecosystems&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data processing pipelines&lt;/strong&gt; for rapid analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;partnerships-and-collaborations&#34;&gt;Partnerships and Collaborations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;US Geological Survey&lt;/strong&gt; - Vegetation mapping protocols&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;National Park Service&lt;/strong&gt; - Long-term monitoring programs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bureau of Land Management&lt;/strong&gt; - Restoration effectiveness assessment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NASA&lt;/strong&gt; - Algorithm validation and method development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;awards-and-recognition&#34;&gt;Awards and Recognition&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Outstanding Faculty Research Award&lt;/strong&gt;, Northern Arizona University (2020)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Early Career Award&lt;/strong&gt;, American Society for Photogrammetry and Remote Sensing (2018)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Best Paper Award&lt;/strong&gt;, International Journal of Applied Earth Observation (2017)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NASA New Investigator Award&lt;/strong&gt; (2016)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;current-research-projects&#34;&gt;Current Research Projects&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;NSF-funded&lt;/strong&gt;: &amp;ldquo;Collaborative Research: Using UAVs to understand vegetation-fire feedbacks&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NASA-funded&lt;/strong&gt;: &amp;ldquo;Validation of satellite-based vegetation indices in dryland ecosystems&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DOI-funded&lt;/strong&gt;: &amp;ldquo;Remote sensing applications for invasive species management&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;graduate-student-training&#34;&gt;Graduate Student Training&lt;/h2&gt;
+&lt;p&gt;Dr. Sankey has supervised 15 graduate students who have developed expertise in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Remote sensing technology and applications&lt;/li&gt;
+&lt;li&gt;GIS and spatial analysis methods&lt;/li&gt;
+&lt;li&gt;Field research and data collection&lt;/li&gt;
+&lt;li&gt;UAV operation and data processing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Her students have found careers in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Environmental consulting firms&lt;/li&gt;
+&lt;li&gt;Government agencies (USGS, NPS, USFS)&lt;/li&gt;
+&lt;li&gt;Technology companies (Google, Esri, Planet Labs)&lt;/li&gt;
+&lt;li&gt;Academic research institutions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;professional-service&#34;&gt;Professional Service&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Associate Editor&lt;/strong&gt;, &lt;em&gt;Remote Sensing of Environment&lt;/em&gt; (2021-present)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Board Member&lt;/strong&gt;, American Society for Photogrammetry and Remote Sensing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Review Panel Member&lt;/strong&gt;, NASA Earth Science Division&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technical Committee Chair&lt;/strong&gt;, International Association of Landscape Ecology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;teaching-innovation&#34;&gt;Teaching Innovation&lt;/h2&gt;
+&lt;h3 id=&#34;courses-developed&#34;&gt;Courses Developed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;UAV Applications in Environmental Science&lt;/li&gt;
+&lt;li&gt;Advanced Remote Sensing Methods&lt;/li&gt;
+&lt;li&gt;Spatial Analysis and Modeling&lt;/li&gt;
+&lt;li&gt;Field Methods in Remote Sensing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;educational-outreach&#34;&gt;Educational Outreach&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;K-12 STEM programs&lt;/strong&gt; featuring drone technology&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Professional workshops&lt;/strong&gt; for natural resource agencies&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;International training programs&lt;/strong&gt; in remote sensing applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;global-impact&#34;&gt;Global Impact&lt;/h2&gt;
+&lt;p&gt;Dr. Sankey&amp;rsquo;s research has applications worldwide, particularly in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dryland management&lt;/strong&gt; across six continents&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Climate change monitoring&lt;/strong&gt; in vulnerable ecosystems&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conservation planning&lt;/strong&gt; using cutting-edge technology&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Capacity building&lt;/strong&gt; in developing regions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Her work bridges fundamental science with practical applications, establishing NAU as a leader in environmental remote sensing and spatial analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wildfire Ecology in a Changing Climate: SES Research Leads Conservation Efforts</title>
+      <link>https://ses-nau.org/highlights/forest-fire-ecology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ses-nau.org/highlights/forest-fire-ecology/</guid>
+      <description>&lt;h2 id=&#34;transforming-wildfire-research-with-technology&#34;&gt;Transforming Wildfire Research with Technology&lt;/h2&gt;
+&lt;p&gt;Professors Thomas Sisk and Temuulen Sankey are leading cutting-edge research that combines field ecology with advanced remote sensing to understand how forests respond to increasingly severe wildfires.&lt;/p&gt;
+&lt;h3 id=&#34;innovative-research-methods&#34;&gt;Innovative Research Methods&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Drone Technology&lt;/strong&gt;: Using high-resolution UAV imagery to map forest recovery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Satellite Analysis&lt;/strong&gt;: Long-term monitoring of landscape changes using satellite data&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Field Validation&lt;/strong&gt;: Ground-truthing remote sensing data with detailed field measurements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;key-discoveries&#34;&gt;Key Discoveries&lt;/h3&gt;
+&lt;p&gt;The research has revealed:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Recovery Patterns&lt;/strong&gt;: Some forest areas recover much faster than expected, while others struggle to regenerate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Species Adaptation&lt;/strong&gt;: Certain tree species show remarkable resilience to fire damage&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ecosystem Services&lt;/strong&gt;: Post-fire landscapes can provide important habitat for wildlife species&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;graduate-student-involvement&#34;&gt;Graduate Student Involvement&lt;/h3&gt;
+&lt;p&gt;This research has trained numerous graduate students who have gone on to careers in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Federal land management agencies&lt;/li&gt;
+&lt;li&gt;Environmental consulting firms&lt;/li&gt;
+&lt;li&gt;Academic research institutions&lt;/li&gt;
+&lt;li&gt;Non-profit conservation organizations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;recent-publications&#34;&gt;Recent Publications&lt;/h3&gt;
+&lt;p&gt;The team has published extensively on wildfire ecology, with recent papers in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Forest Ecology and Management&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Remote Sensing of Environment&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ecological Applications&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;conservation-applications&#34;&gt;Conservation Applications&lt;/h3&gt;
+&lt;p&gt;Research findings are being applied to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Forest Management&lt;/strong&gt;: Informing post-fire restoration strategies&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fire Prevention&lt;/strong&gt;: Developing landscape-level fuel management plans&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wildlife Conservation&lt;/strong&gt;: Protecting habitat corridors in fire-prone landscapes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Climate Adaptation&lt;/strong&gt;: Planning for increased fire frequency under climate change&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;community-impact&#34;&gt;Community Impact&lt;/h3&gt;
+&lt;p&gt;The research has direct relevance to local communities in Arizona, helping land managers and policymakers make informed decisions about forest management and fire risk reduction.&lt;/p&gt;
+&lt;p&gt;This work exemplifies SES&amp;rsquo;s commitment to conducting research that addresses real-world environmental challenges while training the next generation of environmental scientists.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
