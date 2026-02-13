@@ -1,3 +1,21 @@
 User-agent: *
+Allow: /
 
+# Sitemap
 Sitemap: https://ses-nau.org/sitemap.xml
+
+# Disallow search result pages and admin areas
+Disallow: /admin/
+Disallow: /search/
+Disallow: /*.json$
+Disallow: /*.xml$
+
+# Allow common crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /

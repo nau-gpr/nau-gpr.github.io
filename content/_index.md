@@ -1,16 +1,16 @@
 ---
-title: "School of Earth and Sustainability | Northern Arizona University"
-summary: "Leading research and education in earth sciences, environmental sustainability, geology, climate science, and conservation at NAU. Graduate and undergraduate programs, faculty research, and student opportunities."
+title: "NAU GPR"
+summary: "Building Better Communities…Building a Better World!"
 type: landing
 
 sections:
   - block: hero
     content:
-      title: "School of Earth and Sustainability"
+      title: "Department of Geography, Planning, and Recreation"
       text: |
         ## Northern Arizona University
         
-        We are dedicated to understanding Earth's complex systems and fostering sustainable solutions for our planet's future. Through innovative research, hands-on education, and community engagement, we prepare the next generation of Earth scientists and sustainability leaders.
+        Become a part of the department and contribute to our goal of “Building Better Communities…Building a Better World!”.
       image:
         filename: home.jpg
     design:

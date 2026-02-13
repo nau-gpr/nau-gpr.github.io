@@ -5,13 +5,13 @@
     <loc>https://ses-nau.org/faculty/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ses-nau.org/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ses-nau.org/analytics/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ses-nau.org/research/</loc>
-    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ses-nau.org/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ses-nau.org/students/</loc>
@@ -86,6 +86,9 @@
     <loc>https://ses-nau.org/tag/agroecology/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ses-nau.org/tag/alluvial-chronology/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ses-nau.org/tag/aquatic-ecosystems/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -99,6 +102,9 @@
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ses-nau.org/tag/arctic-research/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ses-nau.org/tag/arid-land-river-systems/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ses-nau.org/tag/atmospheric-science/</loc>
@@ -120,6 +126,9 @@
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ses-nau.org/faculty-profiles/bridget-smith-konter/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ses-nau.org/tag/captive-breeding-and-husbandry/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ses-nau.org/tag/carbon-cycle/</loc>
@@ -275,10 +284,10 @@
     <loc>https://ses-nau.org/tag/dryland-ecosystems/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ses-nau.org/archived-profiles/duan-biggs/</loc>
+    <loc>https://ses-nau.org/author/duan-biggs/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ses-nau.org/author/duan-biggs/</loc>
+    <loc>https://ses-nau.org/faculty-profiles/duan-biggs/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ses-nau.org/tag/earthquake-geology/</loc>
@@ -326,9 +335,6 @@
     <loc>https://ses-nau.org/tag/environmental-economics/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ses-nau.org/tag/environmental-flows/</loc>
-    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ses-nau.org/tag/environmental-geochemistry/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -359,10 +365,10 @@
     <loc>https://ses-nau.org/faculty-profiles/erik-nielsen/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ses-nau.org/archived-profiles/erika-nowak/</loc>
+    <loc>https://ses-nau.org/author/erika-nowak/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ses-nau.org/author/erika-nowak/</loc>
+    <loc>https://ses-nau.org/faculty-profiles/erika-nowak/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ses-nau.org/tag/experiential-education/</loc>
@@ -458,6 +464,9 @@
     <loc>https://ses-nau.org/tag/human-wildlife-coexistence/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ses-nau.org/tag/humid-tropical-river-systems/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ses-nau.org/tag/hydrogeology/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -530,10 +539,10 @@
     <loc>https://ses-nau.org/tag/landscape-ecology/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ses-nau.org/archived-profiles/laura-wasylenki/</loc>
+    <loc>https://ses-nau.org/author/laura-wasylenki/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ses-nau.org/author/laura-wasylenki/</loc>
+    <loc>https://ses-nau.org/faculty-profiles/laura-wasylenki/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ses-nau.org/tag/lithosphere-evolution/</loc>
@@ -620,9 +629,6 @@
     <loc>https://ses-nau.org/tag/nonmarket-valuation/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ses-nau.org/tag/oceanography/</loc>
-    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ses-nau.org/tag/orbital-forcing/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -701,7 +707,7 @@
     <loc>https://ses-nau.org/tag/population-ecology/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ses-nau.org/tag/post-wildfire-floods/</loc>
+    <loc>https://ses-nau.org/tag/post-wildfire-debris-flows/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ses-nau.org/author/pranay-ranjan/</loc>
@@ -866,10 +872,10 @@
     <loc>https://ses-nau.org/tag/symbiosis/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ses-nau.org/archived-profiles/taylor-joyal/</loc>
+    <loc>https://ses-nau.org/author/taylor-joyal/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ses-nau.org/author/taylor-joyal/</loc>
+    <loc>https://ses-nau.org/faculty-profiles/taylor-joyal/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ses-nau.org/tag/tectonic-geomorphology/</loc>
@@ -906,9 +912,6 @@
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ses-nau.org/tag/traditional-ecological-knowledge/</loc>
-    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ses-nau.org/tag/transform-boundaries/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ses-nau.org/tag/transformative-learning/</loc>
