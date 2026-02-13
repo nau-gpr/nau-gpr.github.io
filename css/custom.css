@@ -141,6 +141,8 @@ h1 + .article-metadata,
   display: none !important;
 }
 
+.hero-title { font-size: 36pt; }
+
 /* Additional comprehensive date hiding selectors */
 .article-container .article-metadata,
 .page-body .article-metadata,
