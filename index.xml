@@ -5,7 +5,7 @@
     <link>https://ses-nau.org/</link>
       <atom:link href="https://ses-nau.org/index.xml" rel="self" type="application/rss+xml" />
     <description>NAU GPR</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>NAU GPR</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Faculty Publications</title>
       <link>https://ses-nau.org/faculty/</link>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://ses-nau.org/faculty/</guid>
       <description>&lt;h1 id=&#34;faculty-publications-dashboard&#34;&gt;Faculty Publications Dashboard&lt;/h1&gt;
 &lt;p&gt;The SES faculty have published &lt;strong&gt;1,091&lt;/strong&gt; peer-reviewed articles since 2009, accumulating &lt;strong&gt;71,631&lt;/strong&gt; citations with a collective H-index of &lt;strong&gt;103&lt;/strong&gt;.&lt;/p&gt;
@@ -310,14 +310,14 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Data includes publications from 2009 to 2025. Last updated: February 13, 2026&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Data includes publications from 2009 to 2025. Last updated: February 16, 2026&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Research Analytics</title>
       <link>https://ses-nau.org/analytics/</link>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://ses-nau.org/analytics/</guid>
       <description>&lt;h1 id=&#34;research-analytics-dashboard&#34;&gt;Research Analytics Dashboard&lt;/h1&gt;
 &lt;p&gt;Comprehensive analysis of research trends, collaboration patterns, and impact metrics for the School of Earth and Sustainability.&lt;/p&gt;
@@ -443,14 +443,14 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Analytics generated from 1,092 publications spanning 2009 to 2025. Last updated: February 13, 2026&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Analytics generated from 1,092 publications spanning 2009 to 2025. Last updated: February 16, 2026&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Student Publications</title>
       <link>https://ses-nau.org/students/</link>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://ses-nau.org/students/</guid>
       <description>&lt;h1 id=&#34;student-publications-dashboard&#34;&gt;Student Publications Dashboard&lt;/h1&gt;
 &lt;p&gt;Since 2009, &lt;strong&gt;201&lt;/strong&gt; SES graduate students have published &lt;strong&gt;279&lt;/strong&gt; peer-reviewed articles as co-authors, accumulating &lt;strong&gt;9,338&lt;/strong&gt; total citations.&lt;/p&gt;
@@ -714,7 +714,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Data includes publications from 2009 to 2025. Last updated: February 13, 2026&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Data includes publications from 2009 to 2025. Last updated: February 16, 2026&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
