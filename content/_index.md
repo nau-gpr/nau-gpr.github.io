@@ -12,7 +12,7 @@ sections:
         
         Become a part of the department and contribute to our goal of “Building Better Communities…Building a Better World!”.
       image:
-        filename: home.jpg
+        filename: la_field_trip.jpg
     design:
       background:
         gradient_start: 'rgba(0, 52, 102, 0.7)'

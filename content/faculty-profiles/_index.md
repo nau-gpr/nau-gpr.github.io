@@ -1,6 +1,6 @@
 ---
-title: "Faculty Profiles | NAU School of Earth and Sustainability"
-summary: "Meet our renowned faculty experts in earth sciences, environmental sustainability, geology, climate science, and conservation at Northern Arizona University."
+title: "Faculty Profiles | Department of Geography, Planning & Recreation"
+summary: "Meet our renowned faculty experts in geography, planning, park and recreation, and social and environmental sustainability at Northern Arizona University."
 type: landing
 
 sections:
@@ -10,7 +10,7 @@ sections:
       Meet Our Researchers
     text: |
       <br>
-      Our faculty are world-renowned experts in earth and environmental sciences. Learn about their research interests, recent publications, and contributions to understanding our planet's complex systems.
+      Our faculty are dedicated to student success and applied research to make the world a better place to live. Learn about their research interests, recent publications, and contributions to understanding our social and environmental systems.
     image:
       filename: ses-faculty-group.jpg
 - block: collection
