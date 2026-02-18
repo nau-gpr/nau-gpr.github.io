@@ -10,7 +10,9 @@ sections:
       text: |
         ## Northern Arizona University
         
-        Become a part of the department and contribute to our goal of “Building Better Communities…Building a Better World!”.
+        At NAU’s Department of Geography Planning and Recreation, we design and implement solutions for a changing world. 
+        We prepare students to analyze, plan, and create sustainable spaces that improve lives and support the environment. 
+        Join us to build better communities and build a better world!
       image:
         filename: la_field_trip.jpg
     design:
@@ -23,15 +25,15 @@ sections:
     content:
       title: "Academic Programs"
       items:
-        - name: "Undergraduate Degrees"
-          description: "Comprehensive programs in Geology, Environmental Sciences, and Sustainability Studies preparing students for professional careers."
-          icon: graduation-cap
-          icon_pack: fas
+        - name: "Geography, Environment and Society"
+          description: "Geography is a keystone in understanding the inter-relationships between the earth and humankind. Our department emphasizes careers in human-environment relationships, geospatial technologies (GIS) and community planning."
+          icon: globe /*graduation-cap*/
+          /*icon_pack: fas*/
           link: "/student-opportunities/undergraduate-degrees/"
-        - name: "Graduate Degrees"
-          description: "Advanced research programs including Master's and PhD options in cutting-edge Earth and environmental sciences."
-          icon: university
-          icon_pack: fas
+        - name: "Parks and Recreation Management"
+          description: "Northern Arizona University has been offering Bachelor of Science degrees in Recreation since 1961. We offered our online Parks and Recreation Management (PRM) Certificate in 2001 and the first accredited online Bachelor of Science degree in Parks and Recreation Management in 2003. Additionally, the PRM program has offered a Masters of Science degree in Parks and Recreation since 2018."
+          icon: globe /*university*/
+          /*icon_pack: fas*/
           link: "/student-opportunities/graduate-degrees/"
         - name: "Certificate Programs"
           description: "Specialized training for career advancement in high-demand environmental and sustainability fields."
