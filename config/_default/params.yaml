@@ -17,11 +17,11 @@ marketing:
   seo:
     site_type: EducationalOrganization
     local_business_type: 'University'
-    org_name: 'Northern Arizona University School of Earth and Sustainability'
+    org_name: 'Northern Arizona University Department of Geography, Planning, and Recreation'
     description: 'Leading research and education in earth sciences, environmental sustainability, geology, climate science, and conservation at Northern Arizona University. Graduate and undergraduate programs, faculty research, and student opportunities.'
-    twitter: 'nau_ses'
+    twitter: 'nau_gpr'
   analytics:
-    google_analytics: 'G-1J3WD3SGQN'
+    # google_analytics: 'G-1J3WD3SGQN'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''

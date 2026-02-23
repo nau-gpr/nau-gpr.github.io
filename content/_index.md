@@ -26,20 +26,25 @@ sections:
       title: "Academic Programs"
       items:
         - name: "Geography, Environment and Society"
-          description: "Geography is a keystone in understanding the inter-relationships between the earth and humankind. Our department emphasizes careers in human-environment relationships, geospatial technologies (GIS) and community planning."
+          description: "Geography studies the inter-relationships between the earth and humankind. Our department emphasizes careers in human-environment relationships, geospatial technologies (GIS) and community planning."
           icon: globe /*graduation-cap*/
-          /*icon_pack: fas*/
+          icon_pack: fas
           link: "/student-opportunities/undergraduate-degrees/"
         - name: "Parks and Recreation Management"
-          description: "Northern Arizona University has been offering Bachelor of Science degrees in Recreation since 1961. We offered our online Parks and Recreation Management (PRM) Certificate in 2001 and the first accredited online Bachelor of Science degree in Parks and Recreation Management in 2003. Additionally, the PRM program has offered a Masters of Science degree in Parks and Recreation since 2018."
-          icon: globe /*university*/
-          /*icon_pack: fas*/
+          description: "We offer BS in Recreation, the first accredited online BS degree in Parks and Recreation Management, online Parks and Recreation Management (PRM) Certificate, as well as a MS degree in Parks and Recreation."
+          icon: campground /*university*/
+          icon_pack: fas
           link: "/student-opportunities/graduate-degrees/"
-        - name: "Certificate Programs"
-          description: "Specialized training for career advancement in high-demand environmental and sustainability fields."
-          icon: certificate
+        - name: "Public Safety and Law Enforcement"
+          description: "We are one of only a few nationally accredited programs that provide the training required to work as a seasonal park ranger in law enforcement in the National Park Service."
+          icon: shield-alt /*certificate*/
           icon_pack: fas
           link: "/student-opportunities/"
+        - name: "Sustainable communities"
+          description: "Students study the intersections between human social structures and the natural world, paying attention to the philosophical, ethical, and practical dimensions of such study."
+          icon: leaf
+          icon_pack: fas
+          link: "https://catalog.nau.edu/Catalog/details?plan=SUSCMA"
 
   - block: features
     content:
