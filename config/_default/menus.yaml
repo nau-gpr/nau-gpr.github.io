@@ -7,6 +7,9 @@ main:
   - name: Home
     url: /
     weight: 10
+  - name: Faculty
+    url: faculty-profiles
+    weight: 15
   - name: Research
     url: research
     weight: 20
@@ -35,9 +38,6 @@ main:
     url: about
     parent: Research
     weight: 25
-  - name: Faculty Profiles
-    url: faculty-profiles
-    weight: 30
   - name: Student Opportunities
     url: student-opportunities
     weight: 40
