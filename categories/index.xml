@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | NAU School of Earth and Sustainability</title>
-    <link>https://ses-nau.org/categories/</link>
-      <atom:link href="https://ses-nau.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/categories/</link>
+      <atom:link href="https://nau-gpr.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>Categories</title>
-      <link>https://ses-nau.org/categories/</link>
+      <link>https://nau-gpr.github.io/categories/</link>
     </image>
     
   </channel>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Seismic Imaging | NAU School of Earth and Sustainability</title>
-    <link>https://ses-nau.org/tag/seismic-imaging/</link>
-      <atom:link href="https://ses-nau.org/tag/seismic-imaging/index.xml" rel="self" type="application/rss+xml" />
+    <title>Seismic Imaging | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/tag/seismic-imaging/</link>
+      <atom:link href="https://nau-gpr.github.io/tag/seismic-imaging/index.xml" rel="self" type="application/rss+xml" />
     <description>Seismic Imaging</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>Seismic Imaging</title>
-      <link>https://ses-nau.org/tag/seismic-imaging/</link>
+      <link>https://nau-gpr.github.io/tag/seismic-imaging/</link>
     </image>
     
     <item>
       <title>James Gaherty</title>
-      <link>https://ses-nau.org/faculty-profiles/james-gaherty/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/james-gaherty/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/james-gaherty/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/james-gaherty/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. James B. Gaherty is a Professor of Geophysics in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2020. Dr. Gaherty&amp;rsquo;s research utilizes seismic imaging tools to probe major tectonic processes shaping Earth&amp;rsquo;s surface, combining quantitative seismic analysis with broader geodynamic understanding to address fundamental questions about plate tectonics, mantle dynamics, and surface deformation. His program is very student focused, and he brings extensive experience from major research institutions including Lamont-Doherty Earth Observatory of Columbia University and Georgia Institute of Technology.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;

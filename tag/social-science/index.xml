@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social Science | NAU School of Earth and Sustainability</title>
-    <link>https://ses-nau.org/tag/social-science/</link>
-      <atom:link href="https://ses-nau.org/tag/social-science/index.xml" rel="self" type="application/rss+xml" />
+    <title>Social Science | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/tag/social-science/</link>
+      <atom:link href="https://nau-gpr.github.io/tag/social-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Social Science</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>Social Science</title>
-      <link>https://ses-nau.org/tag/social-science/</link>
+      <link>https://nau-gpr.github.io/tag/social-science/</link>
     </image>
     
     <item>
       <title>Environment &amp; Society</title>
-      <link>https://ses-nau.org/research-themes/environment-society/</link>
+      <link>https://nau-gpr.github.io/research-themes/environment-society/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/research-themes/environment-society/</guid>
+      <guid>https://nau-gpr.github.io/research-themes/environment-society/</guid>
       <description>&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
 &lt;p&gt;Social science and interdisciplinary research on natural resource management and socio-economic policies.&lt;/p&gt;
 &lt;h2 id=&#34;research-areas&#34;&gt;Research Areas&lt;/h2&gt;

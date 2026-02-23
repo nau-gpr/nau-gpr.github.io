@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research Themes | NAU School of Earth and Sustainability</title>
-    <link>https://ses-nau.org/research-themes/</link>
-      <atom:link href="https://ses-nau.org/research-themes/index.xml" rel="self" type="application/rss+xml" />
+    <title>Research Themes | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/research-themes/</link>
+      <atom:link href="https://nau-gpr.github.io/research-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Research Themes</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>Research Themes</title>
-      <link>https://ses-nau.org/research-themes/</link>
+      <link>https://nau-gpr.github.io/research-themes/</link>
     </image>
     
     <item>
       <title>Ecology &amp; Conservation</title>
-      <link>https://ses-nau.org/research-themes/ecology-conservation/</link>
+      <link>https://nau-gpr.github.io/research-themes/ecology-conservation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/research-themes/ecology-conservation/</guid>
+      <guid>https://nau-gpr.github.io/research-themes/ecology-conservation/</guid>
       <description>&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
 &lt;p&gt;SES faculty lead research programs investigating biodiversity, ecosystem function, the ecological impacts of human activities, and strategies for ecosystem conservation and management.&lt;/p&gt;
 &lt;h2 id=&#34;faculty-expertise&#34;&gt;Faculty Expertise&lt;/h2&gt;
@@ -85,9 +85,9 @@
     
     <item>
       <title>Environment &amp; Society</title>
-      <link>https://ses-nau.org/research-themes/environment-society/</link>
+      <link>https://nau-gpr.github.io/research-themes/environment-society/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/research-themes/environment-society/</guid>
+      <guid>https://nau-gpr.github.io/research-themes/environment-society/</guid>
       <description>&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
 &lt;p&gt;Social science and interdisciplinary research on natural resource management and socio-economic policies.&lt;/p&gt;
 &lt;h2 id=&#34;research-areas&#34;&gt;Research Areas&lt;/h2&gt;
@@ -166,9 +166,9 @@
     
     <item>
       <title>Past &amp; Present Climate Change</title>
-      <link>https://ses-nau.org/research-themes/climate-change/</link>
+      <link>https://nau-gpr.github.io/research-themes/climate-change/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/research-themes/climate-change/</guid>
+      <guid>https://nau-gpr.github.io/research-themes/climate-change/</guid>
       <description>&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
 &lt;p&gt;Understanding climate system changes and interactions between the atmosphere, oceans, biosphere, and frozen Earth. Our research addresses how climate systems change over time, improving earth-system models, terrestrial biosphere responses to climate change, and climate impacts on human societies.&lt;/p&gt;
 &lt;h2 id=&#34;research-questions&#34;&gt;Research Questions&lt;/h2&gt;
@@ -267,9 +267,9 @@
     
     <item>
       <title>Sedimentary Geology and Geomorphology</title>
-      <link>https://ses-nau.org/research-themes/sedimentary-geology/</link>
+      <link>https://nau-gpr.github.io/research-themes/sedimentary-geology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/research-themes/sedimentary-geology/</guid>
+      <guid>https://nau-gpr.github.io/research-themes/sedimentary-geology/</guid>
       <description>&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
 &lt;p&gt;Studying Earth&amp;rsquo;s marine and terrestrial surfaces using field surveys, remote sensing, lab analyses, and numerical modeling. Our research spans diverse environments including deserts, mountains, rivers, and coastal areas.&lt;/p&gt;
 &lt;h2 id=&#34;key-faculty&#34;&gt;Key Faculty&lt;/h2&gt;
@@ -356,9 +356,9 @@
     
     <item>
       <title>Tectonics &amp; Earth&#39;s Interior</title>
-      <link>https://ses-nau.org/research-themes/tectonics-interior/</link>
+      <link>https://nau-gpr.github.io/research-themes/tectonics-interior/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/research-themes/tectonics-interior/</guid>
+      <guid>https://nau-gpr.github.io/research-themes/tectonics-interior/</guid>
       <description>&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
 &lt;p&gt;Study of Earth&amp;rsquo;s internal and surface processes, plate boundaries, crustal processes, and landscape evolution. Our research addresses plate boundary processes, crustal and mantle dynamics, interaction between surface and deeper processes, and tectonic evolution of the American Cordillera.&lt;/p&gt;
 &lt;h2 id=&#34;research-questions&#34;&gt;Research Questions&lt;/h2&gt;
@@ -460,9 +460,9 @@
     
     <item>
       <title>Water Management Policy &amp; Science</title>
-      <link>https://ses-nau.org/research-themes/water-management/</link>
+      <link>https://nau-gpr.github.io/research-themes/water-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/research-themes/water-management/</guid>
+      <guid>https://nau-gpr.github.io/research-themes/water-management/</guid>
       <description>&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
 &lt;p&gt;Human impact on Earth&amp;rsquo;s surface processes, with research focused on hydrologic systems in arid and semi-arid Western North America.&lt;/p&gt;
 &lt;h2 id=&#34;current-projects&#34;&gt;Current Projects&lt;/h2&gt;

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Structural Geology | NAU School of Earth and Sustainability</title>
-    <link>https://ses-nau.org/tag/structural-geology/</link>
-      <atom:link href="https://ses-nau.org/tag/structural-geology/index.xml" rel="self" type="application/rss+xml" />
+    <title>Structural Geology | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/tag/structural-geology/</link>
+      <atom:link href="https://nau-gpr.github.io/tag/structural-geology/index.xml" rel="self" type="application/rss+xml" />
     <description>Structural Geology</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>Structural Geology</title>
-      <link>https://ses-nau.org/tag/structural-geology/</link>
+      <link>https://nau-gpr.github.io/tag/structural-geology/</link>
     </image>
     
     <item>
       <title>Christine Regalla</title>
-      <link>https://ses-nau.org/faculty-profiles/christine-regalla/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/christine-regalla/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/christine-regalla/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/christine-regalla/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Christine Regalla is an Associate Professor in the School of Earth and Sustainability at Northern Arizona University, where she has been a faculty member since 2019, recently promoted to Associate Professor in 2024. She is a field geologist whose research centers on understanding where, when, and how faults accommodate active deformation and seismicity.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -85,9 +85,9 @@
     
     <item>
       <title>James Sample</title>
-      <link>https://ses-nau.org/archived-profiles/james-sample/</link>
+      <link>https://nau-gpr.github.io/archived-profiles/james-sample/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/archived-profiles/james-sample/</guid>
+      <guid>https://nau-gpr.github.io/archived-profiles/james-sample/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. James Sample is a Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2003. His research focuses on structural geology, tectonics, and geochemistry, contributing to our understanding of crustal processes and tectonic evolution.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -169,9 +169,9 @@
     
     <item>
       <title>Paul Umhoefer</title>
-      <link>https://ses-nau.org/archived-profiles/paul-umhoefer/</link>
+      <link>https://nau-gpr.github.io/archived-profiles/paul-umhoefer/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/archived-profiles/paul-umhoefer/</guid>
+      <guid>https://nau-gpr.github.io/archived-profiles/paul-umhoefer/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Paul Umhoefer is a Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2000. His research focuses on understanding the processes and products of crustal extension, with particular emphasis on continental rifting, metamorphic core complexes, and basin evolution.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -326,9 +326,9 @@
     
     <item>
       <title>Tectonics &amp; Earth&#39;s Interior</title>
-      <link>https://ses-nau.org/research-themes/tectonics-interior/</link>
+      <link>https://nau-gpr.github.io/research-themes/tectonics-interior/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/research-themes/tectonics-interior/</guid>
+      <guid>https://nau-gpr.github.io/research-themes/tectonics-interior/</guid>
       <description>&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
 &lt;p&gt;Study of Earth&amp;rsquo;s internal and surface processes, plate boundaries, crustal processes, and landscape evolution. Our research addresses plate boundary processes, crustal and mantle dynamics, interaction between surface and deeper processes, and tectonic evolution of the American Cordillera.&lt;/p&gt;
 &lt;h2 id=&#34;research-questions&#34;&gt;Research Questions&lt;/h2&gt;

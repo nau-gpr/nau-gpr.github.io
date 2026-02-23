@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research Highlights | NAU School of Earth and Sustainability</title>
-    <link>https://ses-nau.org/highlights/</link>
-      <atom:link href="https://ses-nau.org/highlights/index.xml" rel="self" type="application/rss+xml" />
+    <title>Research Highlights | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/highlights/</link>
+      <atom:link href="https://nau-gpr.github.io/highlights/index.xml" rel="self" type="application/rss+xml" />
     <description>Research Highlights</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>Research Highlights</title>
-      <link>https://ses-nau.org/highlights/</link>
+      <link>https://nau-gpr.github.io/highlights/</link>
     </image>
     
     <item>
       <title>Graduate Student Breakthrough: Ancient Climate Patterns Reveal Future Insights</title>
-      <link>https://ses-nau.org/highlights/graduate-student-research/</link>
+      <link>https://nau-gpr.github.io/highlights/graduate-student-research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/highlights/graduate-student-research/</guid>
+      <guid>https://nau-gpr.github.io/highlights/graduate-student-research/</guid>
       <description>&lt;h2 id=&#34;student-research-makes-major-impact&#34;&gt;Student Research Makes Major Impact&lt;/h2&gt;
 &lt;p&gt;Graduate student Eva Baransky, working under the guidance of Professor Darrell Kaufman, has published groundbreaking research that reconstructs ecosystem changes over the past 15,000 years using advanced biomarker analysis.&lt;/p&gt;
 &lt;h3 id=&#34;the-research&#34;&gt;The Research&lt;/h3&gt;
@@ -73,9 +73,9 @@
     
     <item>
       <title>Holocene Climate Variability: New Insights from Lake Records</title>
-      <link>https://ses-nau.org/highlights/holocene-climate-variability/</link>
+      <link>https://nau-gpr.github.io/highlights/holocene-climate-variability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/highlights/holocene-climate-variability/</guid>
+      <guid>https://nau-gpr.github.io/highlights/holocene-climate-variability/</guid>
       <description>&lt;h2 id=&#34;breakthrough-in-understanding-past-climate&#34;&gt;Breakthrough in Understanding Past Climate&lt;/h2&gt;
 &lt;p&gt;Faculty researchers Darrell Kaufman and Nicholas McKay have published groundbreaking research that reconstructs climate patterns over the past 10,000 years using lake sediment records. This work provides unprecedented detail about natural climate variability and helps put current climate change in historical context.&lt;/p&gt;
 &lt;h3 id=&#34;key-findings&#34;&gt;Key Findings&lt;/h3&gt;
@@ -102,9 +102,9 @@
     
     <item>
       <title>Wildfire Ecology in a Changing Climate: SES Research Leads Conservation Efforts</title>
-      <link>https://ses-nau.org/highlights/forest-fire-ecology/</link>
+      <link>https://nau-gpr.github.io/highlights/forest-fire-ecology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/highlights/forest-fire-ecology/</guid>
+      <guid>https://nau-gpr.github.io/highlights/forest-fire-ecology/</guid>
       <description>&lt;h2 id=&#34;transforming-wildfire-research-with-technology&#34;&gt;Transforming Wildfire Research with Technology&lt;/h2&gt;
 &lt;p&gt;Professors Thomas Sisk and Temuulen Sankey are leading cutting-edge research that combines field ecology with advanced remote sensing to understand how forests respond to increasingly severe wildfires.&lt;/p&gt;
 &lt;h3 id=&#34;innovative-research-methods&#34;&gt;Innovative Research Methods&lt;/h3&gt;

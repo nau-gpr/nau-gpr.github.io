@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Education | NAU School of Earth and Sustainability</title>
-    <link>https://ses-nau.org/tag/education/</link>
-      <atom:link href="https://ses-nau.org/tag/education/index.xml" rel="self" type="application/rss+xml" />
+    <title>Education | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/tag/education/</link>
+      <atom:link href="https://nau-gpr.github.io/tag/education/index.xml" rel="self" type="application/rss+xml" />
     <description>Education</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>Education</title>
-      <link>https://ses-nau.org/tag/education/</link>
+      <link>https://nau-gpr.github.io/tag/education/</link>
     </image>
     
     <item>
       <title>Graduate Degree Programs</title>
-      <link>https://ses-nau.org/student-opportunities/graduate-degrees/</link>
+      <link>https://nau-gpr.github.io/student-opportunities/graduate-degrees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/student-opportunities/graduate-degrees/</guid>
+      <guid>https://nau-gpr.github.io/student-opportunities/graduate-degrees/</guid>
       <description>&lt;h2 id=&#34;graduate-degree-programs&#34;&gt;Graduate Degree Programs&lt;/h2&gt;
 &lt;p&gt;The School of Earth and Sustainability offers four comprehensive graduate degree programs designed to prepare students for advanced careers in research, industry, government, and academia.&lt;/p&gt;
 &lt;h2 id=&#34;master-of-science-in-geology-ms&#34;&gt;Master of Science in Geology (MS)&lt;/h2&gt;
@@ -30,7 +30,7 @@
   &lt;/div&gt;
   &lt;div id=&#34;geologyCollapse&#34; class=&#34;collapse show&#34; aria-labelledby=&#34;geologyHeader&#34;&gt;
     &lt;div class=&#34;card-body&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://ses-nau.org/student-opportunities/geology-ms/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nau-gpr.github.io/student-opportunities/geology-ms/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;program-overview&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Focus Areas:&lt;/strong&gt; Sedimentary, igneous, and metamorphic rocks; stratigraphy, structure, volcanology, surficial processes, water resources&lt;/li&gt;
@@ -86,7 +86,7 @@
   &lt;/div&gt;
   &lt;div id=&#34;envSciCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;envSciHeader&#34;&gt;
     &lt;div class=&#34;card-body&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://ses-nau.org/student-opportunities/environmental-sciences-policy/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nau-gpr.github.io/student-opportunities/environmental-sciences-policy/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;program-overview-1&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; Two-year program&lt;/li&gt;
@@ -139,7 +139,7 @@
   &lt;/div&gt;
   &lt;div id=&#34;climateCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;climateHeader&#34;&gt;
     &lt;div class=&#34;card-body&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://ses-nau.org/student-opportunities/climate-science-solutions/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nau-gpr.github.io/student-opportunities/climate-science-solutions/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;program-overview-2&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Type:&lt;/strong&gt; Professional Science Master&amp;rsquo;s degree&lt;/li&gt;
@@ -200,7 +200,7 @@
   &lt;/div&gt;
   &lt;div id=&#34;phdCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;phdHeader&#34;&gt;
     &lt;div class=&#34;card-body&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://ses-nau.org/student-opportunities/earth-sciences-environmental-sustainability-phd/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nau-gpr.github.io/student-opportunities/earth-sciences-environmental-sustainability-phd/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;program-overview-3&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Requirements:&lt;/strong&gt; 30 course units, comprehensive examination, dissertation&lt;/li&gt;
@@ -267,7 +267,7 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;h1 id=&#34;guidance-for-applying-to-naus-graduate-school-to-pursue-an-advanced-degrees-in-ses&#34;&gt;Guidance for applying to NAU’s graduate school to pursue an advanced degrees in SES&lt;/h1&gt;
-&lt;p&gt;First, if you plan to apply to a thesis-based program (ESP MS, GLG MS, and ESES PhD), &lt;a href=&#34;https://ses-nau.org/faculty-profiles/&#34;&gt;get to know our faculty&lt;/a&gt; and &lt;a href=&#34;https://ses-nau.org/grad-opportunites&#34;&gt;review current opportunities for students&lt;/a&gt;. &lt;strong&gt;It is very important that you reach out to faculty members you would be interested in working with before you apply&lt;/strong&gt;. Faculty expect to receive emails from prospective students and will be happy to hear from you about your specific interests. They can also tell you more about their research and if they have space available in their labs.&lt;/p&gt;
+&lt;p&gt;First, if you plan to apply to a thesis-based program (ESP MS, GLG MS, and ESES PhD), &lt;a href=&#34;https://nau-gpr.github.io/faculty-profiles/&#34;&gt;get to know our faculty&lt;/a&gt; and &lt;a href=&#34;https://nau-gpr.github.io/grad-opportunites&#34;&gt;review current opportunities for students&lt;/a&gt;. &lt;strong&gt;It is very important that you reach out to faculty members you would be interested in working with before you apply&lt;/strong&gt;. Faculty expect to receive emails from prospective students and will be happy to hear from you about your specific interests. They can also tell you more about their research and if they have space available in their labs.&lt;/p&gt;
 &lt;p&gt;Second, entry into any SES Graduate Program requires an online application through the Office of Graduate and Professional Studies. A completed application for admission will include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;An online application for admission to the NAU Office of Graduate and Professional Studies, with the required application fee;&lt;/li&gt;
@@ -289,9 +289,9 @@
     
     <item>
       <title>Undergraduate Degree Programs</title>
-      <link>https://ses-nau.org/student-opportunities/undergraduate-degrees/</link>
+      <link>https://nau-gpr.github.io/student-opportunities/undergraduate-degrees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/student-opportunities/undergraduate-degrees/</guid>
+      <guid>https://nau-gpr.github.io/student-opportunities/undergraduate-degrees/</guid>
       <description>&lt;h2 id=&#34;undergraduate-degree-programs&#34;&gt;Undergraduate Degree Programs&lt;/h2&gt;
 &lt;p&gt;The School of Earth and Sustainability offers five undergraduate degree programs designed to provide students with comprehensive knowledge and hands-on experience in earth sciences, environmental science, and sustainability studies.&lt;/p&gt;
 &lt;h2 id=&#34;geology-bachelor-of-science-bs&#34;&gt;Geology Bachelor of Science (BS)&lt;/h2&gt;

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Climate Impacts | NAU School of Earth and Sustainability</title>
-    <link>https://ses-nau.org/tag/climate-impacts/</link>
-      <atom:link href="https://ses-nau.org/tag/climate-impacts/index.xml" rel="self" type="application/rss+xml" />
+    <title>Climate Impacts | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/tag/climate-impacts/</link>
+      <atom:link href="https://nau-gpr.github.io/tag/climate-impacts/index.xml" rel="self" type="application/rss+xml" />
     <description>Climate Impacts</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>Climate Impacts</title>
-      <link>https://ses-nau.org/tag/climate-impacts/</link>
+      <link>https://nau-gpr.github.io/tag/climate-impacts/</link>
     </image>
     
     <item>
       <title>Past &amp; Present Climate Change</title>
-      <link>https://ses-nau.org/research-themes/climate-change/</link>
+      <link>https://nau-gpr.github.io/research-themes/climate-change/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/research-themes/climate-change/</guid>
+      <guid>https://nau-gpr.github.io/research-themes/climate-change/</guid>
       <description>&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
 &lt;p&gt;Understanding climate system changes and interactions between the atmosphere, oceans, biosphere, and frozen Earth. Our research addresses how climate systems change over time, improving earth-system models, terrestrial biosphere responses to climate change, and climate impacts on human societies.&lt;/p&gt;
 &lt;h2 id=&#34;research-questions&#34;&gt;Research Questions&lt;/h2&gt;

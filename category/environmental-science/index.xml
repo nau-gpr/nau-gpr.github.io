@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Environmental Science | NAU School of Earth and Sustainability</title>
-    <link>https://ses-nau.org/category/environmental-science/</link>
-      <atom:link href="https://ses-nau.org/category/environmental-science/index.xml" rel="self" type="application/rss+xml" />
+    <title>Environmental Science | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/category/environmental-science/</link>
+      <atom:link href="https://nau-gpr.github.io/category/environmental-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Environmental Science</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>Environmental Science</title>
-      <link>https://ses-nau.org/category/environmental-science/</link>
+      <link>https://nau-gpr.github.io/category/environmental-science/</link>
     </image>
     
     <item>
       <title>Wildfire Ecology in a Changing Climate: SES Research Leads Conservation Efforts</title>
-      <link>https://ses-nau.org/highlights/forest-fire-ecology/</link>
+      <link>https://nau-gpr.github.io/highlights/forest-fire-ecology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/highlights/forest-fire-ecology/</guid>
+      <guid>https://nau-gpr.github.io/highlights/forest-fire-ecology/</guid>
       <description>&lt;h2 id=&#34;transforming-wildfire-research-with-technology&#34;&gt;Transforming Wildfire Research with Technology&lt;/h2&gt;
 &lt;p&gt;Professors Thomas Sisk and Temuulen Sankey are leading cutting-edge research that combines field ecology with advanced remote sensing to understand how forests respond to increasingly severe wildfires.&lt;/p&gt;
 &lt;h3 id=&#34;innovative-research-methods&#34;&gt;Innovative Research Methods&lt;/h3&gt;

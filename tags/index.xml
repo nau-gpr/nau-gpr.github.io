@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | NAU School of Earth and Sustainability</title>
-    <link>https://ses-nau.org/tags/</link>
-      <atom:link href="https://ses-nau.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/tags/</link>
+      <atom:link href="https://nau-gpr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>Tags</title>
-      <link>https://ses-nau.org/tags/</link>
+      <link>https://nau-gpr.github.io/tags/</link>
     </image>
     
   </channel>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Certificates | NAU School of Earth and Sustainability</title>
-    <link>https://ses-nau.org/tag/certificates/</link>
-      <atom:link href="https://ses-nau.org/tag/certificates/index.xml" rel="self" type="application/rss+xml" />
+    <title>Certificates | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/tag/certificates/</link>
+      <atom:link href="https://nau-gpr.github.io/tag/certificates/index.xml" rel="self" type="application/rss+xml" />
     <description>Certificates</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>Certificates</title>
-      <link>https://ses-nau.org/tag/certificates/</link>
+      <link>https://nau-gpr.github.io/tag/certificates/</link>
     </image>
     
     <item>
       <title>Graduate Certificates</title>
-      <link>https://ses-nau.org/student-opportunities/graduate-certificates/</link>
+      <link>https://nau-gpr.github.io/student-opportunities/graduate-certificates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/student-opportunities/graduate-certificates/</guid>
+      <guid>https://nau-gpr.github.io/student-opportunities/graduate-certificates/</guid>
       <description>&lt;h3 id=&#34;program-overview&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Format:&lt;/strong&gt; Online certificate program&lt;/li&gt;

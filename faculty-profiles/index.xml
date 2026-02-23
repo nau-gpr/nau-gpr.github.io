@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Faculty Profiles | Department of Geography, Planning &amp; Recreation | NAU School of Earth and Sustainability</title>
-    <link>https://ses-nau.org/faculty-profiles/</link>
-      <atom:link href="https://ses-nau.org/faculty-profiles/index.xml" rel="self" type="application/rss+xml" />
+    <title>Faculty Profiles | Department of Geography, Planning &amp; Recreation | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/faculty-profiles/</link>
+      <atom:link href="https://nau-gpr.github.io/faculty-profiles/index.xml" rel="self" type="application/rss+xml" />
     <description>Faculty Profiles | Department of Geography, Planning &amp; Recreation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>Faculty Profiles | Department of Geography, Planning &amp; Recreation</title>
-      <link>https://ses-nau.org/faculty-profiles/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/</link>
     </image>
     
     <item>
       <title>Rebecca Best</title>
-      <link>https://ses-nau.org/faculty-profiles/rebecca-best/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/rebecca-best/</link>
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/rebecca-best/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/rebecca-best/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Rebecca Best is an Associate Professor in the School of Earth and Sustainability at Northern Arizona University, where she leads the Aquatic Biodiversity and Conservation (ABC) Lab. She is also an affiliate of the Center for Adaptable Western Landscapes at NAU.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -85,9 +85,9 @@
     
     <item>
       <title>Abraham Springer</title>
-      <link>https://ses-nau.org/faculty-profiles/abraham-springer/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/abraham-springer/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/abraham-springer/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/abraham-springer/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Abraham &amp;ldquo;Abe&amp;rdquo; Springer is a Professor of hydrogeology and ecohydrogeology in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 1994. His research focuses on understanding the complex relationships between groundwater, surface water, karst aquifers, and ecosystem health, with particular emphasis on springs ecosystems.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -190,9 +190,9 @@
     
     <item>
       <title>Bridget Smith-Konter</title>
-      <link>https://ses-nau.org/faculty-profiles/bridget-smith-konter/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/bridget-smith-konter/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/bridget-smith-konter/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/bridget-smith-konter/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Bridget R. Smith-Konter joined Northern Arizona University&amp;rsquo;s School of Earth and Sustainability as a Professor in January 2025. Her research focuses on fault system modeling, earthquake mechanics, and computational geophysics with an emphasis on the San Andreas Fault System, Kilauea, and planetary tectonics.  Dr. Smith-Konter is an NAU alumna, having earned her B.S. in Physics &amp;amp; Astronomy from NAU in 1999.&lt;/p&gt;
 &lt;p&gt;Research website:  &lt;a href=&#34;https://rc.nau.edu/smith-konter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://rc.nau.edu/smith-konter&lt;/a&gt;&lt;/p&gt;
@@ -261,9 +261,9 @@
     
     <item>
       <title>Casey Tierney</title>
-      <link>https://ses-nau.org/faculty-profiles/casey-tierney/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/casey-tierney/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/casey-tierney/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/casey-tierney/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Casey R. Tierney is an Assistant Teaching Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2021. He conducts high-impact research that seeks to understand the spatiotemporal evolution of magmatic and volcanic systems of a variety of scales and settings through a combination of physical volcanology, igneous petrology, and geochemistry.  Please see his website (&lt;a href=&#34;https://www.caseytierney.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.caseytierney.com/&lt;/a&gt;) for more information.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -374,9 +374,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Christine Regalla</title>
-      <link>https://ses-nau.org/faculty-profiles/christine-regalla/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/christine-regalla/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/christine-regalla/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/christine-regalla/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Christine Regalla is an Associate Professor in the School of Earth and Sustainability at Northern Arizona University, where she has been a faculty member since 2019, recently promoted to Associate Professor in 2024. She is a field geologist whose research centers on understanding where, when, and how faults accommodate active deformation and seismicity.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -445,9 +445,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Clare Aslan</title>
-      <link>https://ses-nau.org/faculty-profiles/clare-aslan/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/clare-aslan/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/clare-aslan/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/clare-aslan/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Clare Aslan is an Associate Professor and Director of the School of Earth and Sustainability at Northern Arizona University, where she has been a faculty member since 2014. She also serves as Co-Director of the Center for Adaptable Western Landscapes and the Landscape Conservation Initiative (LCI).&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -515,9 +515,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Darrell Kaufman</title>
-      <link>https://ses-nau.org/faculty-profiles/darrell-kaufman/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/darrell-kaufman/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/darrell-kaufman/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/darrell-kaufman/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Darrell Kaufman is a Regents&amp;rsquo; Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 1998. His research focuses on  geologic records of past environmental change on decadal to millennial time scales. He studies physical and biological properties of lake sediment from Alaska and elsewhere to reconstruct past climate changes. As part of his multi-proxy approach, he combines the lake core data with geomorphic evidence for glacier fluctuations. He also develops and applies geochronological techniques, including amino acid and radiocarbon geochronology, to establish precise timelines for these changes. Beyond regional studies, Dr. Kaufman leads international collaborations to integrate paleoclimate data with climate model simulations, producing global-scale syntheses that help reveal how Earth’s climate system responds to natural and human-driven influences. His work highlights how past climate changes can inform strategies for understanding future risks and supporting more sustainable solutions.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -594,9 +594,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Debbie Huntzinger</title>
-      <link>https://ses-nau.org/faculty-profiles/deborah-huntzinger/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/deborah-huntzinger/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/deborah-huntzinger/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/deborah-huntzinger/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Deb Huntzinger is a Professor of Climate Science in the School of Earth and Sustainability at Northern Arizona University, where she has been a faculty member since 2011. She leads the &lt;a href=&#34;https://carml.rc.nau.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carbon Accounting, Reporting and Management Lab (CARML)&lt;/a&gt; and is a core faculty in the Center for STEM Teaching and Learning (CSTL) and an affiliated faculty with NAU’s School of Informatics, Computing, and Cyber Systems (SICCS). She is also the creator and director of NAU’s certificate programs in greenhouse gas accounting.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -680,9 +680,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Denielle Perry</title>
-      <link>https://ses-nau.org/faculty-profiles/denielle-perry/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/denielle-perry/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/denielle-perry/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/denielle-perry/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Dr. Denielle Perry is an Associate Professor and Water Resource Geographer in the School of Earth and Sustainability at Northern Arizona University, where she has been a faculty member since 2017. She serves as Director of the Free-flowing Rivers Lab and is a founding member and Co-Chair of the Global River Protection Coalition.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;&lt;strong&gt;Research Interests&lt;/strong&gt;&lt;/h2&gt;
@@ -767,9 +767,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Diana Stuart</title>
-      <link>https://ses-nau.org/faculty-profiles/diana-stuart/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/diana-stuart/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/diana-stuart/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/diana-stuart/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Diana Stuart is a Professor in the School of Earth and Sustainability at Northern Arizona University, where she has been a faculty member since 2015. She is an environmental sociologist whose primary research focuses on social science analysis of climate change solutions, climate politics, the climate movement, social theory, and social transformation. Dr. Stuart also has done work focused on the political economy of biodiversity loss.&lt;/p&gt;
 &lt;h2 id=&#34;lab-website&#34;&gt;Lab website&lt;/h2&gt;
@@ -858,9 +858,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Donna Shillington</title>
-      <link>https://ses-nau.org/faculty-profiles/donna-shillington/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/donna-shillington/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/donna-shillington/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/donna-shillington/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Donna J. Shillington is a Professor in the School of Earth and Sustainability at Northern Arizona University, where she has been a faculty member since 2020. Her research focuses on deformation, magmatism and sedimentation at plate tectonic boundaries and in other interesting geological settings, which I study using active-source seismology together with other geophysical and geological approaches.&lt;/p&gt;
 &lt;p&gt;Research website: donnajshillington.com&lt;/p&gt;
@@ -939,9 +939,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Duan Biggs</title>
-      <link>https://ses-nau.org/faculty-profiles/duan-biggs/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/duan-biggs/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/duan-biggs/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/duan-biggs/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Duan Biggs is the Associate Professor and Olajos-Goslow Chair of Environmental Science and Policy in the School of Earth and Sustainability at Northern Arizona University, where he joined the faculty in August 2021. He is the founder and leader of Resilient Conservation, an organization focused on developing innovative approaches to conservation challenges in the Anthropocene.&lt;/p&gt;
 &lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
@@ -1194,9 +1194,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Erik Nielsen</title>
-      <link>https://ses-nau.org/faculty-profiles/erik-nielsen/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/erik-nielsen/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/erik-nielsen/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/erik-nielsen/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Erik Nielsen is Northern Arizona University&amp;rsquo;s inaugural Chief Sustainability Officer and Professor of Environmental Science and Policy in the School of Earth and Sustainability, where he has been a faculty member since 2008. He leads NAU&amp;rsquo;s comprehensive sustainability initiatives aimed at achieving carbon neutrality by 2030.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -1324,9 +1324,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Erika Nowak</title>
-      <link>https://ses-nau.org/faculty-profiles/erika-nowak/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/erika-nowak/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/erika-nowak/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/erika-nowak/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Erika M. Nowak is an Associate Research Professor in the School of Earth and Sustainability and the Department of Biological Sciences at Northern Arizona University, where she has been a faculty member since 2017. She also serves as the Assistant Curator of Herpetology and has over 30 years of experience researching reptiles and amphibians.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -1466,9 +1466,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Helen Rowe</title>
-      <link>https://ses-nau.org/faculty-profiles/helen-rowe/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/helen-rowe/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/helen-rowe/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/helen-rowe/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Helen Rowe is an Associate Research Professor in the School of Earth and Sustainability at Northern Arizona University and Director of the Parsons Field Institute at the McDowell Sonoran Conservancy. She has over 20 years of experience in natural areas management and research, focusing on ecological restoration and conservation in arid environments.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -1681,9 +1681,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>James Gaherty</title>
-      <link>https://ses-nau.org/faculty-profiles/james-gaherty/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/james-gaherty/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/james-gaherty/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/james-gaherty/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. James B. Gaherty is a Professor of Geophysics in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2020. Dr. Gaherty&amp;rsquo;s research utilizes seismic imaging tools to probe major tectonic processes shaping Earth&amp;rsquo;s surface, combining quantitative seismic analysis with broader geodynamic understanding to address fundamental questions about plate tectonics, mantle dynamics, and surface deformation. His program is very student focused, and he brings extensive experience from major research institutions including Lamont-Doherty Earth Observatory of Columbia University and Georgia Institute of Technology.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -1753,9 +1753,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>John Fegyveresi</title>
-      <link>https://ses-nau.org/faculty-profiles/john-fegyveresi/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/john-fegyveresi/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/john-fegyveresi/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/john-fegyveresi/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. John M. Fegyveresi is an Associate Professor of Practice in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2019. He also serves as the Graduate Program Director for the Climate Science and Solutions MS program.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -1834,9 +1834,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Laura Wasylenki</title>
-      <link>https://ses-nau.org/faculty-profiles/laura-wasylenki/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/laura-wasylenki/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/laura-wasylenki/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/laura-wasylenki/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Laura Wasylenki is a Retired Professor in the School of Earth and Sustainability at Northern Arizona University, after serving on the faculty 2018-2025 and directing SESAME Lab (Systematic Experimental Study and Analysis of Metals in the Environment). She and her students and postdocs investigated the controls on the abundances of biologically essential trace metals in the global oceans through geologic time, as well as the chemical reactions that govern transport of heavy metal contaminants in natural waters and soils. Now, Dr. Wasylenki provides coaching and advice for early-career academics. She teaches writing skills, does some editing, and is currently reading the psychology literature to devise ways to help early-career scientists better manage stress.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -1937,9 +1937,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Michael Smith</title>
-      <link>https://ses-nau.org/faculty-profiles/michael-smith/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/michael-smith/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/michael-smith/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/michael-smith/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Michael Elliot Smith is an Associate Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2014. He leads the Sedimentary Research Group and specializes in understanding tectonic and landscape processes as recorded in terrestrial and marine sedimentary basins.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -2038,9 +2038,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Nancy Johnson</title>
-      <link>https://ses-nau.org/faculty-profiles/nancy-johnson/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/nancy-johnson/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/nancy-johnson/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/nancy-johnson/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Nancy Collins Johnson is a Regents&amp;rsquo; Professor at Northern Arizona University, where she has been a faculty member since 1997. She is an internationally recognized soil ecologist specializing in mycorrhizal symbioses and leads the Johnson Soil Ecology Lab.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -2228,9 +2228,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Nicholas McKay</title>
-      <link>https://ses-nau.org/faculty-profiles/nicholas-mckay/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/nicholas-mckay/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/nicholas-mckay/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/nicholas-mckay/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Nicholas McKay is a Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2013. His research combines paleoclimatology with data science to understand climate variability and change in the past.&lt;/p&gt;
 &lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
@@ -2311,9 +2311,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Pranay Ranjan</title>
-      <link>https://ses-nau.org/faculty-profiles/pranay-ranjan/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/pranay-ranjan/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/pranay-ranjan/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/pranay-ranjan/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Pranay Ranjan is an Assistant Professor of Environmental Policy in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since fall 2022. He is an environmental social scientist with interdisciplinary training in institutional analysis, collective action, water governance, and environmental policy.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -2594,9 +2594,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>R. Scott Anderson</title>
-      <link>https://ses-nau.org/faculty-profiles/scott-anderson/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/scott-anderson/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/scott-anderson/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/scott-anderson/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. R. Scott Anderson is Professor Emeritus in the School of Earth and Sustainability at Northern Arizona University, where he has been a distinguished faculty member specializing in paleoecology and Quaternary sciences. His research focuses on paleoenvironmental reconstruction using pollen analysis, plant macrofossils, and lake sediment records, from historical through Quaternary ages.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -2813,9 +2813,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Ryan Porter</title>
-      <link>https://ses-nau.org/faculty-profiles/ryan-porter/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/ryan-porter/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/ryan-porter/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/ryan-porter/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Ryan Porter is an Associate Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2014. He is a seismologist and geophysicist whose research focuses on using earthquake seismology to study tectonics and applying shallow geophysics to understand ground and surface systems.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -2994,9 +2994,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Sara Souther</title>
-      <link>https://ses-nau.org/faculty-profiles/sara-souther/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/sara-souther/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/sara-souther/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/sara-souther/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Sara Souther is an Assistant Professor in the School of Earth and Sustainability at Northern Arizona University, where she has been a faculty member since 2017. She is a core member of the Center for Adaptable Western Landscapes and leads research on plant conservation biology and population ecology.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -3139,9 +3139,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Suzanne Affinati</title>
-      <link>https://ses-nau.org/faculty-profiles/suzanne-affinati/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/suzanne-affinati/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/suzanne-affinati/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/suzanne-affinati/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Suzanne Craddock Affinati is an Assistant Research Professor in the School of Earth and Sustainability at Northern Arizona University, where she joined the faculty in 2021. Her research focuses on metamorphic petrology, tectonics, and petrochronology, with particular emphasis on understanding orogenic processes in the U.S. Cordillera.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -3259,9 +3259,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Taylor Joyal</title>
-      <link>https://ses-nau.org/faculty-profiles/taylor-joyal/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/taylor-joyal/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/taylor-joyal/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/taylor-joyal/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Taylor Joyal is an Associate Teaching Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2014. He specializes in fluvial geomorphology and watershed hydrology, with particular expertise in watershed processes, river system dynamics in arid and tropical climates, and post-wildfire flood impacts.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;

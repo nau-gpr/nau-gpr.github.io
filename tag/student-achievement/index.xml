@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Student Achievement | NAU School of Earth and Sustainability</title>
-    <link>https://ses-nau.org/tag/student-achievement/</link>
-      <atom:link href="https://ses-nau.org/tag/student-achievement/index.xml" rel="self" type="application/rss+xml" />
+    <title>Student Achievement | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/tag/student-achievement/</link>
+      <atom:link href="https://nau-gpr.github.io/tag/student-achievement/index.xml" rel="self" type="application/rss+xml" />
     <description>Student Achievement</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>Student Achievement</title>
-      <link>https://ses-nau.org/tag/student-achievement/</link>
+      <link>https://nau-gpr.github.io/tag/student-achievement/</link>
     </image>
     
     <item>
       <title>Graduate Student Breakthrough: Ancient Climate Patterns Reveal Future Insights</title>
-      <link>https://ses-nau.org/highlights/graduate-student-research/</link>
+      <link>https://nau-gpr.github.io/highlights/graduate-student-research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/highlights/graduate-student-research/</guid>
+      <guid>https://nau-gpr.github.io/highlights/graduate-student-research/</guid>
       <description>&lt;h2 id=&#34;student-research-makes-major-impact&#34;&gt;Student Research Makes Major Impact&lt;/h2&gt;
 &lt;p&gt;Graduate student Eva Baransky, working under the guidance of Professor Darrell Kaufman, has published groundbreaking research that reconstructs ecosystem changes over the past 15,000 years using advanced biomarker analysis.&lt;/p&gt;
 &lt;h3 id=&#34;the-research&#34;&gt;The Research&lt;/h3&gt;

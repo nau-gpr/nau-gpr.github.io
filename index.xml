@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NAU GPR | NAU School of Earth and Sustainability</title>
-    <link>https://ses-nau.org/</link>
-      <atom:link href="https://ses-nau.org/index.xml" rel="self" type="application/rss+xml" />
+    <title>NAU GPR | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/</link>
+      <atom:link href="https://nau-gpr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>NAU GPR</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>NAU GPR</title>
-      <link>https://ses-nau.org/</link>
+      <link>https://nau-gpr.github.io/</link>
     </image>
     
     <item>
       <title>Faculty Publications</title>
-      <link>https://ses-nau.org/faculty/</link>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty/</guid>
+      <link>https://nau-gpr.github.io/faculty/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://nau-gpr.github.io/faculty/</guid>
       <description>&lt;h1 id=&#34;faculty-publications-dashboard&#34;&gt;Faculty Publications Dashboard&lt;/h1&gt;
 &lt;p&gt;The SES faculty have published &lt;strong&gt;1,091&lt;/strong&gt; peer-reviewed articles since 2009, accumulating &lt;strong&gt;71,631&lt;/strong&gt; citations with a collective H-index of &lt;strong&gt;103&lt;/strong&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;publications-through-time&#34;&gt;Publications Through Time&lt;/h2&gt;
-&lt;img src=&#34;https://ses-nau.org/faculty_files/figure-html/publications-by-year-1.png&#34; width=&#34;3600&#34; /&gt;
+&lt;img src=&#34;https://nau-gpr.github.io/faculty_files/figure-html/publications-by-year-1.png&#34; width=&#34;3600&#34; /&gt;
 &lt;!-- --- --&gt;
 &lt;!-- ## Citations Through Time --&gt;
 &lt;!-- ```{r citations-by-year} --&gt;
@@ -279,7 +279,7 @@
 &lt;/table&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;journal-distribution&#34;&gt;Journal Distribution&lt;/h2&gt;
-&lt;img src=&#34;https://ses-nau.org/faculty_files/figure-html/journal-distribution-1.png&#34; width=&#34;3600&#34; /&gt;
+&lt;img src=&#34;https://nau-gpr.github.io/faculty_files/figure-html/journal-distribution-1.png&#34; width=&#34;3600&#34; /&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;summary-statistics&#34;&gt;Summary Statistics&lt;/h2&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;font-size: 14px; margin-left: auto; margin-right: auto;&#34;&gt;
@@ -310,35 +310,35 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Data includes publications from 2009 to 2025. Last updated: February 18, 2026&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Data includes publications from 2009 to 2025. Last updated: February 23, 2026&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Research Analytics</title>
-      <link>https://ses-nau.org/analytics/</link>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/analytics/</guid>
+      <link>https://nau-gpr.github.io/analytics/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://nau-gpr.github.io/analytics/</guid>
       <description>&lt;h1 id=&#34;research-analytics-dashboard&#34;&gt;Research Analytics Dashboard&lt;/h1&gt;
 &lt;p&gt;Comprehensive analysis of research trends, collaboration patterns, and impact metrics for the School of Earth and Sustainability.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;research-output-trends&#34;&gt;Research Output Trends&lt;/h2&gt;
-&lt;img src=&#34;https://ses-nau.org/analytics_files/figure-html/combined-trends-1.png&#34; width=&#34;3600&#34; /&gt;
+&lt;img src=&#34;https://nau-gpr.github.io/analytics_files/figure-html/combined-trends-1.png&#34; width=&#34;3600&#34; /&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;research-impact-over-time&#34;&gt;Research Impact Over Time&lt;/h2&gt;
-&lt;img src=&#34;https://ses-nau.org/analytics_files/figure-html/impact-analysis-1.png&#34; width=&#34;3600&#34; /&gt;
+&lt;img src=&#34;https://nau-gpr.github.io/analytics_files/figure-html/impact-analysis-1.png&#34; width=&#34;3600&#34; /&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;faculty-collaboration-network&#34;&gt;Faculty Collaboration Network&lt;/h2&gt;
-&lt;img src=&#34;https://ses-nau.org/analytics_files/figure-html/collaboration-analysis-1.png&#34; width=&#34;3600&#34; /&gt;
+&lt;img src=&#34;https://nau-gpr.github.io/analytics_files/figure-html/collaboration-analysis-1.png&#34; width=&#34;3600&#34; /&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;citation-distribution-analysis&#34;&gt;Citation Distribution Analysis&lt;/h2&gt;
-&lt;img src=&#34;https://ses-nau.org/analytics_files/figure-html/citation-distribution-1.png&#34; width=&#34;3600&#34; /&gt;
+&lt;img src=&#34;https://nau-gpr.github.io/analytics_files/figure-html/citation-distribution-1.png&#34; width=&#34;3600&#34; /&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;student-mentorship-impact&#34;&gt;Student Mentorship Impact&lt;/h2&gt;
-&lt;img src=&#34;https://ses-nau.org/analytics_files/figure-html/student-mentorship-1.png&#34; width=&#34;3600&#34; /&gt;
+&lt;img src=&#34;https://nau-gpr.github.io/analytics_files/figure-html/student-mentorship-1.png&#34; width=&#34;3600&#34; /&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;top-research-keywords&#34;&gt;Top Research Keywords&lt;/h2&gt;
-&lt;img src=&#34;https://ses-nau.org/analytics_files/figure-html/keyword-analysis-1.png&#34; width=&#34;3600&#34; /&gt;
+&lt;img src=&#34;https://nau-gpr.github.io/analytics_files/figure-html/keyword-analysis-1.png&#34; width=&#34;3600&#34; /&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;department-performance-metrics&#34;&gt;Department Performance Metrics&lt;/h2&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;font-size: 13px; margin-left: auto; margin-right: auto;&#34;&gt;
@@ -443,24 +443,24 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Analytics generated from 1,092 publications spanning 2009 to 2025. Last updated: February 18, 2026&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Analytics generated from 1,092 publications spanning 2009 to 2025. Last updated: February 23, 2026&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Student Publications</title>
-      <link>https://ses-nau.org/students/</link>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/students/</guid>
+      <link>https://nau-gpr.github.io/students/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://nau-gpr.github.io/students/</guid>
       <description>&lt;h1 id=&#34;student-publications-dashboard&#34;&gt;Student Publications Dashboard&lt;/h1&gt;
 &lt;p&gt;Since 2009, &lt;strong&gt;201&lt;/strong&gt; SES graduate students have published &lt;strong&gt;279&lt;/strong&gt; peer-reviewed articles as co-authors, accumulating &lt;strong&gt;9,338&lt;/strong&gt; total citations.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;The &amp;ldquo;Most Cited Publications&amp;rdquo; table below highlights research where graduate students served as &lt;strong&gt;first authors&lt;/strong&gt;, showcasing their leadership in conducting and publishing original research.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;graduate-student-publishing-trends&#34;&gt;Graduate Student Publishing Trends&lt;/h2&gt;
-&lt;img src=&#34;https://ses-nau.org/students_files/figure-html/student-pubs-by-year-1.png&#34; width=&#34;3600&#34; /&gt;
+&lt;img src=&#34;https://nau-gpr.github.io/students_files/figure-html/student-pubs-by-year-1.png&#34; width=&#34;3600&#34; /&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;student-publication-impact&#34;&gt;Student Publication Impact&lt;/h2&gt;
-&lt;img src=&#34;https://ses-nau.org/students_files/figure-html/student-citations-1.png&#34; width=&#34;3600&#34; /&gt;
+&lt;img src=&#34;https://nau-gpr.github.io/students_files/figure-html/student-citations-1.png&#34; width=&#34;3600&#34; /&gt;
 &lt;hr&gt;
 &lt;!-- ## Most Productive Graduate Students --&gt;
 &lt;!-- ```{r student-productivity} --&gt;
@@ -683,7 +683,7 @@
 &lt;/table&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;student-publication-journals&#34;&gt;Student Publication Journals&lt;/h2&gt;
-&lt;img src=&#34;https://ses-nau.org/students_files/figure-html/student-journals-1.png&#34; width=&#34;3600&#34; /&gt;
+&lt;img src=&#34;https://nau-gpr.github.io/students_files/figure-html/student-journals-1.png&#34; width=&#34;3600&#34; /&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;summary-statistics&#34;&gt;Summary Statistics&lt;/h2&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;font-size: 14px; margin-left: auto; margin-right: auto;&#34;&gt;
@@ -714,15 +714,15 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Data includes publications from 2009 to 2025. Last updated: February 18, 2026&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Data includes publications from 2009 to 2025. Last updated: February 23, 2026&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Rebecca Best</title>
-      <link>https://ses-nau.org/faculty-profiles/rebecca-best/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/rebecca-best/</link>
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/rebecca-best/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/rebecca-best/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Rebecca Best is an Associate Professor in the School of Earth and Sustainability at Northern Arizona University, where she leads the Aquatic Biodiversity and Conservation (ABC) Lab. She is also an affiliate of the Center for Adaptable Western Landscapes at NAU.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -791,9 +791,9 @@
     
     <item>
       <title>Abraham Springer</title>
-      <link>https://ses-nau.org/faculty-profiles/abraham-springer/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/abraham-springer/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/abraham-springer/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/abraham-springer/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Abraham &amp;ldquo;Abe&amp;rdquo; Springer is a Professor of hydrogeology and ecohydrogeology in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 1994. His research focuses on understanding the complex relationships between groundwater, surface water, karst aquifers, and ecosystem health, with particular emphasis on springs ecosystems.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -896,9 +896,9 @@
     
     <item>
       <title>Brett Dickson</title>
-      <link>https://ses-nau.org/archived-profiles/brett-dickson/</link>
+      <link>https://nau-gpr.github.io/archived-profiles/brett-dickson/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/archived-profiles/brett-dickson/</guid>
+      <guid>https://nau-gpr.github.io/archived-profiles/brett-dickson/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Brett Dickson is an Associate Professor and Co-Director of the Lab of Landscape Ecology and Conservation Biology in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2014. He is also affiliated with the Lab of Conservation Ecology at NAU.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -979,9 +979,9 @@
     
     <item>
       <title>Bridget Smith-Konter</title>
-      <link>https://ses-nau.org/faculty-profiles/bridget-smith-konter/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/bridget-smith-konter/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/bridget-smith-konter/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/bridget-smith-konter/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Bridget R. Smith-Konter joined Northern Arizona University&amp;rsquo;s School of Earth and Sustainability as a Professor in January 2025. Her research focuses on fault system modeling, earthquake mechanics, and computational geophysics with an emphasis on the San Andreas Fault System, Kilauea, and planetary tectonics.  Dr. Smith-Konter is an NAU alumna, having earned her B.S. in Physics &amp;amp; Astronomy from NAU in 1999.&lt;/p&gt;
 &lt;p&gt;Research website:  &lt;a href=&#34;https://rc.nau.edu/smith-konter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://rc.nau.edu/smith-konter&lt;/a&gt;&lt;/p&gt;
@@ -1050,9 +1050,9 @@
     
     <item>
       <title>Casey Tierney</title>
-      <link>https://ses-nau.org/faculty-profiles/casey-tierney/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/casey-tierney/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/casey-tierney/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/casey-tierney/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Casey R. Tierney is an Assistant Teaching Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2021. He conducts high-impact research that seeks to understand the spatiotemporal evolution of magmatic and volcanic systems of a variety of scales and settings through a combination of physical volcanology, igneous petrology, and geochemistry.  Please see his website (&lt;a href=&#34;https://www.caseytierney.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.caseytierney.com/&lt;/a&gt;) for more information.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -1163,9 +1163,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Christine Regalla</title>
-      <link>https://ses-nau.org/faculty-profiles/christine-regalla/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/christine-regalla/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/christine-regalla/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/christine-regalla/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Christine Regalla is an Associate Professor in the School of Earth and Sustainability at Northern Arizona University, where she has been a faculty member since 2019, recently promoted to Associate Professor in 2024. She is a field geologist whose research centers on understanding where, when, and how faults accommodate active deformation and seismicity.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -1234,9 +1234,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Clare Aslan</title>
-      <link>https://ses-nau.org/faculty-profiles/clare-aslan/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/clare-aslan/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/clare-aslan/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/clare-aslan/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Clare Aslan is an Associate Professor and Director of the School of Earth and Sustainability at Northern Arizona University, where she has been a faculty member since 2014. She also serves as Co-Director of the Center for Adaptable Western Landscapes and the Landscape Conservation Initiative (LCI).&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -1304,9 +1304,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Cody Routson</title>
-      <link>https://ses-nau.org/archived-profiles/cody-routson/</link>
+      <link>https://nau-gpr.github.io/archived-profiles/cody-routson/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/archived-profiles/cody-routson/</guid>
+      <guid>https://nau-gpr.github.io/archived-profiles/cody-routson/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Cody Routson is an Assistant Research Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2017. He works closely with the Past and Present Climate Change research group and is part of NAU&amp;rsquo;s renowned paleoclimatology team.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -1385,9 +1385,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Darrell Kaufman</title>
-      <link>https://ses-nau.org/faculty-profiles/darrell-kaufman/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/darrell-kaufman/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/darrell-kaufman/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/darrell-kaufman/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Darrell Kaufman is a Regents&amp;rsquo; Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 1998. His research focuses on  geologic records of past environmental change on decadal to millennial time scales. He studies physical and biological properties of lake sediment from Alaska and elsewhere to reconstruct past climate changes. As part of his multi-proxy approach, he combines the lake core data with geomorphic evidence for glacier fluctuations. He also develops and applies geochronological techniques, including amino acid and radiocarbon geochronology, to establish precise timelines for these changes. Beyond regional studies, Dr. Kaufman leads international collaborations to integrate paleoclimate data with climate model simulations, producing global-scale syntheses that help reveal how Earth’s climate system responds to natural and human-driven influences. His work highlights how past climate changes can inform strategies for understanding future risks and supporting more sustainable solutions.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -1464,9 +1464,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Debbie Huntzinger</title>
-      <link>https://ses-nau.org/faculty-profiles/deborah-huntzinger/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/deborah-huntzinger/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/deborah-huntzinger/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/deborah-huntzinger/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Deb Huntzinger is a Professor of Climate Science in the School of Earth and Sustainability at Northern Arizona University, where she has been a faculty member since 2011. She leads the &lt;a href=&#34;https://carml.rc.nau.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carbon Accounting, Reporting and Management Lab (CARML)&lt;/a&gt; and is a core faculty in the Center for STEM Teaching and Learning (CSTL) and an affiliated faculty with NAU’s School of Informatics, Computing, and Cyber Systems (SICCS). She is also the creator and director of NAU’s certificate programs in greenhouse gas accounting.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -1550,9 +1550,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Denielle Perry</title>
-      <link>https://ses-nau.org/faculty-profiles/denielle-perry/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/denielle-perry/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/denielle-perry/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/denielle-perry/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Dr. Denielle Perry is an Associate Professor and Water Resource Geographer in the School of Earth and Sustainability at Northern Arizona University, where she has been a faculty member since 2017. She serves as Director of the Free-flowing Rivers Lab and is a founding member and Co-Chair of the Global River Protection Coalition.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;&lt;strong&gt;Research Interests&lt;/strong&gt;&lt;/h2&gt;
@@ -1637,9 +1637,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Diana Stuart</title>
-      <link>https://ses-nau.org/faculty-profiles/diana-stuart/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/diana-stuart/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/diana-stuart/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/diana-stuart/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Diana Stuart is a Professor in the School of Earth and Sustainability at Northern Arizona University, where she has been a faculty member since 2015. She is an environmental sociologist whose primary research focuses on social science analysis of climate change solutions, climate politics, the climate movement, social theory, and social transformation. Dr. Stuart also has done work focused on the political economy of biodiversity loss.&lt;/p&gt;
 &lt;h2 id=&#34;lab-website&#34;&gt;Lab website&lt;/h2&gt;
@@ -1728,9 +1728,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Donna Shillington</title>
-      <link>https://ses-nau.org/faculty-profiles/donna-shillington/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/donna-shillington/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/donna-shillington/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/donna-shillington/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Donna J. Shillington is a Professor in the School of Earth and Sustainability at Northern Arizona University, where she has been a faculty member since 2020. Her research focuses on deformation, magmatism and sedimentation at plate tectonic boundaries and in other interesting geological settings, which I study using active-source seismology together with other geophysical and geological approaches.&lt;/p&gt;
 &lt;p&gt;Research website: donnajshillington.com&lt;/p&gt;
@@ -1809,9 +1809,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Duan Biggs</title>
-      <link>https://ses-nau.org/faculty-profiles/duan-biggs/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/duan-biggs/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/duan-biggs/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/duan-biggs/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Duan Biggs is the Associate Professor and Olajos-Goslow Chair of Environmental Science and Policy in the School of Earth and Sustainability at Northern Arizona University, where he joined the faculty in August 2021. He is the founder and leader of Resilient Conservation, an organization focused on developing innovative approaches to conservation challenges in the Anthropocene.&lt;/p&gt;
 &lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
@@ -2064,9 +2064,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Erik Nielsen</title>
-      <link>https://ses-nau.org/faculty-profiles/erik-nielsen/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/erik-nielsen/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/erik-nielsen/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/erik-nielsen/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Erik Nielsen is Northern Arizona University&amp;rsquo;s inaugural Chief Sustainability Officer and Professor of Environmental Science and Policy in the School of Earth and Sustainability, where he has been a faculty member since 2008. He leads NAU&amp;rsquo;s comprehensive sustainability initiatives aimed at achieving carbon neutrality by 2030.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -2194,9 +2194,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Erika Nowak</title>
-      <link>https://ses-nau.org/faculty-profiles/erika-nowak/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/erika-nowak/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/erika-nowak/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/erika-nowak/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Erika M. Nowak is an Associate Research Professor in the School of Earth and Sustainability and the Department of Biological Sciences at Northern Arizona University, where she has been a faculty member since 2017. She also serves as the Assistant Curator of Herpetology and has over 30 years of experience researching reptiles and amphibians.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -2336,9 +2336,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Francisco Apen</title>
-      <link>https://ses-nau.org/archived-profiles/francisco-apen/</link>
+      <link>https://nau-gpr.github.io/archived-profiles/francisco-apen/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/archived-profiles/francisco-apen/</guid>
+      <guid>https://nau-gpr.github.io/archived-profiles/francisco-apen/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Francisco Apen is an Assistant Professor in the School of Earth and Sustainability at Northern Arizona University, where he joined the faculty in 2024. His research focuses on understanding the formation, evolution, and structure of continental lithosphere through advanced geochemical and geochronological techniques, with a particular emphasis on Earth&amp;rsquo;s earliest continental crust from the Archean eon.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -2517,9 +2517,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Helen Rowe</title>
-      <link>https://ses-nau.org/faculty-profiles/helen-rowe/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/helen-rowe/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/helen-rowe/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/helen-rowe/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Helen Rowe is an Associate Research Professor in the School of Earth and Sustainability at Northern Arizona University and Director of the Parsons Field Institute at the McDowell Sonoran Conservancy. She has over 20 years of experience in natural areas management and research, focusing on ecological restoration and conservation in arid environments.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -2732,9 +2732,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>James Gaherty</title>
-      <link>https://ses-nau.org/faculty-profiles/james-gaherty/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/james-gaherty/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/james-gaherty/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/james-gaherty/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. James B. Gaherty is a Professor of Geophysics in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2020. Dr. Gaherty&amp;rsquo;s research utilizes seismic imaging tools to probe major tectonic processes shaping Earth&amp;rsquo;s surface, combining quantitative seismic analysis with broader geodynamic understanding to address fundamental questions about plate tectonics, mantle dynamics, and surface deformation. His program is very student focused, and he brings extensive experience from major research institutions including Lamont-Doherty Earth Observatory of Columbia University and Georgia Institute of Technology.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -2804,9 +2804,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>James Sample</title>
-      <link>https://ses-nau.org/archived-profiles/james-sample/</link>
+      <link>https://nau-gpr.github.io/archived-profiles/james-sample/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/archived-profiles/james-sample/</guid>
+      <guid>https://nau-gpr.github.io/archived-profiles/james-sample/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. James Sample is a Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2003. His research focuses on structural geology, tectonics, and geochemistry, contributing to our understanding of crustal processes and tectonic evolution.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -2888,9 +2888,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>John Fegyveresi</title>
-      <link>https://ses-nau.org/faculty-profiles/john-fegyveresi/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/john-fegyveresi/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/john-fegyveresi/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/john-fegyveresi/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. John M. Fegyveresi is an Associate Professor of Practice in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2019. He also serves as the Graduate Program Director for the Climate Science and Solutions MS program.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -2969,9 +2969,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Julie Mueller</title>
-      <link>https://ses-nau.org/archived-profiles/julie-mueller/</link>
+      <link>https://nau-gpr.github.io/archived-profiles/julie-mueller/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/archived-profiles/julie-mueller/</guid>
+      <guid>https://nau-gpr.github.io/archived-profiles/julie-mueller/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Julie M. Mueller is an Associate Professor with joint appointments in The W. A. Franke College of Business (80%) and the School of Earth and Sustainability (20%) at Northern Arizona University. She also serves as Chief Economic Advisor to President Cruz Rivera, where she drives development of institutional policies and strategies that support long-term financial sustainability.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -3183,9 +3183,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Laura Wasylenki</title>
-      <link>https://ses-nau.org/faculty-profiles/laura-wasylenki/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/laura-wasylenki/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/laura-wasylenki/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/laura-wasylenki/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Laura Wasylenki is a Retired Professor in the School of Earth and Sustainability at Northern Arizona University, after serving on the faculty 2018-2025 and directing SESAME Lab (Systematic Experimental Study and Analysis of Metals in the Environment). She and her students and postdocs investigated the controls on the abundances of biologically essential trace metals in the global oceans through geologic time, as well as the chemical reactions that govern transport of heavy metal contaminants in natural waters and soils. Now, Dr. Wasylenki provides coaching and advice for early-career academics. She teaches writing skills, does some editing, and is currently reading the psychology literature to devise ways to help early-career scientists better manage stress.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -3286,9 +3286,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Lucero Radonic</title>
-      <link>https://ses-nau.org/archived-profiles/lucero-radonic/</link>
+      <link>https://nau-gpr.github.io/archived-profiles/lucero-radonic/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/archived-profiles/lucero-radonic/</guid>
+      <guid>https://nau-gpr.github.io/archived-profiles/lucero-radonic/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Lucero Radonic is an Associate Professor in the Department of Anthropology at Northern Arizona University, where she has been a faculty member since 2023. She is an applied environmental anthropologist working at the intersection of water governance, infrastructure, and environmental change in Latin America and the United States.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -3530,9 +3530,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Mary Reid</title>
-      <link>https://ses-nau.org/archived-profiles/mary-reid/</link>
+      <link>https://nau-gpr.github.io/archived-profiles/mary-reid/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/archived-profiles/mary-reid/</guid>
+      <guid>https://nau-gpr.github.io/archived-profiles/mary-reid/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Mary Reid is a Professor Emeritus and President&amp;rsquo;s Distinguished Teaching Fellow in the School of Earth and Sustainability at Northern Arizona University, where she has been a faculty member since 2003. Her distinguished career spans several decades of groundbreaking research in geochemistry and petrology.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -3609,9 +3609,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Michael Erb</title>
-      <link>https://ses-nau.org/archived-profiles/michael-erb/</link>
+      <link>https://nau-gpr.github.io/archived-profiles/michael-erb/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/archived-profiles/michael-erb/</guid>
+      <guid>https://nau-gpr.github.io/archived-profiles/michael-erb/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Michael Erb is an Assistant Research Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2017. His research focuses on understanding past climate changes through paleoclimatology and atmospheric science approaches.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -3706,9 +3706,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Michael Smith</title>
-      <link>https://ses-nau.org/faculty-profiles/michael-smith/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/michael-smith/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/michael-smith/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/michael-smith/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Michael Elliot Smith is an Associate Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2014. He leads the Sedimentary Research Group and specializes in understanding tectonic and landscape processes as recorded in terrestrial and marine sedimentary basins.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -3807,9 +3807,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Nancy Johnson</title>
-      <link>https://ses-nau.org/faculty-profiles/nancy-johnson/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/nancy-johnson/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/nancy-johnson/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/nancy-johnson/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Nancy Collins Johnson is a Regents&amp;rsquo; Professor at Northern Arizona University, where she has been a faculty member since 1997. She is an internationally recognized soil ecologist specializing in mycorrhizal symbioses and leads the Johnson Soil Ecology Lab.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -3997,9 +3997,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Nicholas McKay</title>
-      <link>https://ses-nau.org/faculty-profiles/nicholas-mckay/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/nicholas-mckay/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/nicholas-mckay/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/nicholas-mckay/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Nicholas McKay is a Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2013. His research combines paleoclimatology with data science to understand climate variability and change in the past.&lt;/p&gt;
 &lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
@@ -4080,9 +4080,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Paul Umhoefer</title>
-      <link>https://ses-nau.org/archived-profiles/paul-umhoefer/</link>
+      <link>https://nau-gpr.github.io/archived-profiles/paul-umhoefer/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/archived-profiles/paul-umhoefer/</guid>
+      <guid>https://nau-gpr.github.io/archived-profiles/paul-umhoefer/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Paul Umhoefer is a Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2000. His research focuses on understanding the processes and products of crustal extension, with particular emphasis on continental rifting, metamorphic core complexes, and basin evolution.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -4237,9 +4237,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Pranay Ranjan</title>
-      <link>https://ses-nau.org/faculty-profiles/pranay-ranjan/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/pranay-ranjan/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/pranay-ranjan/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/pranay-ranjan/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Pranay Ranjan is an Assistant Professor of Environmental Policy in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since fall 2022. He is an environmental social scientist with interdisciplinary training in institutional analysis, collective action, water governance, and environmental policy.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -4520,9 +4520,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>R. Scott Anderson</title>
-      <link>https://ses-nau.org/faculty-profiles/scott-anderson/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/scott-anderson/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/scott-anderson/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/scott-anderson/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. R. Scott Anderson is Professor Emeritus in the School of Earth and Sustainability at Northern Arizona University, where he has been a distinguished faculty member specializing in paleoecology and Quaternary sciences. His research focuses on paleoenvironmental reconstruction using pollen analysis, plant macrofossils, and lake sediment records, from historical through Quaternary ages.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -4739,9 +4739,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Robert L. Sanford Jr.</title>
-      <link>https://ses-nau.org/archived-profiles/robert-sanford/</link>
+      <link>https://nau-gpr.github.io/archived-profiles/robert-sanford/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/archived-profiles/robert-sanford/</guid>
+      <guid>https://nau-gpr.github.io/archived-profiles/robert-sanford/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Robert L. Sanford Jr., known as &amp;ldquo;Buck,&amp;rdquo; is a Professor Emeritus in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2012. He is a distinguished biogeochemist with extensive research experience in ecosystem ecology and paleoecological reconstructions across diverse environments.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -4987,9 +4987,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Rod Parnell</title>
-      <link>https://ses-nau.org/archived-profiles/rod-parnell/</link>
+      <link>https://nau-gpr.github.io/archived-profiles/rod-parnell/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/archived-profiles/rod-parnell/</guid>
+      <guid>https://nau-gpr.github.io/archived-profiles/rod-parnell/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Roderic &amp;ldquo;Rod&amp;rdquo; Parnell is a Professor of Earth Sciences and Environmental Sustainability in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2000. He serves as coordinator of academic sustainability programs and is a national leader in environmental and sustainability education.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -5114,9 +5114,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Roger Haro</title>
-      <link>https://ses-nau.org/archived-profiles/roger-haro/</link>
+      <link>https://nau-gpr.github.io/archived-profiles/roger-haro/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/archived-profiles/roger-haro/</guid>
+      <guid>https://nau-gpr.github.io/archived-profiles/roger-haro/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Roger Haro serves as Professor and Dean of the College of Environment, Forestry &amp;amp; Natural Sciences at Northern Arizona University, with a joint appointment in the School of Earth and Sustainability. He brings extensive research expertise in freshwater invertebrate ecology and environmental conservation to his leadership role overseeing multiple environmental and natural science programs.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -5303,9 +5303,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Rosemary Logan</title>
-      <link>https://ses-nau.org/archived-profiles/rosemary-logan/</link>
+      <link>https://nau-gpr.github.io/archived-profiles/rosemary-logan/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/archived-profiles/rosemary-logan/</guid>
+      <guid>https://nau-gpr.github.io/archived-profiles/rosemary-logan/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Rosemary Gale Logan is a Lecturer in the First Year Seminar Program and Sustainable Communities Program at Northern Arizona University, where she has been a faculty member since 2013. She holds a Ph.D. in Education for Sustainability from Prescott College and is a recognized leader in transformative sustainability education.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -5537,9 +5537,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Ryan Porter</title>
-      <link>https://ses-nau.org/faculty-profiles/ryan-porter/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/ryan-porter/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/ryan-porter/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/ryan-porter/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Ryan Porter is an Associate Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2014. He is a seismologist and geophysicist whose research focuses on using earthquake seismology to study tectonics and applying shallow geophysics to understand ground and surface systems.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -5718,9 +5718,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Sara Souther</title>
-      <link>https://ses-nau.org/faculty-profiles/sara-souther/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/sara-souther/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/sara-souther/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/sara-souther/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Sara Souther is an Assistant Professor in the School of Earth and Sustainability at Northern Arizona University, where she has been a faculty member since 2017. She is a core member of the Center for Adaptable Western Landscapes and leads research on plant conservation biology and population ecology.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -5863,9 +5863,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Suzanne Affinati</title>
-      <link>https://ses-nau.org/faculty-profiles/suzanne-affinati/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/suzanne-affinati/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/suzanne-affinati/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/suzanne-affinati/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Suzanne Craddock Affinati is an Assistant Research Professor in the School of Earth and Sustainability at Northern Arizona University, where she joined the faculty in 2021. Her research focuses on metamorphic petrology, tectonics, and petrochronology, with particular emphasis on understanding orogenic processes in the U.S. Cordillera.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -5983,9 +5983,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Taylor Joyal</title>
-      <link>https://ses-nau.org/faculty-profiles/taylor-joyal/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/taylor-joyal/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/taylor-joyal/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/taylor-joyal/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Taylor Joyal is an Associate Teaching Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2014. He specializes in fluvial geomorphology and watershed hydrology, with particular expertise in watershed processes, river system dynamics in arid and tropical climates, and post-wildfire flood impacts.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -6161,9 +6161,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Temuulen Sankey</title>
-      <link>https://ses-nau.org/archived-profiles/temuulen-sankey/</link>
+      <link>https://nau-gpr.github.io/archived-profiles/temuulen-sankey/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/archived-profiles/temuulen-sankey/</guid>
+      <guid>https://nau-gpr.github.io/archived-profiles/temuulen-sankey/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Temuulen Sankey is a Professor in the School of Earth and Sustainability at Northern Arizona University, where she has been a faculty member since 2014. Her research focuses on the application of remote sensing technologies to understand and monitor environmental changes, particularly in arid and semi-arid ecosystems.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -6307,9 +6307,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Thomas Hoisch</title>
-      <link>https://ses-nau.org/archived-profiles/thomas-hoisch/</link>
+      <link>https://nau-gpr.github.io/archived-profiles/thomas-hoisch/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/archived-profiles/thomas-hoisch/</guid>
+      <guid>https://nau-gpr.github.io/archived-profiles/thomas-hoisch/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Thomas D. (Todd) Hoisch is a Professor of Geology and former Department Chair in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2000. He brings extensive experience in metamorphic petrology and field geology to his research and teaching.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -6409,9 +6409,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Thomas Sisk</title>
-      <link>https://ses-nau.org/archived-profiles/thomas-sisk/</link>
+      <link>https://nau-gpr.github.io/archived-profiles/thomas-sisk/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/archived-profiles/thomas-sisk/</guid>
+      <guid>https://nau-gpr.github.io/archived-profiles/thomas-sisk/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Thomas Sisk is a Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2000. His research integrates landscape ecology, conservation biology, and environmental policy to address complex environmental challenges, particularly in fire-prone landscapes of the western United States.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -6521,9 +6521,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Master of Science in Climate Science and Solutions | NAU</title>
-      <link>https://ses-nau.org/student-opportunities/climate-science-solutions/</link>
+      <link>https://nau-gpr.github.io/student-opportunities/climate-science-solutions/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/student-opportunities/climate-science-solutions/</guid>
+      <guid>https://nau-gpr.github.io/student-opportunities/climate-science-solutions/</guid>
       <description>&lt;h2 id=&#34;climate-science-and-solutions-masters-program&#34;&gt;Climate Science and Solutions Master&amp;rsquo;s Program&lt;/h2&gt;
 &lt;h3 id=&#34;program-overview&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;p&gt;The Master of Science in Climate Science and Solutions (CSS) is a &lt;strong&gt;Professional Science Master&amp;rsquo;s&lt;/strong&gt; degree designed to prepare students for the growing climate industry. This innovative &lt;strong&gt;18-month, non-thesis program&lt;/strong&gt; combines rigorous climate science education with professional skills training to meet the increasing demand for climate professionals in various sectors.&lt;/p&gt;
@@ -6755,9 +6755,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Master of Science in Environmental Sciences and Policy | NAU</title>
-      <link>https://ses-nau.org/student-opportunities/environmental-sciences-policy/</link>
+      <link>https://nau-gpr.github.io/student-opportunities/environmental-sciences-policy/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/student-opportunities/environmental-sciences-policy/</guid>
+      <guid>https://nau-gpr.github.io/student-opportunities/environmental-sciences-policy/</guid>
       <description>&lt;h2 id=&#34;master-of-science-in-environmental-sciences-and-policy&#34;&gt;Master of Science in Environmental Sciences and Policy&lt;/h2&gt;
 &lt;h3 id=&#34;program-overview&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;p&gt;The Master of Science in Environmental Sciences and Policy is a &lt;strong&gt;two-year program&lt;/strong&gt; that provides students with an interdisciplinary education combining natural sciences and environmental policy. Our program emphasizes strong faculty advising and individualized student programs, with research projects that often span both campus and community.&lt;/p&gt;
@@ -7006,8 +7006,8 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;For Faculty Information:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Visit our &lt;a href=&#34;https://ses-nau.org/faculty-profiles/&#34;&gt;Faculty Profiles&lt;/a&gt; to learn about individual research programs&lt;/li&gt;
-&lt;li&gt;Review current &lt;a href=&#34;https://ses-nau.org/grad-opportunities/&#34;&gt;Graduate Research Opportunities&lt;/a&gt; for available positions&lt;/li&gt;
+&lt;li&gt;Visit our &lt;a href=&#34;https://nau-gpr.github.io/faculty-profiles/&#34;&gt;Faculty Profiles&lt;/a&gt; to learn about individual research programs&lt;/li&gt;
+&lt;li&gt;Review current &lt;a href=&#34;https://nau-gpr.github.io/grad-opportunities/&#34;&gt;Graduate Research Opportunities&lt;/a&gt; for available positions&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;why-choose-naus-environmental-sciences-and-policy-program&#34;&gt;Why Choose NAU&amp;rsquo;s Environmental Sciences and Policy Program?&lt;/h3&gt;
 &lt;h4 id=&#34;-exceptional-location&#34;&gt;&lt;strong&gt;🌲 Exceptional Location&lt;/strong&gt;&lt;/h4&gt;
@@ -7060,9 +7060,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>Master of Science in Geology | NAU Earth Sciences</title>
-      <link>https://ses-nau.org/student-opportunities/geology-ms/</link>
+      <link>https://nau-gpr.github.io/student-opportunities/geology-ms/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/student-opportunities/geology-ms/</guid>
+      <guid>https://nau-gpr.github.io/student-opportunities/geology-ms/</guid>
       <description>&lt;h2 id=&#34;master-of-science-in-geology&#34;&gt;Master of Science in Geology&lt;/h2&gt;
 &lt;h3 id=&#34;program-overview&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;p&gt;The Master of Science in Geology at Northern Arizona University&amp;rsquo;s School of Earth and Sustainability provides students with advanced training in geological sciences through hands-on research and comprehensive coursework. Our program has an excellent track record of success, with &lt;strong&gt;about 90% of graduates employed&lt;/strong&gt; in environmental consulting, the energy industry, teaching, and government agencies.&lt;/p&gt;
@@ -7266,8 +7266,8 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;For Research and Faculty Information:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Visit our &lt;a href=&#34;https://ses-nau.org/faculty-profiles/&#34;&gt;Faculty Profiles&lt;/a&gt; to learn more about individual faculty research programs&lt;/li&gt;
-&lt;li&gt;Review current &lt;a href=&#34;https://ses-nau.org/grad-opportunities/&#34;&gt;Graduate Research Opportunities&lt;/a&gt; for available positions&lt;/li&gt;
+&lt;li&gt;Visit our &lt;a href=&#34;https://nau-gpr.github.io/faculty-profiles/&#34;&gt;Faculty Profiles&lt;/a&gt; to learn more about individual faculty research programs&lt;/li&gt;
+&lt;li&gt;Review current &lt;a href=&#34;https://nau-gpr.github.io/grad-opportunities/&#34;&gt;Graduate Research Opportunities&lt;/a&gt; for available positions&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;why-choose-nau-geology&#34;&gt;Why Choose NAU Geology?&lt;/h3&gt;
 &lt;h4 id=&#34;-exceptional-location&#34;&gt;&lt;strong&gt;🏔️ Exceptional Location&lt;/strong&gt;&lt;/h4&gt;
@@ -7319,9 +7319,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>PhD in Earth Sciences and Environmental Sustainability | NAU</title>
-      <link>https://ses-nau.org/student-opportunities/earth-sciences-environmental-sustainability-phd/</link>
+      <link>https://nau-gpr.github.io/student-opportunities/earth-sciences-environmental-sustainability-phd/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/student-opportunities/earth-sciences-environmental-sustainability-phd/</guid>
+      <guid>https://nau-gpr.github.io/student-opportunities/earth-sciences-environmental-sustainability-phd/</guid>
       <description>&lt;h2 id=&#34;doctor-of-philosophy-in-earth-sciences-and-environmental-sustainability&#34;&gt;Doctor of Philosophy in Earth Sciences and Environmental Sustainability&lt;/h2&gt;
 &lt;h3 id=&#34;program-overview&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;p&gt;The &lt;strong&gt;Doctor of Philosophy in Earth Sciences and Environmental Sustainability&lt;/strong&gt; is an interdisciplinary doctoral program that trains researchers to address complex environmental challenges through innovative, cross-disciplinary approaches. Our program combines rigorous scientific training with policy relevance, preparing graduates for leadership roles in research, academia, government agencies, and private sector organizations.&lt;/p&gt;
@@ -7621,8 +7621,8 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;For Faculty Information:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Visit our &lt;a href=&#34;https://ses-nau.org/faculty-profiles/&#34;&gt;Faculty Profiles&lt;/a&gt; to learn about individual research programs&lt;/li&gt;
-&lt;li&gt;Review current &lt;a href=&#34;https://ses-nau.org/grad-opportunities/&#34;&gt;Graduate Research Opportunities&lt;/a&gt; for available positions&lt;/li&gt;
+&lt;li&gt;Visit our &lt;a href=&#34;https://nau-gpr.github.io/faculty-profiles/&#34;&gt;Faculty Profiles&lt;/a&gt; to learn about individual research programs&lt;/li&gt;
+&lt;li&gt;Review current &lt;a href=&#34;https://nau-gpr.github.io/grad-opportunities/&#34;&gt;Graduate Research Opportunities&lt;/a&gt; for available positions&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;why-choose-naus-earth-sciences-and-environmental-sustainability-phd&#34;&gt;Why Choose NAU&amp;rsquo;s Earth Sciences and Environmental Sustainability PhD?&lt;/h3&gt;
 &lt;h4 id=&#34;-research-excellence&#34;&gt;&lt;strong&gt;🔬 Research Excellence&lt;/strong&gt;&lt;/h4&gt;
@@ -7680,9 +7680,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://ses-nau.org/publication/preprint/</link>
+      <link>https://nau-gpr.github.io/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/publication/preprint/</guid>
+      <guid>https://nau-gpr.github.io/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -7694,9 +7694,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>An example journal article</title>
-      <link>https://ses-nau.org/publication/journal-article/</link>
+      <link>https://nau-gpr.github.io/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/publication/journal-article/</guid>
+      <guid>https://nau-gpr.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -7713,9 +7713,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://ses-nau.org/publication/conference-paper/</link>
+      <link>https://nau-gpr.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/publication/conference-paper/</guid>
+      <guid>https://nau-gpr.github.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -7732,9 +7732,9 @@ Gemini in Workspace can make mistakes, so double-check responses. Learn more&lt;
     
     <item>
       <title>About This Dashboard</title>
-      <link>https://ses-nau.org/about/</link>
+      <link>https://nau-gpr.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/about/</guid>
+      <guid>https://nau-gpr.github.io/about/</guid>
       <description>&lt;h1 id=&#34;about-the-ses-publications-dashboard&#34;&gt;About the SES Publications Dashboard&lt;/h1&gt;
 &lt;p&gt;This dashboard provides a comprehensive view of research publications by faculty and students in Northern Arizona University&amp;rsquo;s &lt;strong&gt;School of Earth and Sustainability (SES)&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;data-sources&#34;&gt;Data Sources&lt;/h2&gt;
@@ -7822,25 +7822,25 @@ Flagstaff, AZ 86011&lt;/p&gt;
     
     <item>
       <title>Alumni | NAU School of Earth and Sustainability</title>
-      <link>https://ses-nau.org/alumni/</link>
+      <link>https://nau-gpr.github.io/alumni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/alumni/</guid>
+      <guid>https://nau-gpr.github.io/alumni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://ses-nau.org/contact/</link>
+      <link>https://nau-gpr.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/contact/</guid>
+      <guid>https://nau-gpr.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecology &amp; Conservation</title>
-      <link>https://ses-nau.org/research-themes/ecology-conservation/</link>
+      <link>https://nau-gpr.github.io/research-themes/ecology-conservation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/research-themes/ecology-conservation/</guid>
+      <guid>https://nau-gpr.github.io/research-themes/ecology-conservation/</guid>
       <description>&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
 &lt;p&gt;SES faculty lead research programs investigating biodiversity, ecosystem function, the ecological impacts of human activities, and strategies for ecosystem conservation and management.&lt;/p&gt;
 &lt;h2 id=&#34;faculty-expertise&#34;&gt;Faculty Expertise&lt;/h2&gt;
@@ -7909,9 +7909,9 @@ Flagstaff, AZ 86011&lt;/p&gt;
     
     <item>
       <title>Environment &amp; Society</title>
-      <link>https://ses-nau.org/research-themes/environment-society/</link>
+      <link>https://nau-gpr.github.io/research-themes/environment-society/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/research-themes/environment-society/</guid>
+      <guid>https://nau-gpr.github.io/research-themes/environment-society/</guid>
       <description>&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
 &lt;p&gt;Social science and interdisciplinary research on natural resource management and socio-economic policies.&lt;/p&gt;
 &lt;h2 id=&#34;research-areas&#34;&gt;Research Areas&lt;/h2&gt;
@@ -7990,9 +7990,9 @@ Flagstaff, AZ 86011&lt;/p&gt;
     
     <item>
       <title>Graduate Certificates</title>
-      <link>https://ses-nau.org/student-opportunities/graduate-certificates/</link>
+      <link>https://nau-gpr.github.io/student-opportunities/graduate-certificates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/student-opportunities/graduate-certificates/</guid>
+      <guid>https://nau-gpr.github.io/student-opportunities/graduate-certificates/</guid>
       <description>&lt;h3 id=&#34;program-overview&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Format:&lt;/strong&gt; Online certificate program&lt;/li&gt;
@@ -8118,9 +8118,9 @@ Hailey Baker: “The certificate directly contributed to me landing two internsh
     
     <item>
       <title>Graduate Degree Programs</title>
-      <link>https://ses-nau.org/student-opportunities/graduate-degrees/</link>
+      <link>https://nau-gpr.github.io/student-opportunities/graduate-degrees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/student-opportunities/graduate-degrees/</guid>
+      <guid>https://nau-gpr.github.io/student-opportunities/graduate-degrees/</guid>
       <description>&lt;h2 id=&#34;graduate-degree-programs&#34;&gt;Graduate Degree Programs&lt;/h2&gt;
 &lt;p&gt;The School of Earth and Sustainability offers four comprehensive graduate degree programs designed to prepare students for advanced careers in research, industry, government, and academia.&lt;/p&gt;
 &lt;h2 id=&#34;master-of-science-in-geology-ms&#34;&gt;Master of Science in Geology (MS)&lt;/h2&gt;
@@ -8134,7 +8134,7 @@ Hailey Baker: “The certificate directly contributed to me landing two internsh
   &lt;/div&gt;
   &lt;div id=&#34;geologyCollapse&#34; class=&#34;collapse show&#34; aria-labelledby=&#34;geologyHeader&#34;&gt;
     &lt;div class=&#34;card-body&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://ses-nau.org/student-opportunities/geology-ms/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nau-gpr.github.io/student-opportunities/geology-ms/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;program-overview&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Focus Areas:&lt;/strong&gt; Sedimentary, igneous, and metamorphic rocks; stratigraphy, structure, volcanology, surficial processes, water resources&lt;/li&gt;
@@ -8190,7 +8190,7 @@ Hailey Baker: “The certificate directly contributed to me landing two internsh
   &lt;/div&gt;
   &lt;div id=&#34;envSciCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;envSciHeader&#34;&gt;
     &lt;div class=&#34;card-body&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://ses-nau.org/student-opportunities/environmental-sciences-policy/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nau-gpr.github.io/student-opportunities/environmental-sciences-policy/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;program-overview-1&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; Two-year program&lt;/li&gt;
@@ -8243,7 +8243,7 @@ Hailey Baker: “The certificate directly contributed to me landing two internsh
   &lt;/div&gt;
   &lt;div id=&#34;climateCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;climateHeader&#34;&gt;
     &lt;div class=&#34;card-body&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://ses-nau.org/student-opportunities/climate-science-solutions/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nau-gpr.github.io/student-opportunities/climate-science-solutions/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;program-overview-2&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Type:&lt;/strong&gt; Professional Science Master&amp;rsquo;s degree&lt;/li&gt;
@@ -8304,7 +8304,7 @@ Hailey Baker: “The certificate directly contributed to me landing two internsh
   &lt;/div&gt;
   &lt;div id=&#34;phdCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;phdHeader&#34;&gt;
     &lt;div class=&#34;card-body&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://ses-nau.org/student-opportunities/earth-sciences-environmental-sustainability-phd/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nau-gpr.github.io/student-opportunities/earth-sciences-environmental-sustainability-phd/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;program-overview-3&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Requirements:&lt;/strong&gt; 30 course units, comprehensive examination, dissertation&lt;/li&gt;
@@ -8371,7 +8371,7 @@ Hailey Baker: “The certificate directly contributed to me landing two internsh
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;h1 id=&#34;guidance-for-applying-to-naus-graduate-school-to-pursue-an-advanced-degrees-in-ses&#34;&gt;Guidance for applying to NAU’s graduate school to pursue an advanced degrees in SES&lt;/h1&gt;
-&lt;p&gt;First, if you plan to apply to a thesis-based program (ESP MS, GLG MS, and ESES PhD), &lt;a href=&#34;https://ses-nau.org/faculty-profiles/&#34;&gt;get to know our faculty&lt;/a&gt; and &lt;a href=&#34;https://ses-nau.org/grad-opportunites&#34;&gt;review current opportunities for students&lt;/a&gt;. &lt;strong&gt;It is very important that you reach out to faculty members you would be interested in working with before you apply&lt;/strong&gt;. Faculty expect to receive emails from prospective students and will be happy to hear from you about your specific interests. They can also tell you more about their research and if they have space available in their labs.&lt;/p&gt;
+&lt;p&gt;First, if you plan to apply to a thesis-based program (ESP MS, GLG MS, and ESES PhD), &lt;a href=&#34;https://nau-gpr.github.io/faculty-profiles/&#34;&gt;get to know our faculty&lt;/a&gt; and &lt;a href=&#34;https://nau-gpr.github.io/grad-opportunites&#34;&gt;review current opportunities for students&lt;/a&gt;. &lt;strong&gt;It is very important that you reach out to faculty members you would be interested in working with before you apply&lt;/strong&gt;. Faculty expect to receive emails from prospective students and will be happy to hear from you about your specific interests. They can also tell you more about their research and if they have space available in their labs.&lt;/p&gt;
 &lt;p&gt;Second, entry into any SES Graduate Program requires an online application through the Office of Graduate and Professional Studies. A completed application for admission will include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;An online application for admission to the NAU Office of Graduate and Professional Studies, with the required application fee;&lt;/li&gt;
@@ -8393,9 +8393,9 @@ Hailey Baker: “The certificate directly contributed to me landing two internsh
     
     <item>
       <title>Graduate Student Breakthrough: Ancient Climate Patterns Reveal Future Insights</title>
-      <link>https://ses-nau.org/highlights/graduate-student-research/</link>
+      <link>https://nau-gpr.github.io/highlights/graduate-student-research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/highlights/graduate-student-research/</guid>
+      <guid>https://nau-gpr.github.io/highlights/graduate-student-research/</guid>
       <description>&lt;h2 id=&#34;student-research-makes-major-impact&#34;&gt;Student Research Makes Major Impact&lt;/h2&gt;
 &lt;p&gt;Graduate student Eva Baransky, working under the guidance of Professor Darrell Kaufman, has published groundbreaking research that reconstructs ecosystem changes over the past 15,000 years using advanced biomarker analysis.&lt;/p&gt;
 &lt;h3 id=&#34;the-research&#34;&gt;The Research&lt;/h3&gt;
@@ -8452,12 +8452,12 @@ Hailey Baker: “The certificate directly contributed to me landing two internsh
     
     <item>
       <title>Greenhouse Gas (GHG) Accounting Professional Certificate | NAU</title>
-      <link>https://ses-nau.org/student-opportunities/professional-certificates/</link>
+      <link>https://nau-gpr.github.io/student-opportunities/professional-certificates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/student-opportunities/professional-certificates/</guid>
+      <guid>https://nau-gpr.github.io/student-opportunities/professional-certificates/</guid>
       <description>&lt;div class=&#34;alert alert-info&#34; role=&#34;alert&#34;&gt;
   &lt;i class=&#34;fas fa-file-pdf&#34;&gt;&lt;/i&gt; &lt;strong&gt;Download the complete program flyer:&lt;/strong&gt; 
-  &lt;a href=&#34;https://ses-nau.org/media/ghg-professional-certificate-flyer.pdf&#34; target=&#34;_blank&#34; class=&#34;btn btn-primary btn-sm ml-2&#34; style=&#34;color: white !important;&#34;&gt;
+  &lt;a href=&#34;https://nau-gpr.github.io/media/ghg-professional-certificate-flyer.pdf&#34; target=&#34;_blank&#34; class=&#34;btn btn-primary btn-sm ml-2&#34; style=&#34;color: white !important;&#34;&gt;
     &lt;i class=&#34;fas fa-download&#34;&gt;&lt;/i&gt; View PDF Flyer
   &lt;/a&gt;
 &lt;/div&gt;
@@ -8539,9 +8539,9 @@ Hailey Baker: “The certificate directly contributed to me landing two internsh
     
     <item>
       <title>Holocene Climate Variability: New Insights from Lake Records</title>
-      <link>https://ses-nau.org/highlights/holocene-climate-variability/</link>
+      <link>https://nau-gpr.github.io/highlights/holocene-climate-variability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/highlights/holocene-climate-variability/</guid>
+      <guid>https://nau-gpr.github.io/highlights/holocene-climate-variability/</guid>
       <description>&lt;h2 id=&#34;breakthrough-in-understanding-past-climate&#34;&gt;Breakthrough in Understanding Past Climate&lt;/h2&gt;
 &lt;p&gt;Faculty researchers Darrell Kaufman and Nicholas McKay have published groundbreaking research that reconstructs climate patterns over the past 10,000 years using lake sediment records. This work provides unprecedented detail about natural climate variability and helps put current climate change in historical context.&lt;/p&gt;
 &lt;h3 id=&#34;key-findings&#34;&gt;Key Findings&lt;/h3&gt;
@@ -8568,9 +8568,9 @@ Hailey Baker: “The certificate directly contributed to me landing two internsh
     
     <item>
       <title>Past &amp; Present Climate Change</title>
-      <link>https://ses-nau.org/research-themes/climate-change/</link>
+      <link>https://nau-gpr.github.io/research-themes/climate-change/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/research-themes/climate-change/</guid>
+      <guid>https://nau-gpr.github.io/research-themes/climate-change/</guid>
       <description>&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
 &lt;p&gt;Understanding climate system changes and interactions between the atmosphere, oceans, biosphere, and frozen Earth. Our research addresses how climate systems change over time, improving earth-system models, terrestrial biosphere responses to climate change, and climate impacts on human societies.&lt;/p&gt;
 &lt;h2 id=&#34;research-questions&#34;&gt;Research Questions&lt;/h2&gt;
@@ -8669,9 +8669,9 @@ Hailey Baker: “The certificate directly contributed to me landing two internsh
     
     <item>
       <title>Sedimentary Geology and Geomorphology</title>
-      <link>https://ses-nau.org/research-themes/sedimentary-geology/</link>
+      <link>https://nau-gpr.github.io/research-themes/sedimentary-geology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/research-themes/sedimentary-geology/</guid>
+      <guid>https://nau-gpr.github.io/research-themes/sedimentary-geology/</guid>
       <description>&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
 &lt;p&gt;Studying Earth&amp;rsquo;s marine and terrestrial surfaces using field surveys, remote sensing, lab analyses, and numerical modeling. Our research spans diverse environments including deserts, mountains, rivers, and coastal areas.&lt;/p&gt;
 &lt;h2 id=&#34;key-faculty&#34;&gt;Key Faculty&lt;/h2&gt;
@@ -8758,9 +8758,9 @@ Hailey Baker: “The certificate directly contributed to me landing two internsh
     
     <item>
       <title>Tectonics &amp; Earth&#39;s Interior</title>
-      <link>https://ses-nau.org/research-themes/tectonics-interior/</link>
+      <link>https://nau-gpr.github.io/research-themes/tectonics-interior/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/research-themes/tectonics-interior/</guid>
+      <guid>https://nau-gpr.github.io/research-themes/tectonics-interior/</guid>
       <description>&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
 &lt;p&gt;Study of Earth&amp;rsquo;s internal and surface processes, plate boundaries, crustal processes, and landscape evolution. Our research addresses plate boundary processes, crustal and mantle dynamics, interaction between surface and deeper processes, and tectonic evolution of the American Cordillera.&lt;/p&gt;
 &lt;h2 id=&#34;research-questions&#34;&gt;Research Questions&lt;/h2&gt;
@@ -8862,9 +8862,9 @@ Hailey Baker: “The certificate directly contributed to me landing two internsh
     
     <item>
       <title>Undergraduate Certificates Programs</title>
-      <link>https://ses-nau.org/student-opportunities/undergraduate-certificates/</link>
+      <link>https://nau-gpr.github.io/student-opportunities/undergraduate-certificates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/student-opportunities/undergraduate-certificates/</guid>
+      <guid>https://nau-gpr.github.io/student-opportunities/undergraduate-certificates/</guid>
       <description>&lt;h2 id=&#34;undergraduate-certificate-in-greenhouse-gas-management-and-mitigation&#34;&gt;Undergraduate Certificate in Greenhouse Gas Management and Mitigation&lt;/h2&gt;
 &lt;p&gt;The Undergraduate Certificate in Greenhouse Gas (GHG) Management and Mitigation trains students in the foundations of climate change, the role of greenhouse gases in driving climate change, and the technical skills required to quantify GHG emissions and design effective emissions management and mitigate programs. Given the scale and challenges imposed by climate change, there is a strong and growing need for professionals with robust skills in tracking, reporting, and managing GHG emissions from companies and organizations. Individuals with a foundational knowledge in climate change and in the best practices in quantifying and managing GHG emissions can also better speak to the issues and challenges associated with net zero emissions standards (and claims) and in the design of effective emission reduction strategies.&lt;/p&gt;
 &lt;h3 id=&#34;skills-based-training-for-the-competitive-job-market&#34;&gt;Skills-Based Training for the Competitive Job Market&lt;/h3&gt;
@@ -8907,9 +8907,9 @@ Hailey Baker: “The certificate directly contributed to me landing two internsh
     
     <item>
       <title>Undergraduate Degree Programs</title>
-      <link>https://ses-nau.org/student-opportunities/undergraduate-degrees/</link>
+      <link>https://nau-gpr.github.io/student-opportunities/undergraduate-degrees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/student-opportunities/undergraduate-degrees/</guid>
+      <guid>https://nau-gpr.github.io/student-opportunities/undergraduate-degrees/</guid>
       <description>&lt;h2 id=&#34;undergraduate-degree-programs&#34;&gt;Undergraduate Degree Programs&lt;/h2&gt;
 &lt;p&gt;The School of Earth and Sustainability offers five undergraduate degree programs designed to provide students with comprehensive knowledge and hands-on experience in earth sciences, environmental science, and sustainability studies.&lt;/p&gt;
 &lt;h2 id=&#34;geology-bachelor-of-science-bs&#34;&gt;Geology Bachelor of Science (BS)&lt;/h2&gt;
@@ -9197,9 +9197,9 @@ Hailey Baker: “The certificate directly contributed to me landing two internsh
     
     <item>
       <title>Water Management Policy &amp; Science</title>
-      <link>https://ses-nau.org/research-themes/water-management/</link>
+      <link>https://nau-gpr.github.io/research-themes/water-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/research-themes/water-management/</guid>
+      <guid>https://nau-gpr.github.io/research-themes/water-management/</guid>
       <description>&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
 &lt;p&gt;Human impact on Earth&amp;rsquo;s surface processes, with research focused on hydrologic systems in arid and semi-arid Western North America.&lt;/p&gt;
 &lt;h2 id=&#34;current-projects&#34;&gt;Current Projects&lt;/h2&gt;
@@ -9293,9 +9293,9 @@ Hailey Baker: “The certificate directly contributed to me landing two internsh
     
     <item>
       <title>Wildfire Ecology in a Changing Climate: SES Research Leads Conservation Efforts</title>
-      <link>https://ses-nau.org/highlights/forest-fire-ecology/</link>
+      <link>https://nau-gpr.github.io/highlights/forest-fire-ecology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/highlights/forest-fire-ecology/</guid>
+      <guid>https://nau-gpr.github.io/highlights/forest-fire-ecology/</guid>
       <description>&lt;h2 id=&#34;transforming-wildfire-research-with-technology&#34;&gt;Transforming Wildfire Research with Technology&lt;/h2&gt;
 &lt;p&gt;Professors Thomas Sisk and Temuulen Sankey are leading cutting-edge research that combines field ecology with advanced remote sensing to understand how forests respond to increasingly severe wildfires.&lt;/p&gt;
 &lt;h3 id=&#34;innovative-research-methods&#34;&gt;Innovative Research Methods&lt;/h3&gt;

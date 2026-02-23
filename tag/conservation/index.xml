@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conservation | NAU School of Earth and Sustainability</title>
-    <link>https://ses-nau.org/tag/conservation/</link>
-      <atom:link href="https://ses-nau.org/tag/conservation/index.xml" rel="self" type="application/rss+xml" />
+    <title>Conservation | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/tag/conservation/</link>
+      <atom:link href="https://nau-gpr.github.io/tag/conservation/index.xml" rel="self" type="application/rss+xml" />
     <description>Conservation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>Conservation</title>
-      <link>https://ses-nau.org/tag/conservation/</link>
+      <link>https://nau-gpr.github.io/tag/conservation/</link>
     </image>
     
     <item>
       <title>Ecology &amp; Conservation</title>
-      <link>https://ses-nau.org/research-themes/ecology-conservation/</link>
+      <link>https://nau-gpr.github.io/research-themes/ecology-conservation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/research-themes/ecology-conservation/</guid>
+      <guid>https://nau-gpr.github.io/research-themes/ecology-conservation/</guid>
       <description>&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
 &lt;p&gt;SES faculty lead research programs investigating biodiversity, ecosystem function, the ecological impacts of human activities, and strategies for ecosystem conservation and management.&lt;/p&gt;
 &lt;h2 id=&#34;faculty-expertise&#34;&gt;Faculty Expertise&lt;/h2&gt;
@@ -85,9 +85,9 @@
     
     <item>
       <title>Wildfire Ecology in a Changing Climate: SES Research Leads Conservation Efforts</title>
-      <link>https://ses-nau.org/highlights/forest-fire-ecology/</link>
+      <link>https://nau-gpr.github.io/highlights/forest-fire-ecology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/highlights/forest-fire-ecology/</guid>
+      <guid>https://nau-gpr.github.io/highlights/forest-fire-ecology/</guid>
       <description>&lt;h2 id=&#34;transforming-wildfire-research-with-technology&#34;&gt;Transforming Wildfire Research with Technology&lt;/h2&gt;
 &lt;p&gt;Professors Thomas Sisk and Temuulen Sankey are leading cutting-edge research that combines field ecology with advanced remote sensing to understand how forests respond to increasingly severe wildfires.&lt;/p&gt;
 &lt;h3 id=&#34;innovative-research-methods&#34;&gt;Innovative Research Methods&lt;/h3&gt;

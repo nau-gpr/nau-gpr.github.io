@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Surface Processes | NAU School of Earth and Sustainability</title>
-    <link>https://ses-nau.org/tag/surface-processes/</link>
-      <atom:link href="https://ses-nau.org/tag/surface-processes/index.xml" rel="self" type="application/rss+xml" />
+    <title>Surface Processes | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/tag/surface-processes/</link>
+      <atom:link href="https://nau-gpr.github.io/tag/surface-processes/index.xml" rel="self" type="application/rss+xml" />
     <description>Surface Processes</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>Surface Processes</title>
-      <link>https://ses-nau.org/tag/surface-processes/</link>
+      <link>https://nau-gpr.github.io/tag/surface-processes/</link>
     </image>
     
     <item>
       <title>Sedimentary Geology and Geomorphology</title>
-      <link>https://ses-nau.org/research-themes/sedimentary-geology/</link>
+      <link>https://nau-gpr.github.io/research-themes/sedimentary-geology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/research-themes/sedimentary-geology/</guid>
+      <guid>https://nau-gpr.github.io/research-themes/sedimentary-geology/</guid>
       <description>&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
 &lt;p&gt;Studying Earth&amp;rsquo;s marine and terrestrial surfaces using field surveys, remote sensing, lab analyses, and numerical modeling. Our research spans diverse environments including deserts, mountains, rivers, and coastal areas.&lt;/p&gt;
 &lt;h2 id=&#34;key-faculty&#34;&gt;Key Faculty&lt;/h2&gt;

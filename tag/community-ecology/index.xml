@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Community Ecology | NAU School of Earth and Sustainability</title>
-    <link>https://ses-nau.org/tag/community-ecology/</link>
-      <atom:link href="https://ses-nau.org/tag/community-ecology/index.xml" rel="self" type="application/rss+xml" />
+    <title>Community Ecology | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/tag/community-ecology/</link>
+      <atom:link href="https://nau-gpr.github.io/tag/community-ecology/index.xml" rel="self" type="application/rss+xml" />
     <description>Community Ecology</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>Community Ecology</title>
-      <link>https://ses-nau.org/tag/community-ecology/</link>
+      <link>https://nau-gpr.github.io/tag/community-ecology/</link>
     </image>
     
     <item>
       <title>Rebecca Best</title>
-      <link>https://ses-nau.org/faculty-profiles/rebecca-best/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/rebecca-best/</link>
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/rebecca-best/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/rebecca-best/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Rebecca Best is an Associate Professor in the School of Earth and Sustainability at Northern Arizona University, where she leads the Aquatic Biodiversity and Conservation (ABC) Lab. She is also an affiliate of the Center for Adaptable Western Landscapes at NAU.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;

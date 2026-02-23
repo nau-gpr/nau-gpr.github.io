@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Online Learning | NAU School of Earth and Sustainability</title>
-    <link>https://ses-nau.org/tag/online-learning/</link>
-      <atom:link href="https://ses-nau.org/tag/online-learning/index.xml" rel="self" type="application/rss+xml" />
+    <title>Online Learning | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/tag/online-learning/</link>
+      <atom:link href="https://nau-gpr.github.io/tag/online-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Online Learning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>Online Learning</title>
-      <link>https://ses-nau.org/tag/online-learning/</link>
+      <link>https://nau-gpr.github.io/tag/online-learning/</link>
     </image>
     
     <item>
       <title>Graduate Certificates</title>
-      <link>https://ses-nau.org/student-opportunities/graduate-certificates/</link>
+      <link>https://nau-gpr.github.io/student-opportunities/graduate-certificates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/student-opportunities/graduate-certificates/</guid>
+      <guid>https://nau-gpr.github.io/student-opportunities/graduate-certificates/</guid>
       <description>&lt;h3 id=&#34;program-overview&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Format:&lt;/strong&gt; Online certificate program&lt;/li&gt;
@@ -142,12 +142,12 @@ Hailey Baker: “The certificate directly contributed to me landing two internsh
     
     <item>
       <title>Greenhouse Gas (GHG) Accounting Professional Certificate | NAU</title>
-      <link>https://ses-nau.org/student-opportunities/professional-certificates/</link>
+      <link>https://nau-gpr.github.io/student-opportunities/professional-certificates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/student-opportunities/professional-certificates/</guid>
+      <guid>https://nau-gpr.github.io/student-opportunities/professional-certificates/</guid>
       <description>&lt;div class=&#34;alert alert-info&#34; role=&#34;alert&#34;&gt;
   &lt;i class=&#34;fas fa-file-pdf&#34;&gt;&lt;/i&gt; &lt;strong&gt;Download the complete program flyer:&lt;/strong&gt; 
-  &lt;a href=&#34;https://ses-nau.org/media/ghg-professional-certificate-flyer.pdf&#34; target=&#34;_blank&#34; class=&#34;btn btn-primary btn-sm ml-2&#34; style=&#34;color: white !important;&#34;&gt;
+  &lt;a href=&#34;https://nau-gpr.github.io/media/ghg-professional-certificate-flyer.pdf&#34; target=&#34;_blank&#34; class=&#34;btn btn-primary btn-sm ml-2&#34; style=&#34;color: white !important;&#34;&gt;
     &lt;i class=&#34;fas fa-download&#34;&gt;&lt;/i&gt; View PDF Flyer
   &lt;/a&gt;
 &lt;/div&gt;

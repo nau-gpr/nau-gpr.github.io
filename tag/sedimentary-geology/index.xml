@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sedimentary Geology | NAU School of Earth and Sustainability</title>
-    <link>https://ses-nau.org/tag/sedimentary-geology/</link>
-      <atom:link href="https://ses-nau.org/tag/sedimentary-geology/index.xml" rel="self" type="application/rss+xml" />
+    <title>Sedimentary Geology | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/tag/sedimentary-geology/</link>
+      <atom:link href="https://nau-gpr.github.io/tag/sedimentary-geology/index.xml" rel="self" type="application/rss+xml" />
     <description>Sedimentary Geology</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ses-nau.org/media/logo_hu_a3c17d8070e8a619.png</url>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>Sedimentary Geology</title>
-      <link>https://ses-nau.org/tag/sedimentary-geology/</link>
+      <link>https://nau-gpr.github.io/tag/sedimentary-geology/</link>
     </image>
     
     <item>
       <title>Michael Smith</title>
-      <link>https://ses-nau.org/faculty-profiles/michael-smith/</link>
+      <link>https://nau-gpr.github.io/faculty-profiles/michael-smith/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/faculty-profiles/michael-smith/</guid>
+      <guid>https://nau-gpr.github.io/faculty-profiles/michael-smith/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Dr. Michael Elliot Smith is an Associate Professor in the School of Earth and Sustainability at Northern Arizona University, where he has been a faculty member since 2014. He leads the Sedimentary Research Group and specializes in understanding tectonic and landscape processes as recorded in terrestrial and marine sedimentary basins.&lt;/p&gt;
 &lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
@@ -115,9 +115,9 @@
     
     <item>
       <title>Sedimentary Geology and Geomorphology</title>
-      <link>https://ses-nau.org/research-themes/sedimentary-geology/</link>
+      <link>https://nau-gpr.github.io/research-themes/sedimentary-geology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ses-nau.org/research-themes/sedimentary-geology/</guid>
+      <guid>https://nau-gpr.github.io/research-themes/sedimentary-geology/</guid>
       <description>&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
 &lt;p&gt;Studying Earth&amp;rsquo;s marine and terrestrial surfaces using field surveys, remote sensing, lab analyses, and numerical modeling. Our research spans diverse environments including deserts, mountains, rivers, and coastal areas.&lt;/p&gt;
 &lt;h2 id=&#34;key-faculty&#34;&gt;Key Faculty&lt;/h2&gt;
