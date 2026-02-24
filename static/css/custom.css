@@ -82,9 +82,15 @@
 }
 
 /* Ensure feature columns have equal height */
-.featurette .col-12.col-sm-4 {
+.featurette .col-12.col-sm-4 {  /* default 3-column featurettes */
   display: flex;
   margin-bottom: 2rem;
+} 
+
+.featurette .col-12.col-sm-6 {  /* custom 2-column featurettes */
+  display: flex;
+  margin-bottom: 2rem;
+  /*max-width: 500px;*/
 }
 
 .featurette-icon {

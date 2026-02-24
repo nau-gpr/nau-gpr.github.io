@@ -7,12 +7,12 @@ sections:
 - block: hero
   content:
     title: |
-      Meet Our Researchers
+      Meet Our Faculty and Staff
     text: |
       <br>
       Our faculty are dedicated to student success and applied research to make the world a better place to live. Learn about their research interests, recent publications, and contributions to understanding our social and environmental systems.
     image:
-      filename: ses-faculty-group.jpg
+      filename: gpr-faculty-2024a.jpg
 - block: collection
   content:
     title: Faculty Directory
