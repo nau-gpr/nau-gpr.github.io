@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIS for Urban Transportation | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/tag/gis-for-urban-transportation/</link>
+      <atom:link href="https://nau-gpr.github.io/tag/gis-for-urban-transportation/index.xml" rel="self" type="application/rss+xml" />
+    <description>GIS for Urban Transportation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
+      <title>GIS for Urban Transportation</title>
+      <link>https://nau-gpr.github.io/tag/gis-for-urban-transportation/</link>
+    </image>
+    
+    <item>
+      <title>Ruihong Huang</title>
+      <link>https://nau-gpr.github.io/faculty-profiles/ruihong-huang/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nau-gpr.github.io/faculty-profiles/ruihong-huang/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;Dr. Ruihong (Ray) Huang is a Professor of geography in the Department of Geography, Planning, and Recreation at Northern Arizona University, where he has been a faculty member since 2003. His research focuses on GIS for urban transportation. He developed data models and schedule-base pathfinding algorithms for transit networks, and implemented the models and algorithms to online transit trip planners and urban accessibility studies.&lt;/p&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
+&lt;h3 id=&#34;data-models-and-pathfinding-algorithms-for-transit-network&#34;&gt;Data models and pathfinding algorithms for transit network&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Development of object-oriented models for dynamic transit networks&lt;/li&gt;
+&lt;li&gt;Database development for transit systems&lt;/li&gt;
+&lt;li&gt;Development of schedule-based pathfinding algorithms using Pattern-First Search&lt;/li&gt;
+&lt;li&gt;Development of web-based transit trip planners&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;transit-facilitated-urban-accessibility&#34;&gt;Transit-facilitated urban accessibility&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Understanding urban spatial structure and job accessibility&lt;/li&gt;
+&lt;li&gt;Simulating individual work trips of transit-dependent commuters&lt;/li&gt;
+&lt;li&gt;Developing individual trip-based accessibility index&lt;/li&gt;
+&lt;li&gt;Providing tools for individual work trip simulation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;spatial-data-analysis&#34;&gt;Spatial data analysis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Uncovering spatial patterns with Hidden Markov Model&lt;/li&gt;
+&lt;li&gt;Analyzing urban land use and job accessibility&lt;/li&gt;
+&lt;li&gt;Exploring national park accessibility and visitation&lt;/li&gt;
+&lt;li&gt;Exploring space-time pattern of national park visitor activities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ph.D.&lt;/strong&gt; Geography, University of Wisconsin-Milwaukee&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;M.S.&lt;/strong&gt; Geography, Sun Yat-sen University&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;B.S.&lt;/strong&gt; Geography, Hunan Normal University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Huang, R. 2023. Analyzing National Parks Visitor Activities Using Geotagged Social Media Photos. &lt;em&gt;Journal of Environmental Management&lt;/em&gt;. 330 (2023) 117191&lt;/li&gt;
+&lt;li&gt;Huang, R. 2020. Transit-based job accessibility and urban spatial structure, &lt;em&gt;Journal of Transportation Geography&lt;/em&gt;. 86&lt;/li&gt;
+&lt;li&gt;Zhang, H.M., Huang, R., Zhang, Y.C., Buhalis, D., 2020. Cultural ecosystem services evaluation using geolocated social media data: a review, &lt;em&gt;Tourism Geographies&lt;/em&gt;. &lt;a href=&#34;https://doi.org/10.1080/14616688.2020.1801828&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1080/14616688.2020.1801828&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ruihong Huang. 2019. Simulating individual work trips for transit-facilitated accessibility study, &lt;em&gt;Environment and Planning B: Urban Analytics and City Science&lt;/em&gt;. Vol. 46(1) 84–102.&lt;/li&gt;
+&lt;li&gt;Shen, X.J., Huang, R., Zhang, J.S., 2019. U.S. national parks accessibility and visitation, &lt;em&gt;Journal of Mountain Science&lt;/em&gt;. 16:2894-2906.&lt;/li&gt;
+&lt;li&gt;Ding Du, Xiaobing Zhao, Ruihong Huang, 2017. The impact of climate change on developed economies, &lt;em&gt;Economics Letters&lt;/em&gt;. 153:43-46.&lt;/li&gt;
+&lt;li&gt;Yu, M, Chen, D, Huang, R and Ai, T. 2010. A Dynamic Analysis of regional Land Use and Cover Changing (LUCC) by remote sensing and GIS - Taking Fuzhou Area as example. &lt;em&gt;Advanced Environmental, Chemical, and Biological Sensing Technologies VII&lt;/em&gt;, edited by Tuan Vo-Dinh, Robert A. Lieberman, Günter Gauglitz, Proc. of SPIE Vol. 7673, 76730J doi: 10.1117/12.852546&lt;/li&gt;
+&lt;li&gt;Huang, Ruihong and Dawn Hawley, 2009, A Data Model and Internet GIS Framework for Safe Routes to School, &lt;em&gt;URISA Journal&lt;/em&gt;. 21(1):21-30.&lt;/li&gt;
+&lt;li&gt;Huang, Ruihong and Zhong-Ren Peng, 2008. A Spatiotemporal Data model for Dynamic Transit Networks, &lt;em&gt;International Journal of Geographic Information Science&lt;/em&gt;. 22(5): 527-545.&lt;/li&gt;
+&lt;li&gt;Huang, Ruihong and Christina B. Kennedy, 2008. Discovering the Geography of Land Values by Hidden Markov Models, in T.J. Cova et al. (Eds.): &lt;em&gt;GIScience 2008&lt;/em&gt;, LNCS 5266, pp.70-89.&lt;/li&gt;
+&lt;li&gt;Huang, Ruihong, 2008. Modeling Transit Networks by GML for Distributed Transit Trip Planners, &lt;em&gt;Journal of Spatial Science&lt;/em&gt;. 53(1):1-15&lt;/li&gt;
+&lt;li&gt;Huang, Ruihong, 2007. A Schedule-based Pathfinding Algorithm for Transit Networks Using Pattern First Search, &lt;em&gt;GeoInformatica&lt;/em&gt;. 11:269-285.&lt;/li&gt;
+&lt;li&gt;Huang, R and Peng, ZR. 2002. Schedule-based path-finding algorithms for transit trip-planning systems. &lt;em&gt;Transportation Research Record 1783&lt;/em&gt; (1): 142-148.&lt;/li&gt;
+&lt;li&gt;Huang, R and Peng, ZR. 2002. Object-oriented geographic information system data model for transit trip-planning systems. &lt;em&gt;Transportation research record 1804&lt;/em&gt; (1): 205-211.&lt;/li&gt;
+&lt;li&gt;Huang, R and Wei, YD. 2002. Analyzing neighborhood accessibility via transit in a GIS environment. &lt;em&gt;Geographic Information Sciences&lt;/em&gt; 8 (1): 39-47.&lt;/li&gt;
+&lt;li&gt;Huang, R and Peng, ZR. 2001. An integration of network data model and routing algorithms for online transit trip planning. &lt;em&gt;Transportation Research Board 80th Annual Meeting&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Peng, ZR and Huang, R. 2000. Design and development of interactive trip planning for web-based transit information systems. &lt;em&gt;Transportation Research Part C: Emerging Technologies&lt;/em&gt; 8 (1-6), 409-425.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming for GIS (Python scripting and various programming languages)&lt;/li&gt;
+&lt;li&gt;Enterprise geodatabase design, development, and applications&lt;/li&gt;
+&lt;li&gt;GIS foundations I &amp;amp; II&lt;/li&gt;
+&lt;li&gt;GIS for transportation&lt;/li&gt;
+&lt;li&gt;GIS Analysis II - spatial statistics&lt;/li&gt;
+&lt;li&gt;GIS Analysis I - raster-based analysis&lt;/li&gt;
+&lt;li&gt;Internet GIS - MapObjects IMS and databases&lt;/li&gt;
+&lt;li&gt;Quantitative methods for geography&lt;/li&gt;
+&lt;li&gt;Cartographic design&lt;/li&gt;
+&lt;li&gt;Map analysis and site planning&lt;/li&gt;
+&lt;li&gt;Planning analysis and presentation&lt;/li&gt;
+&lt;li&gt;Physical geography&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+## Research Impact
+
+Dr. Springer has made significant contributions to understanding springs ecosystems, with over 2,600 citations of his research. His work has advanced knowledge of how these unique ecosystems function and their critical role in biodiversity conservation.
+
+## Major Research Contributions
+
+### Springs Classification System
+- Developed a geomorphological-based classification system for springs ecosystems
+- Advanced understanding of springs ecosystem diversity and function
+- Contributed to standardized approaches for springs assessment
+
+### Climate Change Refugia Research
+- Co-authored influential research published in *Frontiers in Ecology and the Environment*
+- Demonstrated the potential for springs to serve as climate refugia
+- Advanced understanding of ecosystem resilience in changing climates
+
+### Regional Springs Assessment
+- Assessed conditions of 200 springs in Coconino and Kaibab National Forests
+- Conducted comprehensive studies of Arizona springs ecosystems
+- Investigated water sources for iconic locations like the Grand Canyon
+
+## Professional Collaborations
+
+### Springs Stewardship Institute
+- Collaborates with the Springs Stewardship Institute at the Museum of Northern Arizona
+- Contributes to springs conservation and stewardship initiatives
+- Bridges scientific research with practical conservation applications
+
+### Federal Land Management
+- Works with National Forest Service on springs assessment projects
+- Collaborates with National Park Service on groundwater and springs research
+- Contributes scientific expertise to land management decisions
+
+## Research Philosophy
+
+Dr. Springer emphasizes the critical importance of understanding hydrological connections: &#34;All climatic and human-induced changes to hydrologic systems influence the aquifers that supply waters to springs.&#34; His work demonstrates how human activities, particularly groundwater pumping, can threaten these unique ecosystems.
+
+## Key Research Findings
+
+### Climate Adaptation
+- Springs can buffer against short-term climate-influenced drying events
+- Groundwater-fed springs provide stability in variable climate conditions
+- These ecosystems may be crucial for species survival in increasingly arid environments
+
+### Conservation Concerns
+- Human pumping of aquifers risks drying up springs
+- Spring ecosystems face increasing pressure from climate change and human activities
+- Conservation strategies must consider groundwater protection
+
+## Graduate Student Supervision
+
+Dr. Springer mentors graduate students in:
+- Hydrogeology and ecohydrology field techniques
+- Springs ecosystem assessment and monitoring
+- Groundwater-surface water interaction studies
+- Climate change impact analysis
+- Conservation science applications
+
+## Professional Service
+
+- Contributor to scientific journals in hydrogeology and ecology
+- Collaborator with federal and state land management agencies
+- Member of professional organizations in hydrogeology and ecology
+- Advocate for springs conservation and groundwater protection
+
+## Research Impact on Conservation
+
+Dr. Springer&#39;s research has direct implications for conservation policy and land management, particularly in the southwestern United States where water resources are increasingly scarce. His work helps inform strategies for protecting these unique ecosystems in a changing climate.
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
