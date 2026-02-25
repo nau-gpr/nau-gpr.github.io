@@ -87,7 +87,10 @@ sections:
         
         Professional associations like the National Recreation and Park Association also provide career pathways, certifications, and job listings for advancement in this field .
         
-        ---
+  - block: markdown
+    content:
+      title: "Job Opportunities with Our Degrees"
+      text: | 
         ### Government agencies
         Many careers in geography, planning, and recreation involve working for the government.  Find out if a job in the federal government is right for you.
         - [Arizona COGs & MPOs](https://azmag.gov/About-Us/About-MAG#about)
@@ -126,23 +129,6 @@ sections:
         - [USA Jobs](https://www.usajobs.gov/)
 
         
-
-  - block: markdown
-    content:
-      title: "Recent Highlights"
-      text: |
-        ### Research Impact
-        
-        ...
-      
-        ### Student Success
-        
-        ...
-        
-        ### Community Partnerships
-        
-        ...
-
   - block: markdown
     content:
       text: |
