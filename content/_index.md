@@ -29,17 +29,17 @@ sections:
           description: "Geography studies the inter-relationships between the earth and humankind. Our department emphasizes careers in human-environment relationships, geospatial technologies (GIS) and community planning."
           icon: globe /*graduation-cap*/
           icon_pack: fas
-          link: "/student-opportunities/undergraduate-degrees/"
+          link: "/academic-programs/ges-programs/"
         - name: "Parks and Recreation Management"
           description: "We offer BS in Recreation, the first accredited online BS degree in Parks and Recreation Management, online Parks and Recreation Management (PRM) Certificate, as well as a MS degree in Parks and Recreation."
           icon: campground /*university*/
           icon_pack: fas
-          link: "/student-opportunities/graduate-degrees/"
+          link: "/academic-programs/prm-programs/"
         - name: "Public Safety and Law Enforcement"
           description: "We are one of only a few nationally accredited programs that provide the training required to work as a seasonal park ranger in law enforcement in the National Park Service."
           icon: shield-alt /*certificate*/
           icon_pack: fas
-          link: "/student-opportunities/"
+          link: "/academic-programs/prtp-programs/"
         - name: "Sustainable communities"
           description: "Students study the intersections between human social structures and the natural world, paying attention to the philosophical, ethical, and practical dimensions of such study."
           icon: leaf
@@ -48,19 +48,47 @@ sections:
 
   - block: markdown
     content:
-      title: "Our Commitment"
-      text: |
-        ### Excellence in Education and Research
+      title: "Careers with Our Degrees"
+      text: | 
+        ### Government agencies
+        Many careers in geography, planning, and recreation involve working for the government.  Find out if a job in the federal government is right for you.
+        - Arizona COGs & MPOs
+        - Arizona State Land Department
+        - U.S. Geological Survey
+        - Bureau of Land Management 
+        - U.S. Department of Housing and Urban Development
+        - U.S. Department of Transportation
+        - U.S. Forest Service
         
-        The Department of Geography, Planning, and Recreation is committed to providing world-class education and conducting cutting-edge research that addresses the critical environmental challenges of our time. Our interdisciplinary approach integrates natural sciences, social sciences, and engineering to develop comprehensive solutions for a sustainable future.
+        ### Geography
+        Find a career that gets you outdoors or in the lab, studying the earth and helping planners.
+        - American Association of Geography’s Jobs in Geography and GIS Center
+        - Career Jet
+        - Explore careers in GIS
+        - Geography jobs
+        - GIS jobs in Phoenix, AZ
+        - Gisjobs.com
+        - MyGISjobs.com
         
-        ### Field-Based Learning
+        ### Planning
+        In planning, you can assist in building urban systems, help with transportation, and build successful cities.
+        - American Planning Association
+        - Jobs in Planning
         
-        We believe in hands-on, experiential learning. Our students engage in extensive fieldwork, laboratory research, and real-world projects that prepare them for successful careers in academia, government, and industry.
+        ### Parks and Recreation Management
+        Like to be active and in the outdoors?  Explore possible careers in Parks and Recreation:
+        - Adventure Jobs
+        - American Camp Association Jobs
+        - Association for Experiential Education (AEE)
+        - Career Builder
+        - Conservation Job Board
+        - Cool Works
+        - Monster 
+        - National Recreation and Park Association
+        - Outdoor Education
+        - USA Jobs
+
         
-        ### Community Engagement
-        
-        Our work extends beyond the university to engage with local communities, tribal nations, government agencies, and industry partners. We are committed to translating our research into practical solutions that benefit society and the environment.
 
   - block: markdown
     content:
