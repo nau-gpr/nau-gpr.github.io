@@ -90,35 +90,13 @@ sections:
         ### Sustainable Communities: Sustainable leadership, community development, environmental conservation
         Opens doors to a wide range of careers because the degree blends environmental science, social equity, community development, and policy analysis. The core through-line is preparing graduates to help communities thrive - ecologically, socially, and economically.
         
-        #### Roles centered on Sustainable leadership
+        #### Career opportunities
         Positions focus on guiding organiations, governments, or communities toward more sustainable practices.
         - Sustainability Analyst / Consultant - Supporting public or private organizations in environmental protection, social responsibility, and sustainability strategy.
-        - Corporate Social Responsibility (CSR) Specialist - Designing and evaluating programs that align business operations with ethical and environmental goals.
         - Sustainability Program Manager - Leading cross-sector initiatives that integrate environmental, economic, and social priorities.
-        
-        These roles suit graduates who enjoy systems thinking, data analysis, and organizational change.
-        
-        #### Community and urban development careers
-        Many programs emphasize planning, policy, and community engagement, preparing graduates to shape how communities grow.
-        - Urban or Regional Planner — Developing land‑use plans, zoning strategies, and community development policies.
         - Community Development Specialist — Facilitating neighborhood revitalization, housing initiatives, and participatory planning.
-        - Policy Analyst (environmental or social policy) — Evaluating and designing policies that improve quality of life by integrating economic, social, and ecological issues.
-        - Open Space / Recreation Planner — Designing parks, trails, and public spaces that balance recreation and ecological health.
-
-        These roles are ideal for graduates who want to work directly with cities, counties, or regional agencies.
-
-        #### Environmental and resource-focused pathways
-        Some programs emphasize environmental systems, conservation, and sustainable resource management.
         - Environmental Planner or Environmental Impact Analyst — Assessing development proposals for ecological impacts and recommending mitigation strategies.
-        - Climate Adaptation or Resilience Specialist — Helping communities prepare for climate risks through planning and policy.
         - Natural Resource Manager — Working with agencies or nonprofits on conservation, land stewardship, and sustainable resource use.
-
-        These roles align with graduates who enjoy ecological problem‑solving and interdisciplinary science.
-
-        #### Nonprofit, NGO, and community advocacy roles
-        Graduates often work in mission-driven organizations focused on sustainability, equity, or community well‑being.
-        - Program Coordinator or Director (nonprofit/NGO) — Leading initiatives in sustainability education, food systems, housing equity, or environmental justice.
-        - Community Engagement Specialist — Building partnerships, facilitating public participation, and supporting grassroots initiatives.
         - Sustainable Tourism or Recreation Manager — Working in sectors like parks, recreation, or tourism to promote sustainable community development.
 
         These roles fit graduates who value community empowerment and social impact.
