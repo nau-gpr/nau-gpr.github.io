@@ -52,41 +52,40 @@ sections:
       text: | 
         ### Government agencies
         Many careers in geography, planning, and recreation involve working for the government.  Find out if a job in the federal government is right for you.
-        - Arizona COGs & MPOs
-        - Arizona State Land Department
-        - U.S. Geological Survey
-        - Bureau of Land Management 
-        - U.S. Department of Housing and Urban Development
-        - U.S. Department of Transportation
-        - U.S. Forest Service
+        - [Arizona COGs & MPOs](https://azmag.gov/About-Us/About-MAG#about)
+        - [Arizona State Land Department](https://land.az.gov/)
+        - [U.S. Geological Survey](https://www.usgs.gov/)
+        - [Bureau of Land Management](https://www.blm.gov/)
+        - [U.S. Department of Housing and Urban Development](https://www.hud.gov/)
+        - [U.S. Department of Transportation](https://www.transportation.gov/)
+        - [U.S. Forest Service](https://www.fs.usda.gov/)
         
         ### Geography
         Find a career that gets you outdoors or in the lab, studying the earth and helping planners.
-        - American Association of Geography’s Jobs in Geography and GIS Center
-        - Career Jet
-        - Explore careers in GIS
-        - Geography jobs
-        - GIS jobs in Phoenix, AZ
-        - Gisjobs.com
-        - MyGISjobs.com
+        - [American Association of Geography’s Jobs in Geography and GIS Center](https://jobs.aag.org/home/index.cfm?site_id=15004)
+        - [Career Jet](https://www.careerjet.com/geography-jobs)
+        - [Explore careers in GIS](https://www.virtualjobshadow.com/partners/esri/)
+        - [GIS jobs in Phoenix, AZ](https://www.indeed.com/q-GIS-l-Phoenix,-AZ-jobs.html?vjk=ca680375c65e244d)
+        - [Gisjobs.com](https://www.gisjobs.com/)
+        - [MyGISjobs.com](https://www.mygisjobs.com/category/geospatial-jobs)
         
         ### Planning
         In planning, you can assist in building urban systems, help with transportation, and build successful cities.
-        - American Planning Association
-        - Jobs in Planning
+        - [American Planning Association](https://www.planning.org/careercenter/)
+        - [Jobs in Planning](https://www.jobsinplanning.com/)
         
         ### Parks and Recreation Management
         Like to be active and in the outdoors?  Explore possible careers in Parks and Recreation:
-        - Adventure Jobs
-        - American Camp Association Jobs
-        - Association for Experiential Education (AEE)
-        - Career Builder
-        - Conservation Job Board
-        - Cool Works
-        - Monster 
-        - National Recreation and Park Association
-        - Outdoor Education
-        - USA Jobs
+        - [Adventure Jobs](https://adventurejobs.co/)
+        - [American Camp Association Jobs](https://www.acacamps.org/jobs)
+        - [Association for Experiential Education (AEE)](https://www.aee.org/)
+        - [Career Builder](https://www.careerbuilder.com/)
+        - [Conservation Job Board](https://www.conservationjobboard.com/)
+        - [Cool Works](https://www.coolworks.com/)
+        - [Monster](https://www.monster.com/jobs/q-outdoor-industry-jobs)
+        - [National Recreation and Park Association](https://www.nrpa.org/)
+        - [Outdoor Education](https://www.outdoored.com/)
+        - [USA Jobs](https://www.usajobs.gov/)
 
         
 
@@ -96,15 +95,15 @@ sections:
       text: |
         ### Research Impact
         
-        Our faculty and students are making significant contributions to understanding Earth's systems and developing sustainable solutions. [Explore our research impact and publications](/research/).
-        
+        ...
+      
         ### Student Success
         
-        Our graduates go on to successful careers in environmental consulting, government agencies, non-profit organizations, and academia. [Learn about our alumni achievements](/alumni/).
+        ...
         
         ### Community Partnerships
         
-        We work closely with tribal communities, government agencies, and industry partners to address real-world environmental challenges through collaborative research and education programs.
+        ...
 
   - block: markdown
     content:
