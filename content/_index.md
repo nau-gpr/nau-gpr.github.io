@@ -50,6 +50,44 @@ sections:
     content:
       title: "Careers with Our Degrees"
       text: | 
+        A degree in Geography, Planning, and Recreation opens a surprisingly wide spectrum of careers because it blends spatial analysis, community design, environmental stewardship, and human–nature interaction. The fields overlap, but each also leads to its own professional pathways.
+        
+        ### Geography: Spatial thinking and environmental insight
+        
+        Geography graduates often work at the intersection of people, place, and environment. Roles span government, private industry, and nonprofits.
+        
+        #### Common career directions
+        - GIS Analyst / Specialist — Using spatial data to support planning, transportation, environmental management, and business decisions.
+        - Environmental Consultant — Assessing land use, environmental impact, and sustainability strategies.
+        - Cartographer / Mapping Technician — Creating maps for agencies, companies, or digital platforms.
+        - Climate or Natural Resource Analyst — Supporting conservation, hazard mitigation, or climate adaptation planning.
+        - Urban or Regional Analyst — Contributing to demographic studies, land-use analysis, and policy research.
+        
+        These roles align with the broad description that geography, GIS, and planning graduates work across city, regional, state, and national government as well as private companies and nonprofits .
+        
+        ### Planning: Designing communities and guiding development
+        Planning degrees prepare students to shape how cities and regions grow.
+        #### Typical planning careers
+        - Urban Planner / Regional Planner — Developing land-use plans, zoning, transportation systems, and community development strategies.
+        -	Transportation Planner — Designing mobility systems, transit networks, and multimodal infrastructure.
+        - Housing or Community Development Specialist — Working on affordable housing, neighborhood revitalization, and public engagement.
+        - Environmental or Sustainability Planner — Integrating ecological considerations into development decisions.
+        - Recreation or Open Space Planner — Designing parks, trails, and outdoor recreation systems.
+        
+        Planning roles often appear in municipal governments, consulting firms, and federal agencies, consistent with the career pathways highlighted by university planning programs .
+        
+        ### Recreation: Outdoor leadership, park management, and public engagement
+        Recreation degrees emphasize human experience in natural and built environments, preparing graduates for both field-based and administrative roles.
+        #### Career possibilities
+        - Outdoor Recreation Planner — Supporting public enjoyment of natural lands while protecting environmental quality; roles exist in agencies like the National Park Service, Bureau of Land Management, and Bureau of Reclamation .
+        - Park Ranger / Park Manager — Managing visitor services, conservation programs, and park operations.
+        - Adventure Guide / Outdoor Educator — Leading backpacking, climbing, kayaking, or environmental education programs; alumni stories highlight careers blending outdoor leadership with creative pursuits .
+        - Recreation Program Coordinator — Designing community recreation programs for cities, nonprofits, or youth organizations.
+        - Event and Recreation Planner — Organizing outdoor events, corporate team-building, or educational field trips; recreation planners often work in environmental or tourism settings .
+        
+        Professional associations like the National Recreation and Park Association also provide career pathways, certifications, and job listings for advancement in this field .
+        
+        ---
         ### Government agencies
         Many careers in geography, planning, and recreation involve working for the government.  Find out if a job in the federal government is right for you.
         - [Arizona COGs & MPOs](https://azmag.gov/About-Us/About-MAG#about)
