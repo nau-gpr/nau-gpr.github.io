@@ -50,7 +50,7 @@ sections:
     content:
       title: "Careers with Our Degrees"
       text: | 
-        A degree in Geography, Planning, and Recreation opens a surprisingly wide spectrum of careers because it blends spatial analysis, community design, environmental stewardship, and human–nature interaction. The fields overlap, but each also leads to its own professional pathways.
+        A degree in Geography, Planning, Recreation, and sustainable communities opens a surprisingly wide spectrum of careers because it blends spatial analysis, community design, environmental stewardship, and human–nature interaction. The fields overlap, but each also leads to its own professional pathways.
         
         ### Geography: Spatial thinking and environmental insight
         
