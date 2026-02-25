@@ -5,7 +5,7 @@
     <link>https://nau-gpr.github.io/</link>
       <atom:link href="https://nau-gpr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>NAU GPR</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
       <title>NAU GPR</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Faculty Publications</title>
       <link>https://nau-gpr.github.io/faculty/</link>
-      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://nau-gpr.github.io/faculty/</guid>
       <description>&lt;h1 id=&#34;faculty-publications-dashboard&#34;&gt;Faculty Publications Dashboard&lt;/h1&gt;
 &lt;p&gt;The SES faculty have published &lt;strong&gt;1,091&lt;/strong&gt; peer-reviewed articles since 2009, accumulating &lt;strong&gt;71,631&lt;/strong&gt; citations with a collective H-index of &lt;strong&gt;103&lt;/strong&gt;.&lt;/p&gt;
@@ -310,14 +310,14 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Data includes publications from 2009 to 2025. Last updated: February 24, 2026&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Data includes publications from 2009 to 2025. Last updated: February 25, 2026&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Research Analytics</title>
       <link>https://nau-gpr.github.io/analytics/</link>
-      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://nau-gpr.github.io/analytics/</guid>
       <description>&lt;h1 id=&#34;research-analytics-dashboard&#34;&gt;Research Analytics Dashboard&lt;/h1&gt;
 &lt;p&gt;Comprehensive analysis of research trends, collaboration patterns, and impact metrics for the School of Earth and Sustainability.&lt;/p&gt;
@@ -443,14 +443,14 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Analytics generated from 1,092 publications spanning 2009 to 2025. Last updated: February 24, 2026&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Analytics generated from 1,092 publications spanning 2009 to 2025. Last updated: February 25, 2026&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Student Publications</title>
       <link>https://nau-gpr.github.io/students/</link>
-      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://nau-gpr.github.io/students/</guid>
       <description>&lt;h1 id=&#34;student-publications-dashboard&#34;&gt;Student Publications Dashboard&lt;/h1&gt;
 &lt;p&gt;Since 2009, &lt;strong&gt;201&lt;/strong&gt; SES graduate students have published &lt;strong&gt;279&lt;/strong&gt; peer-reviewed articles as co-authors, accumulating &lt;strong&gt;9,338&lt;/strong&gt; total citations.&lt;/p&gt;
@@ -714,7 +714,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Data includes publications from 2009 to 2025. Last updated: February 24, 2026&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Data includes publications from 2009 to 2025. Last updated: February 25, 2026&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -2795,11 +2795,11 @@
 &lt;ul&gt;
 &lt;li&gt;Programming for GIS (Python scripting and various programming languages)&lt;/li&gt;
 &lt;li&gt;Enterprise geodatabase design, development, and applications&lt;/li&gt;
-&lt;li&gt;GIS foundations I &amp;amp; II&lt;/li&gt;
 &lt;li&gt;GIS for transportation&lt;/li&gt;
+&lt;li&gt;GIS principles I &amp;amp; II&lt;/li&gt;
 &lt;li&gt;GIS Analysis II - spatial statistics&lt;/li&gt;
 &lt;li&gt;GIS Analysis I - raster-based analysis&lt;/li&gt;
-&lt;li&gt;Internet GIS - MapObjects IMS and databases&lt;/li&gt;
+&lt;li&gt;Internet GIS and databases&lt;/li&gt;
 &lt;li&gt;Quantitative methods for geography&lt;/li&gt;
 &lt;li&gt;Cartographic design&lt;/li&gt;
 &lt;li&gt;Map analysis and site planning&lt;/li&gt;

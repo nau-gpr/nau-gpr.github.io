@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nau-gpr.github.io/faculty/</loc>
-    <lastmod>2026-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/</loc>
-    <lastmod>2026-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/analytics/</loc>
-    <lastmod>2026-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/research/</loc>
-    <lastmod>2026-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/students/</loc>
-    <lastmod>2026-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/student-opportunities/</loc>
     <lastmod>2025-08-19T00:00:00+00:00</lastmod>
@@ -24,6 +24,9 @@
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/academic-leadership/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nau-gpr.github.io/tag/algorithms/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/aquatic-ecosystems/</loc>
@@ -87,6 +90,9 @@
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/crustal-processes/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nau-gpr.github.io/tag/data-models/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/deep-time/</loc>
@@ -171,12 +177,6 @@
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/gis/</loc>
-    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nau-gpr.github.io/tag/gis-for-urban-transportation/</loc>
-    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nau-gpr.github.io/tag/gis-software-development/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/habitat-connectivity/</loc>
@@ -287,6 +287,9 @@
     <loc>https://nau-gpr.github.io/tag/policy-analysis/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nau-gpr.github.io/tag/programming/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nau-gpr.github.io/publication_types/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -338,6 +341,9 @@
     <loc>https://nau-gpr.github.io/tag/rural-tourism/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nau-gpr.github.io/tag/simulation/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nau-gpr.github.io/tag/soil-chemistry/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -347,7 +353,7 @@
     <loc>https://nau-gpr.github.io/tag/spatial-data-analysis/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nau-gpr.github.io/tag/spatial-modeling-and-simulation/</loc>
+    <loc>https://nau-gpr.github.io/tag/spatial-modeling/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/statistical-ecology/</loc>
@@ -390,6 +396,9 @@
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/transformative-learning/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nau-gpr.github.io/tag/transportation/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/tropical-ecosystems/</loc>
