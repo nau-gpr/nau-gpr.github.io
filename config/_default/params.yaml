@@ -44,17 +44,17 @@ header:
 
 # Social media links
 social:
-  twitter: 'https://twitter.com/nau_ses'
-  facebook: 'https://www.facebook.com/NAUSESAZ/'
-  instagram: 'https://www.instagram.com/nau_ses/'
-  youtube: 'https://www.youtube.com/@nauschoolofearthsustainability'
-  bluesky: 'https://nau-ses.bsky.social/'
+  twitter: 'https://x.com/nau'
+  facebook: 'https://www.facebook.com/NAUFlagstaff'
+  instagram: 'https://www.instagram.com/nauflagstaff/'
+  youtube: 'https://www.youtube.com/channel/UChvEiVGqF-nlDEBD3kMjbXA'
+  linkedIn: 'https://www.linkedin.com/school/northern-arizona-university/'
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} NAU School of Earth and Sustainability. This work is licensed under {license}'
+    notice: '© {year} NAU Department of Geography, Planning, and Recreation. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

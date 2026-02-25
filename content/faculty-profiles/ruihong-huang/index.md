@@ -17,9 +17,12 @@ summary: "Expert in GIS especially GIS for urban transportation. Published in tr
 tags:
 - GIS
 - Spatial data analysis
-- Spatial modeling and simulation
-- GIS for urban transportation
-- GIS software development
+- Spatial modeling
+- Simulation
+- Transportation
+- Programming 
+- Data models,
+- Algorithms
 - Internet GIS
 featured: false
 
@@ -84,11 +87,11 @@ Dr. Ruihong (Ray) Huang is a Professor of geography in the Department of Geograp
 ## Courses
 - Programming for GIS (Python scripting and various programming languages)
 - Enterprise geodatabase design, development, and applications
-- GIS foundations I & II
 - GIS for transportation
+- GIS principles I & II
 - GIS Analysis II - spatial statistics
 - GIS Analysis I - raster-based analysis
-- Internet GIS - MapObjects IMS and databases
+- Internet GIS and databases
 - Quantitative methods for geography
 - Cartographic design
 - Map analysis and site planning

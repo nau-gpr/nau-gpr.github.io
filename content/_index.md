@@ -46,49 +46,13 @@ sections:
           icon_pack: fas
           link: "https://catalog.nau.edu/Catalog/details?plan=SUSCMA"
 
-  - block: features
-    content:
-      title: "Research Themes"
-      items:
-        - name: "Past & Present Climate Change"
-          description: "Understanding climate variability and change across multiple timescales."
-          icon: thermometer-half
-          icon_pack: fas
-          link: "/research-themes/climate-change/"
-        - name: "Ecology & Conservation"
-          description: "Biodiversity conservation and ecosystem management strategies."
-          icon: leaf
-          icon_pack: fas
-          link: "/research-themes/ecology-conservation/"
-        - name: "Water Management Policy & Science"
-          description: "Sustainable water resource policy and management solutions."
-          icon: tint
-          icon_pack: fas
-          link: "/research-themes/water-management/"
-        - name: "Environment & Society"
-          description: "Human-environment interactions and social-ecological systems."
-          icon: users
-          icon_pack: fas
-          link: "/research-themes/environment-society/"
-        - name: "Tectonics & Earth's Interior"
-          description: "Understanding Earth's dynamic processes and geological structure."
-          icon: mountain
-          icon_pack: fas
-          link: "/research-themes/tectonics-interior/"
-        - name: "Sedimentary Geology & Geomorphology"
-          description: "Earth's surface processes and sedimentary record interpretation."
-          icon: layer-group
-          icon_pack: fas
-          link: "/research-themes/sedimentary-geology/"
-
-
   - block: markdown
     content:
       title: "Our Commitment"
       text: |
         ### Excellence in Education and Research
         
-        The School of Earth and Sustainability is committed to providing world-class education and conducting cutting-edge research that addresses the critical environmental challenges of our time. Our interdisciplinary approach integrates natural sciences, social sciences, and engineering to develop comprehensive solutions for a sustainable future.
+        The Department of Geography, Planning, and Recreation is committed to providing world-class education and conducting cutting-edge research that addresses the critical environmental challenges of our time. Our interdisciplinary approach integrates natural sciences, social sciences, and engineering to develop comprehensive solutions for a sustainable future.
         
         ### Field-Based Learning
         
@@ -119,7 +83,7 @@ sections:
       text: |
         <div class="text-center my-5">
           <h3>Ready to Join Us?</h3>
-          <p class="lead">Explore our programs and take the next step toward your future in Earth sciences and sustainability</p>
+          <p class="lead">Explore our programs and take the next step toward your future in the Department of GPR</p>
           <a href="https://nau.edu/apply/" class="btn btn-success btn-lg" target="_blank">Apply to NAU</a>
         </div>
 ---
