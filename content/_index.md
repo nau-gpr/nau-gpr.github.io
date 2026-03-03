@@ -66,7 +66,7 @@ sections:
           description: "GIS provides innovative spatial analysis and mapping solutions to environmental and social challenges. We prepare students for careers in geospatial technology, data analytics, and decision‑support for public and private sectors."
           icon: map-marked-alt
           icon_pack: fas
-          link: "https://catalog.nau.edu/Catalog/details?plan=SUSCMA"
+          link: "/academic-programs/ges-programs/"
         - name: "Outdoor Education and Leadership"
           description: "Immerse students in experiential learning that builds confidence, environmental awareness, and the practical leadership skills needed for careers in outdoor recreation, environmental stewardship, and community-based adventure programming."
           icon: campground
