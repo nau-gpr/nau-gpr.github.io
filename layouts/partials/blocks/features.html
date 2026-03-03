@@ -7,7 +7,7 @@
 {{ $block := .wcBlock }}
 
 <center>
-<div class="row featurette" style="max-width:1080px; border:0px solid #ff0000">
+<div class="row featurette" style="max-width:1400px; border:0px solid #ff0000">
   {{ with $block.content.title }}
   <div class="col-md-12 section-heading">
     <h1>{{ . | markdownify | emojify }}</h1>
@@ -28,7 +28,7 @@
     {{ $pack_prefix = "fa" }}
   {{ end }}
 
-  <div class="col-12 col-sm-6" style="border:0px solid #ff0000;">
+  <div class="col-12 col-sm-4" style="border:0px solid #ff0000;">
     {{ if .link }}
     <a href="{{ .link }}" class="feature-link" style="text-decoration: none; color: inherit;">
     {{ end }}
