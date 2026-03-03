@@ -64,7 +64,7 @@ sections:
           link: "/academic-programs/ges-programs/"
         - name: "Geographic Information Science"
           description: "GIS provides innovative spatial analysis and mapping solutions to environmental and social challenges. We prepare students for careers in geospatial technology, data analytics, and decision‑support for public and private sectors."
-          icon: map-marked-alt
+          icon: route /*map-marked-alt*/
           icon_pack: fas
           link: "/academic-programs/ges-programs/"
         - name: "Outdoor Education and Leadership"
