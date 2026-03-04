@@ -43,11 +43,11 @@ main:
     weight: 40
     hasChildren: true
   - name: Overview
-    url: student-opportunities
+    url: academic-programs
     parent: Student Opportunities
     weight: 40
   - name: Undergraduate Degrees
-    url: student-opportunities/undergraduate-degrees
+    url: academic-programs/undergraduate-degrees
     parent: Student Opportunities
     weight: 41
   - name: Graduate Degrees

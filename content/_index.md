@@ -30,17 +30,17 @@ sections:
           description: "Empower students to understand and solve real‑world environmental and community challenges, preparing them for impactful careers in fields like GIS, urban and environmental planning, conservation, climate resilience, and sustainable development."
           icon: university
           icon_pack: fas
-          link: "/academic-programs/ges-programs/"
+          link: "/academic-programs/undergraduate-degrees/"
         - name: "Graduate Degrees"
           description: "Equip students with advanced analytical, spatial, and community‑engaged skills to tackle complex environmental and social challenges, leading to careers in research, GIS and geospatial analytics, environmental policy, urban and regional planning, and sustainability leadership."
           icon: graduation-cap
           icon_pack: fas
-          link: "/academic-programs/ges-programs/"
+          link: "/academic-programs/graduate-degrees/"
         - name: "Certificate Programs"
           description: "Deliver focused, high‑impact training that empowers students to address urgent environmental and community challenges while advancing into careers in geospatial analysis, environmental monitoring, urban development, and data‑driven planning."
           icon: certificate
           icon_pack: fas
-          link: "/academic-programs/ges-programs/"
+          link: "/academic-programs/graduate-certificates/"
 
 
   - block: features
@@ -64,7 +64,7 @@ sections:
           link: "/academic-programs/ges-programs/"
         - name: "Geographic Information Science"
           description: "GIS provides innovative spatial analysis and mapping solutions to environmental and social challenges. We prepare students for careers in geospatial technology, data analytics, and decision‑support for public and private sectors."
-          icon: route /*map-marked-alt*/
+          icon: map-marked-alt
           icon_pack: fas
           link: "/academic-programs/ges-programs/"
         - name: "Outdoor Education and Leadership"
