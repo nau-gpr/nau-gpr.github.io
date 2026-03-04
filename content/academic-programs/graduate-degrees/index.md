@@ -160,6 +160,50 @@ The Department of Geography, Planning, and Recreation offers four comprehensive 
   </div>
 </div>
 
+## Master of Science in Parks and Recreation Management
+
+<div class="card">
+  <div class="card-header" id="geologyHeader">
+    <h5 class="mb-0">
+      <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#geologyCollapse" aria-expanded="true" aria-controls="geologyCollapse">
+        <i class="fas fa-chevron-down"></i> View Program Details
+      </button>
+    </h5>
+  </div>
+  <div id="geologyCollapse" class="collapse show" aria-labelledby="geologyHeader">
+    <div class="card-body">
+
+<a href="/student-opportunities/geology-ms/" class="btn btn-primary mb-3">Complete Program Details</a>
+
+### Program Overview
+- **Focus Areas:** Sedimentary, igneous, and metamorphic rocks; stratigraphy, structure, volcanology, surficial processes, water resources
+- **Application Deadline:** January 1st
+- **Duration:** Typically 2 years
+
+### Research Themes
+- Past & Present Climate Change
+- Tectonics & Earth's Interior
+- Sedimentary Geology & Geomorphology
+- Water Management Policy & Science
+
+### Funding Opportunities
+- Research Assistantships with $15,000+ annual stipend
+- Teaching Assistantships with $15,000+ annual stipend
+- Tuition waiver included with assistantships
+- Additional research grants available
+
+### Career Outcomes
+- **90% employment rate** upon graduation
+- Environmental consulting firms
+- Energy industry positions
+- Federal and state government agencies
+- Teaching and education roles
+- PhD program preparation
+
+    </div>
+  </div>
+</div>
+
 
 # Guidance for applying to NAU’s graduate school to pursue an advanced degrees in GPR
 
@@ -177,9 +221,9 @@ Second, entry into any SES Graduate Program requires an online application throu
 
 ## Contact Information
 
-**Email:** SES.Admin@nau.edu  
-**Phone:** 928-523-9333  
-**Location:** Room A108, Building 11, Ashurst, NAU Flagstaff Campus
+**Email:** geog@nau.edu  
+**Phone:** 928-523-2650  
+**Location:** Room 201, Building 70, SBS West, NAU Flagstaff Campus
 
 **Graduate Program Coordinator:** Contact for specific program information and application guidance
 

@@ -10,6 +10,26 @@ main:
   - name: People
     url: faculty-profiles
     weight: 15
+  - name: Academic Programs
+    url: academic-programs
+    weight: 20
+    hasChildren: true
+  - name: Overview
+    url: academic-programs
+    parent: Academic Programs
+    weight: 20
+  - name: Undergraduate Degrees
+    url: academic-programs/undergraduate-degrees
+    parent: Academic Programs
+    weight: 21
+  - name: Graduate Degrees
+    url: academic-programs/graduate-degrees
+    parent: Academic Programs
+    weight: 22
+  - name: Graduate Certificates
+    url: academic-programs/graduate-certificates
+    parent: Academic Programs
+    weight: 23
   - name: Research
     url: research
     weight: 20
@@ -17,55 +37,27 @@ main:
   - name: Research Impact
     url: research
     parent: Research
-    weight: 20
+    weight: 30
   - name: Research Themes
     url: research-themes
     parent: Research
-    weight: 21
+    weight: 31
   - name: Faculty Research
     url: faculty
     parent: Research
-    weight: 22
+    weight: 32
   - name: Student Research
     url: students
     parent: Research
-    weight: 23
+    weight: 33
   - name: Analytics
     url: analytics
     parent: Research
-    weight: 24
+    weight: 34
   - name: About
     url: about
     parent: Research
-    weight: 25
-  - name: Student Opportunities
-    url: student-opportunities
-    weight: 40
-    hasChildren: true
-  - name: Overview
-    url: academic-programs
-    parent: Student Opportunities
-    weight: 40
-  - name: Undergraduate Degrees
-    url: academic-programs/undergraduate-degrees
-    parent: Student Opportunities
-    weight: 41
-  - name: Graduate Degrees
-    url: student-opportunities/graduate-degrees
-    parent: Student Opportunities
-    weight: 42
-  - name: Professional Certificates
-    url: student-opportunities/professional-certificates
-    parent: Student Opportunities
-    weight: 43
-  - name: Graduate Certificates
-    url: student-opportunities/graduate-certificates
-    parent: Student Opportunities
-    weight: 44
-  - name: Undergraduate Certificates
-    url: student-opportunities/undergraduate-certificates
-    parent: Student Opportunities
-    weight: 45
+    weight: 35
   # - name: Research Highlights
   #   url: highlights
   #   weight: 45
