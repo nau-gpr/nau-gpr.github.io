@@ -3,18 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nau-gpr.github.io/faculty/</loc>
-    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/</loc>
-    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/analytics/</loc>
-    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/research/</loc>
-    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/students/</loc>
+    <lastmod>2026-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nau-gpr.github.io/academic-programs/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/student-opportunities/</loc>
@@ -541,8 +544,6 @@
   </url><url>
     <loc>https://nau-gpr.github.io/about/</loc>
   </url><url>
-    <loc>https://nau-gpr.github.io/academic-programs/</loc>
-  </url><url>
     <loc>https://nau-gpr.github.io/alumni/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/biodiversity/</loc>
@@ -595,7 +596,11 @@
   </url><url>
     <loc>https://nau-gpr.github.io/tag/graduate/</loc>
   </url><url>
+    <loc>https://nau-gpr.github.io/academic-programs/graduate-certificates/</loc>
+  </url><url>
     <loc>https://nau-gpr.github.io/student-opportunities/graduate-certificates/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/academic-programs/graduate-degrees/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/student-opportunities/graduate-degrees/</loc>
   </url><url>
@@ -662,6 +667,8 @@
     <loc>https://nau-gpr.github.io/tag/undergraduate-certificates/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/student-opportunities/undergraduate-certificates/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/academic-programs/undergraduate-degrees/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/student-opportunities/undergraduate-degrees/</loc>
   </url><url>

@@ -101,6 +101,157 @@
     
     <item>
       <title>Undergraduate Degree Programs</title>
+      <link>https://nau-gpr.github.io/academic-programs/undergraduate-degrees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nau-gpr.github.io/academic-programs/undergraduate-degrees/</guid>
+      <description>&lt;h2 id=&#34;undergraduate-degree-programs&#34;&gt;Undergraduate Degree Programs&lt;/h2&gt;
+&lt;p&gt;The Department of Geography, Planning and Recreation offers undergraduate degree programs designed to provide students with comprehensive knowledge and hands-on experience in geographic science, environment and society, urban planning, parks and recreation management, and community sustainability studies.&lt;/p&gt;
+&lt;h2 id=&#34;bachelors-of-science-in-geography-environment-and-society&#34;&gt;Bachelors of Science in Geography, Environment and Society&lt;/h2&gt;
+&lt;div class=&#34;card&#34;&gt;
+  &lt;div class=&#34;card-header&#34; id=&#34;geologyBSHeader&#34;&gt;
+    &lt;h5 class=&#34;mb-0&#34;&gt;
+      &lt;button class=&#34;btn btn-link btn-block text-left&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#geologyBSCollapse&#34; aria-expanded=&#34;true&#34; aria-controls=&#34;geologyBSCollapse&#34;&gt;
+        &lt;i class=&#34;fas fa-chevron-down&#34;&gt;&lt;/i&gt; View Program Details
+      &lt;/button&gt;
+    &lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div id=&#34;geologyBSCollapse&#34; class=&#34;collapse show&#34; aria-labelledby=&#34;geologyBSHeader&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
+&lt;h3 id=&#34;program-overview&#34;&gt;Program Overview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Total Units:&lt;/strong&gt; 120&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Major Requirements:&lt;/strong&gt; 36-39 units&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Minor Requirements:&lt;/strong&gt; 18-24 units&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Major GPA:&lt;/strong&gt; C&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;The Bachelor of Science in Geography, Environment and Society integrates geographic knowledge and GIS mapping technologies with the problem-solving fields of community planning and urban design. This educational framework prepares students for careers in creating more livable and sustainable communities, while contributing to a better world.&lt;/p&gt;
+&lt;h3 id=&#34;key-features&#34;&gt;Key Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Inegrated geographic and spatial analysis foundation&lt;/li&gt;
+&lt;li&gt;Applied emphasis alighed with career pathways&lt;/li&gt;
+&lt;li&gt;Focus on creating just, sustainable, and livable communities&lt;/li&gt;
+&lt;li&gt;Professional inquiry, communication, and research skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--![Field Experience](geology-capstone.jpg)
+*Students conducting hands-on geological fieldwork and research projects*
+--&gt;
+&lt;h3 id=&#34;career-focus&#34;&gt;Career Focus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Geospatial technologies and spatial data analysis&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Community and urban planning&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Human-environmental systems and sustainability&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Environmental and social research&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Geographic communication and public engagement&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;bachelor-of-science-in-parks-and-recreation-management&#34;&gt;Bachelor of Science in Parks and Recreation Management&lt;/h2&gt;
+&lt;div class=&#34;card&#34;&gt;
+  &lt;div class=&#34;card-header&#34; id=&#34;essBAHeader&#34;&gt;
+    &lt;h5 class=&#34;mb-0&#34;&gt;
+      &lt;button class=&#34;btn btn-link btn-block text-left collapsed&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#essBACollapse&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;essBACollapse&#34;&gt;
+        &lt;i class=&#34;fas fa-chevron-down&#34;&gt;&lt;/i&gt; View Program Details
+      &lt;/button&gt;
+    &lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div id=&#34;essBACollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;essBAHeader&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
+&lt;h3 id=&#34;program-overview-1&#34;&gt;Program Overview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Total Units:&lt;/strong&gt; 120&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Major GPA:&lt;/strong&gt; C&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Highest Mathematics Requirement:&lt;/strong&gt; STA 270&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fieldwork Experience/Internship:&lt;/strong&gt; Required&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;description-1&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;The Parks and Recreation Management (PRM) program fulfills the discipline of preparing students for careers in parks, recreation, tourism, and related fields. The program provides an equitable, inclusive, and justice-oriented approach to education that develops students&amp;rsquo; critical thinking skills and competencies needed for these careers.&lt;/p&gt;
+&lt;h3 id=&#34;emphases&#34;&gt;Emphases&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Community, Commericial &amp;amp; Tourism Emphasis&lt;/li&gt;
+&lt;li&gt;Outdoor Education &amp;amp; Leadership Emphasis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;career-focus-1&#34;&gt;Career Focus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Outdoor and environmental education&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Adventure leadership and guiding&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Community recreation and event management&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;sustainable tourism and commericial recreation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Parks, conservation, and public-sector recreation services&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;integrated-bsms-degrees-program&#34;&gt;Integrated BS–MS degrees program&lt;/h2&gt;
+&lt;div class=&#34;card&#34;&gt;
+  &lt;div class=&#34;card-header&#34; id=&#34;essBSHeader&#34;&gt;
+    &lt;h5 class=&#34;mb-0&#34;&gt;
+      &lt;button class=&#34;btn btn-link btn-block text-left collapsed&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#essBSCollapse&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;essBSCollapse&#34;&gt;
+        &lt;i class=&#34;fas fa-chevron-down&#34;&gt;&lt;/i&gt; View Program Details
+      &lt;/button&gt;
+    &lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div id=&#34;essBSCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;essBSHeader&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
+&lt;h3 id=&#34;program-overview-2&#34;&gt;Program Overview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GPA:&lt;/strong&gt; 3.25(+) at the time of application; 3.5(+) for the recent 12 units of GSP or PRM courses&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;When to Apply:&lt;/strong&gt; junior or first half of senior year&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Letters of support:&lt;/strong&gt; 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;description-2&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;Northern Arizona University offers this unique option to highly qualified and mature students who are looking to get a head start on their Master of Science in Applied Geospatial Sciences degree (Master of Science in Geography starting Fall 2022). In this program, you are allowed to take up to twelve units at the 400-level or higher to apply toward both degrees, allowing you to earn both your BS and MS in only five years.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;application-information&#34;&gt;Application Information&lt;/h2&gt;
+&lt;h3 id=&#34;admission-requirements&#34;&gt;Admission Requirements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;High school diploma or equivalent&lt;/li&gt;
+&lt;li&gt;Satisfactory SAT or ACT scores&lt;/li&gt;
+&lt;li&gt;Completed application to Northern Arizona University&lt;/li&gt;
+&lt;li&gt;Official transcripts from all previous institutions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;student-support-services&#34;&gt;Student Support Services&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Professional academic advisors&lt;/li&gt;
+&lt;li&gt;Faculty mentorship programs&lt;/li&gt;
+&lt;li&gt;Career counseling services&lt;/li&gt;
+&lt;li&gt;Graduate school preparation guidance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:geog@nau.edu&#34;&gt;geog@nau.edu&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Phone:&lt;/strong&gt; 928-523-2650&lt;br&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Room 201, Building 70, SBS West, NAU Flagstaff Campus&lt;/p&gt;
+&lt;div class=&#34;text-center my-4&#34;&gt;
+  &lt;a href=&#34;https://nau.edu/apply/&#34; class=&#34;btn btn-success btn-lg&#34; target=&#34;_blank&#34;&gt;Apply to NAU&lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Degree Programs</title>
       <link>https://nau-gpr.github.io/student-opportunities/undergraduate-degrees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nau-gpr.github.io/student-opportunities/undergraduate-degrees/</guid>
