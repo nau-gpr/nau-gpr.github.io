@@ -36,7 +36,7 @@ The Department of Geography, Planning, and Recreation offers four comprehensive 
   <div id="geologyCollapse" class="collapse show" aria-labelledby="geologyHeader">
     <div class="card-body">
 
-<a href="/student-opportunities/geology-ms/" class="btn btn-primary mb-3">Complete Program Details</a>
+<a href="https://in.nau.edu/department-geography-planning-recreation/home/degrees-programs/graduate-degrees-certificates/ms-geography/" class="btn btn-primary mb-3">Complete Program Details</a>
 
 ### Program Overview
 - **Focus Areas:** Geographic inquiry and human-environment relations, community development, geospatial technologies and spatial analysis, critical analysis and research methods.
@@ -76,7 +76,7 @@ The Department of Geography, Planning, and Recreation offers four comprehensive 
   <div id="envSciCollapse" class="collapse" aria-labelledby="envSciHeader">
     <div class="card-body">
 
-<a href="/student-opportunities/environmental-sciences-policy/" class="btn btn-primary mb-3">Complete Program Details</a>
+<a href="https://in.nau.edu/department-geography-planning-recreation/home/gis_rs/" class="btn btn-primary mb-3">Complete Program Details</a>
 
 ### Program Overview
 - **Required Units** 30
@@ -113,7 +113,7 @@ The Department of Geography, Planning, and Recreation offers four comprehensive 
   <div id="climateCollapse" class="collapse" aria-labelledby="climateHeader">
     <div class="card-body">
 
-<a href="/student-opportunities/climate-science-solutions/" class="btn btn-primary mb-3">Complete Program Details</a>
+<a href="https://catalog.nau.edu/Catalog/details?plan=SUSCMA" class="btn btn-primary mb-3">Complete Program Details</a>
 
 ### Program Overview
 - **Type:** Professional Science Master's degree
@@ -160,10 +160,12 @@ The Department of Geography, Planning, and Recreation offers four comprehensive 
       </button>
     </h5>
   </div>
-  <div id="geologyCollapse" class="collapse show" aria-labelledby="geologyHeader">
+  <div id="climateCollapse" class="collapse show" aria-labelledby="geologyHeader">
     <div class="card-body">
 
-<a href="/student-opportunities/geology-ms/" class="btn btn-primary mb-3">Complete Program Details</a>
+<a href="" class="btn btn-primary mb-3">Complete Program Details</a>
+
+#### This program is currently not accepting new applications. Please reach out to Frank Vernon, the Graduate Program Coordinator, at Franklin.Vernon@nau.edu with any questions or to discuss alternative options in our Department.
 
 ### Program Overview
 - **Focus Areas:** Sedimentary, igneous, and metamorphic rocks; stratigraphy, structure, volcanology, surficial processes, water resources
