@@ -55,7 +55,7 @@ sections:
         <div class="col-md-4">
           <img src="gis.jpg" alt="GIS w. Remote Sensing graduate certificate" class="img-fluid mb-3">
           <h4>GIS with Remote Sensing Graduate Certificate</h4>
-          <p>Focuses on producing expert GIS practitioners who are prepared to use geospatial technologies in the workplace.</p>
+          <p>A post-graduate certificate that is well suited for students who want to enter the field of GIS or apply geospatial techniques and analysis to their desired discipline.</p>
           <ul>
             <li>Online</li>
             <li>16 credits</li>
@@ -64,7 +64,7 @@ sections:
         </div>
         <div class="col-md-4">
           <img src="recreational_therapy.jpg" alt="Graduate certificate recreational therapy" class="img-fluid mb-3">
-          <h4>Recreational therapy Graduate Certificate Program</h4>
+          <h4>Recreational therapy Graduate Certificate</h4>
           <p>Prepare future Recreational Therapists (RT) to meet the qualifications of the National Council for Therapeutic Recreation Certification (NCTRC) exam.</p>
           <ul>
             <li>Online</li>
@@ -75,7 +75,7 @@ sections:
         <div class="col-md-4">
           <img src="community_planning.jpg" alt="Community Planning, Graduate Certificate" class="img-fluid mb-3">
           <h4>Community Planning, Graduate Certificate</h4>
-          <p>Prepares students for careers in local government urban planning departments, as well as in private sector development companies who interact closely with those departments.</p>
+          <p>Prepares students for careers in local government urban planning departments, as well as in private development companies who interact closely with governments.</p>
           <ul>
             <li>In-person</li>
             <li>15-credits</li>
