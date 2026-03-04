@@ -79,28 +79,22 @@ The Department of Geography, Planning, and Recreation offers four comprehensive 
 <a href="/student-opportunities/environmental-sciences-policy/" class="btn btn-primary mb-3">Complete Program Details</a>
 
 ### Program Overview
-- **Duration:** Two-year program
-- **Application Deadline:** January 1st
-- **Emphasis Areas:** Environmental Sciences and Policy, Paleoenvironmental Sciences
+- **Required Units** 30
+- **Duration:** One-year program
+- **Application Deadline:** Apply anytime, No deadline
 
 ### Research Areas
-- Past & Present Climate Change
-- Water Management Policy & Science
-- Ecology & Conservation
-- Environment & Society
-
-### Funding Opportunities
-- Research and Teaching Assistantships with $15,000+ stipend
-- Wyss Scholars program for exceptional students
-- Tuition remission with assistantships
-- External fellowship opportunities
+- Capstone project allows you to apply GIS / RS to areas of your interest, such as
+  - Environmental conservation
+  - Resource management
+  - GIS technologies
 
 ### Career Outcomes
-- Government agencies (EPA, USGS, NOAA)
-- Non-profit environmental organizations
-- Private sector environmental consulting
-- Policy research institutions
-- Entrepreneurial environmental projects
+- Geospatial data management
+- Geospatial data analysis and decision-making support
+- GIS applications development for area of interest
+- GIS project management
+- Remote sensing and photogrammetry analysis
 
     </div>
   </div>
