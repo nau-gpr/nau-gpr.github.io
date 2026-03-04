@@ -39,29 +39,25 @@ The Department of Geography, Planning, and Recreation offers four comprehensive 
 <a href="/student-opportunities/geology-ms/" class="btn btn-primary mb-3">Complete Program Details</a>
 
 ### Program Overview
-- **Focus Areas:** Sedimentary, igneous, and metamorphic rocks; stratigraphy, structure, volcanology, surficial processes, water resources
+- **Focus Areas:** Geographic inquiry and human-environment relations, community development, geospatial technologies and spatial analysis, critical analysis and research methods.
 - **Application Deadline:** January 1st
 - **Duration:** Typically 2 years
 
 ### Research Themes
-- Past & Present Climate Change
-- Tectonics & Earth's Interior
-- Sedimentary Geology & Geomorphology
-- Water Management Policy & Science
+- Human-environment relationshs and geographic inquiry
+- Place, space, and community development
+- Critical analysis and research methods in geography
+- Geospatial technologies and applied spatial analysis
 
 ### Funding Opportunities
-- Research Assistantships with $15,000+ annual stipend
 - Teaching Assistantships with $15,000+ annual stipend
 - Tuition waiver included with assistantships
-- Additional research grants available
 
 ### Career Outcomes
-- **90% employment rate** upon graduation
-- Environmental consulting firms
-- Energy industry positions
-- Federal and state government agencies
-- Teaching and education roles
-- PhD program preparation
+- Geospatial analysis and GIS specialist
+- Urban and community planning
+- Environmental and natural resource management
+- Geographic information communicator and public engagement coordinator
 
     </div>
   </div>
