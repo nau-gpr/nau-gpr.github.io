@@ -26,14 +26,14 @@ The Department of Geography, Planning, and Recreation offers four comprehensive 
 ## Master of Science in Geography
 
 <div class="card">
-  <div class="card-header" id="geologyHeader">
+  <div class="card-header" id="geographyHeader">
     <h5 class="mb-0">
-      <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#geologyCollapse" aria-expanded="true" aria-controls="geologyCollapse">
+      <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#geographyCollapse" aria-expanded="true" aria-controls="geographyCollapse">
         <i class="fas fa-chevron-down"></i> View Program Details
       </button>
     </h5>
   </div>
-  <div id="geologyCollapse" class="collapse show" aria-labelledby="geologyHeader">
+  <div id="geographyCollapse" class="collapse show" aria-labelledby="geographyHeader">
     <div class="card-body">
 
 <a href="https://in.nau.edu/department-geography-planning-recreation/home/degrees-programs/graduate-degrees-certificates/ms-geography/" class="btn btn-primary mb-3">Complete Program Details</a>
@@ -66,14 +66,14 @@ The Department of Geography, Planning, and Recreation offers four comprehensive 
 ## Master of Science in Geographic Information Science and Remote Sensing
 
 <div class="card">
-  <div class="card-header" id="envSciHeader">
+  <div class="card-header" id="gisrsHeader">
     <h5 class="mb-0">
-      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#envSciCollapse" aria-expanded="false" aria-controls="envSciCollapse">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#gisrsCollapse" aria-expanded="false" aria-controls="gisrsCollapse">
         <i class="fas fa-chevron-down"></i> View Program Details
       </button>
     </h5>
   </div>
-  <div id="envSciCollapse" class="collapse" aria-labelledby="envSciHeader">
+  <div id="gisrsCollapse" class="collapse" aria-labelledby="gisrsHeader">
     <div class="card-body">
 
 <a href="https://in.nau.edu/department-geography-planning-recreation/home/gis_rs/" class="btn btn-primary mb-3">Complete Program Details</a>
@@ -103,48 +103,40 @@ The Department of Geography, Planning, and Recreation offers four comprehensive 
 ## Master of Art in Sustainable Communities
 
 <div class="card">
-  <div class="card-header" id="climateHeader">
+  <div class="card-header" id="susHeader">
     <h5 class="mb-0">
-      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#climateCollapse" aria-expanded="false" aria-controls="climateCollapse">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#susCollapse" aria-expanded="false" aria-controls="susCollapse">
         <i class="fas fa-chevron-down"></i> View Program Details
       </button>
     </h5>
   </div>
-  <div id="climateCollapse" class="collapse" aria-labelledby="climateHeader">
+  <div id="susCollapse" class="collapse" aria-labelledby="susHeader">
     <div class="card-body">
 
-<a href="https://catalog.nau.edu/Catalog/details?plan=SUSCMA" class="btn btn-primary mb-3">Complete Program Details</a>
+<a href="https://in.nau.edu/program-sustainable-communities/program/" class="btn btn-primary mb-3">Complete Program Details</a>
 
 ### Program Overview
-- **Type:** Professional Science Master's degree
-- **Duration:** 18-month, non-thesis program
-- **Total Credits:** 36 (18 core, 12 electives, 6 career development)
-
-### Core Curriculum
-- Climate change science fundamentals
-- Environmental economics
-- Greenhouse gas management
-- Sustainable systems design
-- Environmental discourse and communication
+- **Type:** Master of Art degree
+- **Total Credits:** 36
+- **Thesis:** Required
+- **Oral defense:** Required
 
 ### Special Features
-- **Professional Summer Internship:** Mandatory industry experience
-- **Industry Advisory Board:** Direct input from industry professionals
-- **Career Development:** Professional skills and networking focus
-- **Accelerated Timeline:** Complete degree in 1.5 years
-
-### Target Background
-- Engineering graduates
-- Science degree holders
-- Environmental Studies majors
-- Business professionals seeking environmental expertise
+- Inter-disciplinary inquiry
+- Linking theory and practice
+- Issue-based research
+- Learner-based curriculum
+- Working with community
+- Flexible pedagogy
 
 ### Career Opportunities
-- Climate consulting firms
-- Corporate sustainability departments
-- Government climate agencies
-- Renewable energy companies
-- Environmental policy organizations
+- Municipal and regional governance
+- Environmental, sustainability, and social justice education
+- Non-profit program coordination
+- Sustainable food systems
+- Natural and sustainable building
+- Community organizing
+- Justice and equity leadership
 
     </div>
   </div>
@@ -153,44 +145,24 @@ The Department of Geography, Planning, and Recreation offers four comprehensive 
 ## Master of Science in Parks and Recreation Management
 
 <div class="card">
-  <div class="card-header" id="geologyHeader">
+  <div class="card-header" id="parksHeader">
     <h5 class="mb-0">
-      <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#geologyCollapse" aria-expanded="true" aria-controls="geologyCollapse">
+      <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#parksCollapse" aria-expanded="false" aria-controls="parksCollapse">
         <i class="fas fa-chevron-down"></i> View Program Details
       </button>
     </h5>
   </div>
-  <div id="climateCollapse" class="collapse show" aria-labelledby="geologyHeader">
+  <div id="parksCollapse" class="collapse" aria-labelledby="parksHeader">
     <div class="card-body">
 
 <a href="" class="btn btn-primary mb-3">Complete Program Details</a>
 
-#### This program is currently not accepting new applications. Please reach out to Frank Vernon, the Graduate Program Coordinator, at Franklin.Vernon@nau.edu with any questions or to discuss alternative options in our Department.
+### This program is currently not accepting new applications. Please reach out to Frank Vernon, the Graduate Program Coordinator, at Franklin.Vernon@nau.edu with any questions or to discuss alternative options in our Department.
 
 ### Program Overview
-- **Focus Areas:** Sedimentary, igneous, and metamorphic rocks; stratigraphy, structure, volcanology, surficial processes, water resources
-- **Application Deadline:** January 1st
+- **Focus Areas:** 
+- **Application Deadline:** NA
 - **Duration:** Typically 2 years
-
-### Research Themes
-- Past & Present Climate Change
-- Tectonics & Earth's Interior
-- Sedimentary Geology & Geomorphology
-- Water Management Policy & Science
-
-### Funding Opportunities
-- Research Assistantships with $15,000+ annual stipend
-- Teaching Assistantships with $15,000+ annual stipend
-- Tuition waiver included with assistantships
-- Additional research grants available
-
-### Career Outcomes
-- **90% employment rate** upon graduation
-- Environmental consulting firms
-- Energy industry positions
-- Federal and state government agencies
-- Teaching and education roles
-- PhD program preparation
 
     </div>
   </div>
