@@ -56,17 +56,17 @@ sections:
           description: "We prepare students to design inclusive recreation experiences and manage community parks and programs, leading to careers in recreation management, community services, outdoor programming and leadership."
           icon: hiking 
           icon_pack: fas
-          link: "/academic-programs/prm-programs/"
+          link: "/academic-themes/prm-programs/"
         - name: "Urban Planning"
           description: "Equip students with the analytical, design, and community‑engagement skills to shape more equitable, sustainable, and resilient cities. Prepare graduates for careers in urban and regional planning, transportation planning, housing and community development."
           icon: city
           icon_pack: fas
-          link: "/academic-programs/ges-programs/"
+          link: "/academic-themes/ges-programs/"
         - name: "Geographic Information Science"
           description: "GIS provides innovative spatial analysis and mapping solutions to environmental and social challenges. We prepare students for careers in geospatial technology, data analytics, and decision‑support for public and private sectors."
           icon: map-marked-alt
           icon_pack: fas
-          link: "/academic-programs/ges-programs/"
+          link: "/academic-themes/ges-programs/"
         - name: "Outdoor Education and Leadership"
           description: "Immerse students in experiential learning that builds confidence, environmental awareness, and the practical leadership skills needed for careers in outdoor recreation, environmental stewardship, and community-based adventure programming."
           icon: campground
@@ -76,7 +76,7 @@ sections:
           description: "We are one of only a few nationally accredited programs that provide the training required to work as a seasonal park ranger in law enforcement in the National Park Service."
           icon: shield-alt /*certificate*/
           icon_pack: fas
-          link: "/academic-programs/prtp-programs/"
+          link: "/academic-themes/prtp-programs/"
 
 
   - block: markdown

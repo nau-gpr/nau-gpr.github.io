@@ -40,7 +40,7 @@ main:
     parent: Themes
     weight: 42
   - name: Parks and Leisure
-    url: academic-themes/parks-and-leisure
+    url: academic-themes/prm-programs
     parent: Themes
     weight: 43
   - name: Urban Planning
@@ -56,7 +56,7 @@ main:
     parent: Themes
     weight: 46
   - name: Public Safety and Law Enforcement
-    url: academic-themes/law-enforcement
+    url: academic-themes/prtp-programs
     parent: Themes
     weight: 47
   # - name: Research Highlights
