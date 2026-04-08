@@ -9,55 +9,59 @@ main:
     weight: 10
   - name: People
     url: faculty-profiles
-    weight: 15
-  - name: Academic Programs
-    url: academic-programs
     weight: 20
+  - name: Programs
+    url: academic-programs
+    weight: 30
     hasChildren: true
-  - name: Overview
+  - name: Programs Overview
     url: academic-programs
-    parent: Academic Programs
-    weight: 20
+    parent: Programs
+    weight: 31
   - name: Undergraduate Degrees
     url: academic-programs/undergraduate-degrees
-    parent: Academic Programs
-    weight: 21
+    parent: Programs
+    weight: 32
   - name: Graduate Degrees
     url: academic-programs/graduate-degrees
-    parent: Academic Programs
-    weight: 22
+    parent: Programs
+    weight: 33
   - name: Graduate Certificates
     url: academic-programs/graduate-certificates
-    parent: Academic Programs
-    weight: 23
-  - name: Research
-    url: research
-    weight: 20
-    hasChildren: true
-  - name: Research Impact
-    url: research
-    parent: Research
-    weight: 30
-  - name: Research Themes
-    url: research-themes
-    parent: Research
-    weight: 31
-  - name: Faculty Research
-    url: faculty
-    parent: Research
-    weight: 32
-  - name: Student Research
-    url: students
-    parent: Research
-    weight: 33
-  - name: Analytics
-    url: analytics
-    parent: Research
+    parent: Programs
     weight: 34
-  - name: About
-    url: about
-    parent: Research
-    weight: 35
+  - name: Themes
+    url: academic-themes
+    weight: 40
+    hasChildren: true
+  - name: Themes Overview
+    url: academic-themes
+    parent: Themes
+    weight: 41
+  - name: Sustainability
+    url: academic-themes/sustainability
+    parent: Themes
+    weight: 42
+  - name: Parks and Leisure
+    url: academic-themes/parks-and-leisure
+    parent: Themes
+    weight: 43
+  - name: Urban Planning
+    url: academic-themes/urban-planning
+    parent: Themes
+    weight: 44
+  - name: Geographic Informatin Science
+    url: academic-themes/gis
+    parent: Themes
+    weight: 45
+  - name: Outdoor Education and Leadership
+    url: academic-themes/outdoor-education
+    parent: Themes
+    weight: 46
+  - name: Public Safety and Law Enforcement
+    url: academic-themes/law-enforcement
+    parent: Themes
+    weight: 47
   # - name: Research Highlights
   #   url: highlights
   #   weight: 45

@@ -22,6 +22,17 @@ slides: ""
 
 ## Geographic Information Systems (GIS) Certificate
 
+<div class="card">
+  <div class="card-header" id="gisCertHeader">
+    <h5 class="mb-0">
+      <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#gisCertCollapse" aria-expanded="true" aria-controls="gisCertCollapse">
+        <i class="fas fa-chevron-down"></i> View Program Details
+      </button>
+    </h5>
+  </div>
+  <div id="gisCertCollapse" class="collapse" aria-labelledby="gisCertyHeader">
+    <div class="card-body">
+
 ### Program Overview
 - **Delivery:** Asynchronous Online
 - **Credits:** 16
@@ -55,35 +66,56 @@ The Geographic Information Systems (GIS) Certificate prepares students to use ge
 
 ### Apply Now
 - [Click to apply](https://www.applyweb.com/northazg)
+    </div>
+  </div
+</div>
+
 
 ## Recreational Therapy Certificate
 
+<div class="card">
+  <div class="card-header" id="recCertHeader">
+    <h5 class="mb-0">
+      <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#recCertCollapse" aria-expanded="true" aria-controls="recCertCollapse">
+        <i class="fas fa-chevron-down"></i> View Program Details
+      </button>
+    </h5>
+  </div>
+  <div id="recCertCollapse" class="collapse" aria-labelledby="recCertyHeader">
+    <div class="card-body">
+
 ### Program Overview
-- **Format:** Online certificate program
-- **Credits:** 12 total credit hours
-- **Duration:** Four 8-week courses over two semesters
-- **Delivery:** Asynchronous Online format
+- **Delivery:** Asynchronous Online
+- **Credits:** 18-21 total credit hours
+- **Fieldwork:** 40 hours of fieldwork or equivalent
 
 ### Program Description
+The Graduate Certificate in Recreational Therapy prepares students for the National Council for Therapeutic Recreation Certification (NCTRC) exam and careers as Certified Therapeutic Recreation Specialists. Therapeutic Recreation uses recreation and activity‑based interventions to enhance quality of life for people of all backgrounds. Practitioners work in hospitals, schools, behavioral health, corrections, long‑term care, community agencies, and outdoor programs. The curriculum aligns with all ten NCTRC job task domains, building skills in assessment, intervention planning, implementation, evaluation, documentation, teamwork, and program management. The certificate supports both the academic and professional eligibility pathways, providing the required coursework for national credentialing.
+
+### Curicculum
+Take the following 18-21 units:
+- PRM 502, PRM 503, PRM 504, PRM 505, PRM 506, PRM 507 (18 units)
+- Students are required to complete 40 hours of fieldwork, with consultation of the advisor. This may be through paid or unpaid work experiences, through additional field experiences in courses, or by completing one of the following courses (0-3 units):
+  - PRM 525 (0 - 3 units)
+  - PRM 555 (0 - 3 units)
+  - PRM 608 (0 - 3 units)
+
+### Student Learning Outcomes
+- Demonstrate entry-level knowledge of the therapeutic recreation profession in history, theory, philosophy, and sciences and the scope and practices of recreation therapy/therapeutic recreation across diverse delivery systems.
+- Demonstrate the ability to assess, plan, implement, document, and evaluate therapeutic recreation services that facilitate targeted outcomes, and that embrace personal and cultural dimensions of diversity (including international application of recreational therapy).
+- Demonstrate entry-level knowledge and competence of the theories, principles, and practices of management/administration of therapeutic recreation services.
 
 ### Admission Requirements
 
-- **Undergraduate Degree:** Bachelor's degree from an accredited institution
-- **GPA Requirement:** Minimum 3.0 cumulative GPA
-- [**Find out more information about the Certificate here**](https://catalog.nau.edu/Catalog/details?plan=GHGAGCT)
+- Transcripts
+- Undergraduate degree from a regionally accredited institution with a 3.0 GPA on 4.0 scale or the equivalent.
 
-### Application Process
+### Contact Information
+- Dr. Sandra Heath: Sandy.Heath@nau.edu. Phone: (928) 523-7768
 
-#### Complete online application
-- [**Apply Now**](https://www.applyweb.com/northazg/index.ftl?_gl=1*1r4mvg5*_gcl_au*MTA0OTQyMjY5OS4xNzUxMzAwMDM3*FPAU*MTA0OTQyMjY5OS4xNzUxMzAwMDM3*_ga*NTQxMTgxMDEyLjE3MzMyNTE1ODg.*_ga_3Z09XZBPK5*czE3NTczNjEwNTkkbzM2JGcxJHQxNzU3MzYxNzgwJGo0OSRsMCRoMTQyMzg2MzAxOA)
+### Apply Now
+- [Click to apply](https://www.applyweb.com/northazg)
 
-#### Application Deadlines
-- **Rolling Admissions:** Applications reviewed on ongoing basis
-- **Fall Start:** The Graduate Certificate in GHG Accounting begins at the start of every Fall semester. Courses must be taken in sequence.
-
-## Contact Information
-For information about the Graduate Certificate in Greenhouse Gas Accounting, including curriculum details and application procedures, please contact the Program Creator and Director, Dr. Deb Huntzinger
-
-**Email:** deborah.huntzinger@nau.edu   
-**Phone:** 928-523-1669  
-
+    </div>
+  </div>
+</div>

@@ -53,7 +53,7 @@ sections:
       
       <div class="row">
         <div class="col-md-4">
-          <img src="gis.jpg" alt="GIS w. Remote Sensing graduate certificate" class="img-fluid mb-3">
+          <img src="gis.png" alt="GIS w. Remote Sensing graduate certificate" class="img-fluid mb-3">
           <h4>GIS with Remote Sensing Graduate Certificate</h4>
           <p>A post-graduate certificate that is well suited for students who want to enter the field of GIS or apply geospatial techniques and analysis to their desired discipline.</p>
           <ul>
@@ -63,7 +63,7 @@ sections:
           <p><a href="https://in.nau.edu/department-geography-planning-recreation/gis-certificate/" class="btn btn-primary">Learn More About this Graduate Certificate</a></p>
         </div>
         <div class="col-md-4">
-          <img src="recreational_therapy.jpg" alt="Graduate certificate recreational therapy" class="img-fluid mb-3">
+          <img src="recreational-therapy.png" alt="Graduate certificate recreational therapy" class="img-fluid mb-3">
           <h4>Recreational therapy Graduate Certificate</h4>
           <p>Prepare future Recreational Therapists (RT) to meet the qualifications of the National Council for Therapeutic Recreation Certification (NCTRC) exam.</p>
           <ul>
@@ -73,7 +73,7 @@ sections:
           <p><a href="https://in.nau.edu/department-geography-planning-recreation/prm-degrees-and-programs/recreational-therapy-graduate-certificate/" class="btn btn-primary">Learn More About this Graduate Certificate</a></p>
         </div>
         <div class="col-md-4">
-          <img src="community_planning.jpg" alt="Community Planning, Graduate Certificate" class="img-fluid mb-3">
+          <img src="urban-planning.png" alt="Community Planning, Graduate Certificate" class="img-fluid mb-3">
           <h4>Community Planning, Graduate Certificate</h4>
           <p>Prepares students for careers in local government urban planning departments, as well as in private development companies who interact closely with governments.</p>
           <ul>

@@ -25,14 +25,14 @@ The Department of Geography, Planning and Recreation offers undergraduate degree
 ## Bachelors of Science in Geography, Environment and Society
 
 <div class="card">
-  <div class="card-header" id="geologyBSHeader">
+  <div class="card-header" id="geographyBSHeader">
     <h5 class="mb-0">
-      <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#geologyBSCollapse" aria-expanded="true" aria-controls="geologyBSCollapse">
+      <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#geographyBSCollapse" aria-expanded="true" aria-controls="geographyBSCollapse">
         <i class="fas fa-chevron-down"></i> View Program Details
       </button>
     </h5>
   </div>
-  <div id="geologyBSCollapse" class="collapse show" aria-labelledby="geologyBSHeader">
+  <div id="geographyBSCollapse" class="collapse" aria-labelledby="geographyBSHeader">
     <div class="card-body">
 
 ### Program Overview
@@ -69,14 +69,14 @@ The Bachelor of Science in Geography, Environment and Society integrates geograp
 ## Bachelor of Science in Parks and Recreation Management
 
 <div class="card">
-  <div class="card-header" id="essBAHeader">
+  <div class="card-header" id="parksBSHeader">
     <h5 class="mb-0">
-      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#essBACollapse" aria-expanded="false" aria-controls="essBACollapse">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#parksBSCollapse" aria-expanded="false" aria-controls="parksBSCollapse">
         <i class="fas fa-chevron-down"></i> View Program Details
       </button>
     </h5>
   </div>
-  <div id="essBACollapse" class="collapse" aria-labelledby="essBAHeader">
+  <div id="parksBSCollapse" class="collapse" aria-labelledby="parksBSHeader">
     <div class="card-body">
 
 ### Program Overview
@@ -103,17 +103,18 @@ The Parks and Recreation Management (PRM) program fulfills the discipline of pre
   </div>
 </div>
 
+
 ## Integrated BS–MS degrees program
 
 <div class="card">
-  <div class="card-header" id="essBSHeader">
+  <div class="card-header" id="intBSMSHeader">
     <h5 class="mb-0">
-      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#essBSCollapse" aria-expanded="false" aria-controls="essBSCollapse">
+      <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#intBSMSCollapse" aria-expanded="false" aria-controls="intBSMSCollapse">
         <i class="fas fa-chevron-down"></i> View Program Details
       </button>
     </h5>
   </div>
-  <div id="essBSCollapse" class="collapse" aria-labelledby="essBSHeader">
+  <div id="intBSMSCollapse" class="collapse" aria-labelledby="intBSMSHeader">
     <div class="card-body">
 
 ### Program Overview
@@ -124,31 +125,10 @@ The Parks and Recreation Management (PRM) program fulfills the discipline of pre
 ### Description
 Northern Arizona University offers this unique option to highly qualified and mature students who are looking to get a head start on their Master of Science in Applied Geospatial Sciences degree (Master of Science in Geography starting Fall 2022). In this program, you are allowed to take up to twelve units at the 400-level or higher to apply toward both degrees, allowing you to earn both your BS and MS in only five years.
 
-    </div>
   </div>
 </div>
+</div>
 
-
-
-## Application Information
-
-### Admission Requirements
-- High school diploma or equivalent
-- Satisfactory SAT or ACT scores
-- Completed application to Northern Arizona University
-- Official transcripts from all previous institutions
-
-### Student Support Services
-- Professional academic advisors
-- Faculty mentorship programs
-- Career counseling services
-- Graduate school preparation guidance
-
-## Contact Information
-
-**Email:** geog@nau.edu  
-**Phone:** 928-523-2650  
-**Location:** Room 201, Building 70, SBS West, NAU Flagstaff Campus
 
 <div class="text-center my-4">
   <a href="https://nau.edu/apply/" class="btn btn-success btn-lg" target="_blank">Apply to NAU</a>

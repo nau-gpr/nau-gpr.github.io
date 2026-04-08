@@ -45,7 +45,7 @@ sections:
 
   - block: features
     content:
-      title: "Themes"
+      title: "Academic Themes"
       items:
         - name: "Sustainability"
           description: "Students study the intersections between human social structures and the natural world, paying attention to the philosophical, ethical, and practical dimensions of such study."

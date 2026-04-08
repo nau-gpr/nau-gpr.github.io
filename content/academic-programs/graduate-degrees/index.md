@@ -19,6 +19,7 @@ projects: []
 slides: ""
 ---
 
+
 ## Graduate Degree Programs
 
 The Department of Geography, Planning, and Recreation offers four comprehensive graduate degree programs designed to prepare students for advanced careers in research, industry, government, and academia.
@@ -33,7 +34,7 @@ The Department of Geography, Planning, and Recreation offers four comprehensive 
       </button>
     </h5>
   </div>
-  <div id="geographyCollapse" class="collapse show" aria-labelledby="geographyHeader">
+  <div id="geographyCollapse" class="collapse" aria-labelledby="geographyHeader">
     <div class="card-body">
 
 <a href="https://in.nau.edu/department-geography-planning-recreation/home/degrees-programs/graduate-degrees-certificates/ms-geography/" class="btn btn-primary mb-3">Complete Program Details</a>
@@ -167,20 +168,6 @@ The Department of Geography, Planning, and Recreation offers four comprehensive 
     </div>
   </div>
 </div>
-
-
-# Guidance for applying to NAU’s graduate school to pursue an advanced degrees in GPR
-
-First, if you plan to apply to a thesis-based program (ESP MS, GLG MS, and ESES PhD), [get to know our faculty](/faculty-profiles/) and [review current opportunities for students](/grad-opportunites). **It is very important that you reach out to faculty members you would be interested in working with before you apply**. Faculty expect to receive emails from prospective students and will be happy to hear from you about your specific interests. They can also tell you more about their research and if they have space available in their labs.
-
-Second, entry into any SES Graduate Program requires an online application through the Office of Graduate and Professional Studies. A completed application for admission will include:
-
-- An online application for admission to the NAU Office of Graduate and Professional Studies, with the required application fee;
-- Transcripts of all undergraduate and graduate course work;
-- Three letters of recommendation from academic or professional supervisors (download the referee form from the online application);
-- A statement of your interests and goals, and your reasons for pursuing an advanced degree;
-- (For all thesis-based programs – ESP MS, GLG MS, and ESES PhD) names of the faculty advisor(s) you have been in contact with and would like to work with;
-- Submission by the January 1st application deadline.
 
 
 ## Contact Information
