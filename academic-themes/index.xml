@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic Themes | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/academic-themes/</link>
+      <atom:link href="https://nau-gpr.github.io/academic-themes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic Themes</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
+      <title>Academic Themes</title>
+      <link>https://nau-gpr.github.io/academic-themes/</link>
+    </image>
+    
+  </channel>
+</rss>

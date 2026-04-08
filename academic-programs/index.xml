@@ -76,6 +76,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nau-gpr.github.io/academic-programs/graduate-certificates/</guid>
       <description>&lt;h2 id=&#34;geographic-information-systems-gis-certificate&#34;&gt;Geographic Information Systems (GIS) Certificate&lt;/h2&gt;
+&lt;div class=&#34;card&#34;&gt;
+  &lt;div class=&#34;card-header&#34; id=&#34;gisCertHeader&#34;&gt;
+    &lt;h5 class=&#34;mb-0&#34;&gt;
+      &lt;button class=&#34;btn btn-link btn-block text-left&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#gisCertCollapse&#34; aria-expanded=&#34;true&#34; aria-controls=&#34;gisCertCollapse&#34;&gt;
+        &lt;i class=&#34;fas fa-chevron-down&#34;&gt;&lt;/i&gt; View Program Details
+      &lt;/button&gt;
+    &lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div id=&#34;gisCertCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;gisCertyHeader&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
 &lt;h3 id=&#34;program-overview&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Delivery:&lt;/strong&gt; Asynchronous Online&lt;/li&gt;
@@ -113,37 +123,67 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;apply-now&#34;&gt;Apply Now&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.applyweb.com/northazg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click to apply&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.applyweb.com/northazg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click to apply&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div
+&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/div&gt;
 &lt;h2 id=&#34;recreational-therapy-certificate&#34;&gt;Recreational Therapy Certificate&lt;/h2&gt;
+&lt;div class=&#34;card&#34;&gt;
+  &lt;div class=&#34;card-header&#34; id=&#34;recCertHeader&#34;&gt;
+    &lt;h5 class=&#34;mb-0&#34;&gt;
+      &lt;button class=&#34;btn btn-link btn-block text-left&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#recCertCollapse&#34; aria-expanded=&#34;true&#34; aria-controls=&#34;recCertCollapse&#34;&gt;
+        &lt;i class=&#34;fas fa-chevron-down&#34;&gt;&lt;/i&gt; View Program Details
+      &lt;/button&gt;
+    &lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div id=&#34;recCertCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;recCertyHeader&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
 &lt;h3 id=&#34;program-overview-1&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Format:&lt;/strong&gt; Online certificate program&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Credits:&lt;/strong&gt; 12 total credit hours&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; Four 8-week courses over two semesters&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Delivery:&lt;/strong&gt; Asynchronous Online format&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Delivery:&lt;/strong&gt; Asynchronous Online&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Credits:&lt;/strong&gt; 18-21 total credit hours&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fieldwork:&lt;/strong&gt; 40 hours of fieldwork or equivalent&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;program-description-1&#34;&gt;Program Description&lt;/h3&gt;
+&lt;p&gt;The Graduate Certificate in Recreational Therapy prepares students for the National Council for Therapeutic Recreation Certification (NCTRC) exam and careers as Certified Therapeutic Recreation Specialists. Therapeutic Recreation uses recreation and activity‑based interventions to enhance quality of life for people of all backgrounds. Practitioners work in hospitals, schools, behavioral health, corrections, long‑term care, community agencies, and outdoor programs. The curriculum aligns with all ten NCTRC job task domains, building skills in assessment, intervention planning, implementation, evaluation, documentation, teamwork, and program management. The certificate supports both the academic and professional eligibility pathways, providing the required coursework for national credentialing.&lt;/p&gt;
+&lt;h3 id=&#34;curicculum&#34;&gt;Curicculum&lt;/h3&gt;
+&lt;p&gt;Take the following 18-21 units:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PRM 502, PRM 503, PRM 504, PRM 505, PRM 506, PRM 507 (18 units)&lt;/li&gt;
+&lt;li&gt;Students are required to complete 40 hours of fieldwork, with consultation of the advisor. This may be through paid or unpaid work experiences, through additional field experiences in courses, or by completing one of the following courses (0-3 units):
+&lt;ul&gt;
+&lt;li&gt;PRM 525 (0 - 3 units)&lt;/li&gt;
+&lt;li&gt;PRM 555 (0 - 3 units)&lt;/li&gt;
+&lt;li&gt;PRM 608 (0 - 3 units)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;student-learning-outcomes-1&#34;&gt;Student Learning Outcomes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstrate entry-level knowledge of the therapeutic recreation profession in history, theory, philosophy, and sciences and the scope and practices of recreation therapy/therapeutic recreation across diverse delivery systems.&lt;/li&gt;
+&lt;li&gt;Demonstrate the ability to assess, plan, implement, document, and evaluate therapeutic recreation services that facilitate targeted outcomes, and that embrace personal and cultural dimensions of diversity (including international application of recreational therapy).&lt;/li&gt;
+&lt;li&gt;Demonstrate entry-level knowledge and competence of the theories, principles, and practices of management/administration of therapeutic recreation services.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;admission-requirements-1&#34;&gt;Admission Requirements&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Undergraduate Degree:&lt;/strong&gt; Bachelor&amp;rsquo;s degree from an accredited institution&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GPA Requirement:&lt;/strong&gt; Minimum 3.0 cumulative GPA&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://catalog.nau.edu/Catalog/details?plan=GHGAGCT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Find out more information about the Certificate here&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Transcripts&lt;/li&gt;
+&lt;li&gt;Undergraduate degree from a regionally accredited institution with a 3.0 GPA on 4.0 scale or the equivalent.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;application-process&#34;&gt;Application Process&lt;/h3&gt;
-&lt;h4 id=&#34;complete-online-application&#34;&gt;Complete online application&lt;/h4&gt;
+&lt;h3 id=&#34;contact-information-1&#34;&gt;Contact Information&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.applyweb.com/northazg/index.ftl?_gl=1*1r4mvg5*_gcl_au*MTA0OTQyMjY5OS4xNzUxMzAwMDM3*FPAU*MTA0OTQyMjY5OS4xNzUxMzAwMDM3*_ga*NTQxMTgxMDEyLjE3MzMyNTE1ODg.*_ga_3Z09XZBPK5*czE3NTczNjEwNTkkbzM2JGcxJHQxNzU3MzYxNzgwJGo0OSRsMCRoMTQyMzg2MzAxOA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Apply Now&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dr. Sandra Heath: &lt;a href=&#34;mailto:Sandy.Heath@nau.edu&#34;&gt;Sandy.Heath@nau.edu&lt;/a&gt;. Phone: (928) 523-7768&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;application-deadlines&#34;&gt;Application Deadlines&lt;/h4&gt;
+&lt;h3 id=&#34;apply-now-1&#34;&gt;Apply Now&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Rolling Admissions:&lt;/strong&gt; Applications reviewed on ongoing basis&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fall Start:&lt;/strong&gt; The Graduate Certificate in GHG Accounting begins at the start of every Fall semester. Courses must be taken in sequence.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.applyweb.com/northazg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click to apply&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;contact-information-1&#34;&gt;Contact Information&lt;/h2&gt;
-&lt;p&gt;For information about the Graduate Certificate in Greenhouse Gas Accounting, including curriculum details and application procedures, please contact the Program Creator and Director, Dr. Deb Huntzinger&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:deborah.huntzinger@nau.edu&#34;&gt;deborah.huntzinger@nau.edu&lt;/a&gt;&lt;br&gt;
-&lt;strong&gt;Phone:&lt;/strong&gt; 928-523-1669&lt;/p&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -163,7 +203,7 @@
       &lt;/button&gt;
     &lt;/h5&gt;
   &lt;/div&gt;
-  &lt;div id=&#34;geographyCollapse&#34; class=&#34;collapse show&#34; aria-labelledby=&#34;geographyHeader&#34;&gt;
+  &lt;div id=&#34;geographyCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;geographyHeader&#34;&gt;
     &lt;div class=&#34;card-body&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;https://in.nau.edu/department-geography-planning-recreation/home/degrees-programs/graduate-degrees-certificates/ms-geography/&#34; class=&#34;btn btn-primary mb-3&#34;&gt;Complete Program Details&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;program-overview&#34;&gt;Program Overview&lt;/h3&gt;
@@ -334,17 +374,6 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;h1 id=&#34;guidance-for-applying-to-naus-graduate-school-to-pursue-an-advanced-degrees-in-gpr&#34;&gt;Guidance for applying to NAU’s graduate school to pursue an advanced degrees in GPR&lt;/h1&gt;
-&lt;p&gt;First, if you plan to apply to a thesis-based program (ESP MS, GLG MS, and ESES PhD), &lt;a href=&#34;https://nau-gpr.github.io/faculty-profiles/&#34;&gt;get to know our faculty&lt;/a&gt; and &lt;a href=&#34;https://nau-gpr.github.io/grad-opportunites&#34;&gt;review current opportunities for students&lt;/a&gt;. &lt;strong&gt;It is very important that you reach out to faculty members you would be interested in working with before you apply&lt;/strong&gt;. Faculty expect to receive emails from prospective students and will be happy to hear from you about your specific interests. They can also tell you more about their research and if they have space available in their labs.&lt;/p&gt;
-&lt;p&gt;Second, entry into any SES Graduate Program requires an online application through the Office of Graduate and Professional Studies. A completed application for admission will include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;An online application for admission to the NAU Office of Graduate and Professional Studies, with the required application fee;&lt;/li&gt;
-&lt;li&gt;Transcripts of all undergraduate and graduate course work;&lt;/li&gt;
-&lt;li&gt;Three letters of recommendation from academic or professional supervisors (download the referee form from the online application);&lt;/li&gt;
-&lt;li&gt;A statement of your interests and goals, and your reasons for pursuing an advanced degree;&lt;/li&gt;
-&lt;li&gt;(For all thesis-based programs – ESP MS, GLG MS, and ESES PhD) names of the faculty advisor(s) you have been in contact with and would like to work with;&lt;/li&gt;
-&lt;li&gt;Submission by the January 1st application deadline.&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:geog@nau.edu&#34;&gt;geog@nau.edu&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Phone:&lt;/strong&gt; 928-523-2650&lt;br&gt;
@@ -404,14 +433,14 @@
 &lt;p&gt;The Department of Geography, Planning and Recreation offers undergraduate degree programs designed to provide students with comprehensive knowledge and hands-on experience in geographic science, environment and society, urban planning, parks and recreation management, and community sustainability studies.&lt;/p&gt;
 &lt;h2 id=&#34;bachelors-of-science-in-geography-environment-and-society&#34;&gt;Bachelors of Science in Geography, Environment and Society&lt;/h2&gt;
 &lt;div class=&#34;card&#34;&gt;
-  &lt;div class=&#34;card-header&#34; id=&#34;geologyBSHeader&#34;&gt;
+  &lt;div class=&#34;card-header&#34; id=&#34;geographyBSHeader&#34;&gt;
     &lt;h5 class=&#34;mb-0&#34;&gt;
-      &lt;button class=&#34;btn btn-link btn-block text-left&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#geologyBSCollapse&#34; aria-expanded=&#34;true&#34; aria-controls=&#34;geologyBSCollapse&#34;&gt;
+      &lt;button class=&#34;btn btn-link btn-block text-left&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#geographyBSCollapse&#34; aria-expanded=&#34;true&#34; aria-controls=&#34;geographyBSCollapse&#34;&gt;
         &lt;i class=&#34;fas fa-chevron-down&#34;&gt;&lt;/i&gt; View Program Details
       &lt;/button&gt;
     &lt;/h5&gt;
   &lt;/div&gt;
-  &lt;div id=&#34;geologyBSCollapse&#34; class=&#34;collapse show&#34; aria-labelledby=&#34;geologyBSHeader&#34;&gt;
+  &lt;div id=&#34;geographyBSCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;geographyBSHeader&#34;&gt;
     &lt;div class=&#34;card-body&#34;&gt;
 &lt;h3 id=&#34;program-overview&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;ul&gt;
@@ -455,14 +484,14 @@
 &lt;/div&gt;
 &lt;h2 id=&#34;bachelor-of-science-in-parks-and-recreation-management&#34;&gt;Bachelor of Science in Parks and Recreation Management&lt;/h2&gt;
 &lt;div class=&#34;card&#34;&gt;
-  &lt;div class=&#34;card-header&#34; id=&#34;essBAHeader&#34;&gt;
+  &lt;div class=&#34;card-header&#34; id=&#34;parksBSHeader&#34;&gt;
     &lt;h5 class=&#34;mb-0&#34;&gt;
-      &lt;button class=&#34;btn btn-link btn-block text-left collapsed&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#essBACollapse&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;essBACollapse&#34;&gt;
+      &lt;button class=&#34;btn btn-link btn-block text-left collapsed&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#parksBSCollapse&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;parksBSCollapse&#34;&gt;
         &lt;i class=&#34;fas fa-chevron-down&#34;&gt;&lt;/i&gt; View Program Details
       &lt;/button&gt;
     &lt;/h5&gt;
   &lt;/div&gt;
-  &lt;div id=&#34;essBACollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;essBAHeader&#34;&gt;
+  &lt;div id=&#34;parksBSCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;parksBSHeader&#34;&gt;
     &lt;div class=&#34;card-body&#34;&gt;
 &lt;h3 id=&#34;program-overview-1&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;ul&gt;
@@ -501,14 +530,14 @@
 &lt;/div&gt;
 &lt;h2 id=&#34;integrated-bsms-degrees-program&#34;&gt;Integrated BS–MS degrees program&lt;/h2&gt;
 &lt;div class=&#34;card&#34;&gt;
-  &lt;div class=&#34;card-header&#34; id=&#34;essBSHeader&#34;&gt;
+  &lt;div class=&#34;card-header&#34; id=&#34;intBSMSHeader&#34;&gt;
     &lt;h5 class=&#34;mb-0&#34;&gt;
-      &lt;button class=&#34;btn btn-link btn-block text-left collapsed&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#essBSCollapse&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;essBSCollapse&#34;&gt;
+      &lt;button class=&#34;btn btn-link btn-block text-left collapsed&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#intBSMSCollapse&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;intBSMSCollapse&#34;&gt;
         &lt;i class=&#34;fas fa-chevron-down&#34;&gt;&lt;/i&gt; View Program Details
       &lt;/button&gt;
     &lt;/h5&gt;
   &lt;/div&gt;
-  &lt;div id=&#34;essBSCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;essBSHeader&#34;&gt;
+  &lt;div id=&#34;intBSMSCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;intBSMSHeader&#34;&gt;
     &lt;div class=&#34;card-body&#34;&gt;
 &lt;h3 id=&#34;program-overview-2&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;ul&gt;
@@ -518,32 +547,13 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;description-2&#34;&gt;Description&lt;/h3&gt;
 &lt;p&gt;Northern Arizona University offers this unique option to highly qualified and mature students who are looking to get a head start on their Master of Science in Applied Geospatial Sciences degree (Master of Science in Geography starting Fall 2022). In this program, you are allowed to take up to twelve units at the 400-level or higher to apply toward both degrees, allowing you to earn both your BS and MS in only five years.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;h2 id=&#34;application-information&#34;&gt;Application Information&lt;/h2&gt;
-&lt;h3 id=&#34;admission-requirements&#34;&gt;Admission Requirements&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;High school diploma or equivalent&lt;/li&gt;
-&lt;li&gt;Satisfactory SAT or ACT scores&lt;/li&gt;
-&lt;li&gt;Completed application to Northern Arizona University&lt;/li&gt;
-&lt;li&gt;Official transcripts from all previous institutions&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;student-support-services&#34;&gt;Student Support Services&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Professional academic advisors&lt;/li&gt;
-&lt;li&gt;Faculty mentorship programs&lt;/li&gt;
-&lt;li&gt;Career counseling services&lt;/li&gt;
-&lt;li&gt;Graduate school preparation guidance&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:geog@nau.edu&#34;&gt;geog@nau.edu&lt;/a&gt;&lt;br&gt;
-&lt;strong&gt;Phone:&lt;/strong&gt; 928-523-2650&lt;br&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; Room 201, Building 70, SBS West, NAU Flagstaff Campus&lt;/p&gt;
+&lt;/div&gt;
 &lt;div class=&#34;text-center my-4&#34;&gt;
   &lt;a href=&#34;https://nau.edu/apply/&#34; class=&#34;btn btn-success btn-lg&#34; target=&#34;_blank&#34;&gt;Apply to NAU&lt;/a&gt;
-&lt;/div&gt;</description>
+&lt;/div&gt;
+</description>
     </item>
     
   </channel>

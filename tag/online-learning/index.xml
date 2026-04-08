@@ -18,6 +18,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nau-gpr.github.io/academic-programs/graduate-certificates/</guid>
       <description>&lt;h2 id=&#34;geographic-information-systems-gis-certificate&#34;&gt;Geographic Information Systems (GIS) Certificate&lt;/h2&gt;
+&lt;div class=&#34;card&#34;&gt;
+  &lt;div class=&#34;card-header&#34; id=&#34;gisCertHeader&#34;&gt;
+    &lt;h5 class=&#34;mb-0&#34;&gt;
+      &lt;button class=&#34;btn btn-link btn-block text-left&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#gisCertCollapse&#34; aria-expanded=&#34;true&#34; aria-controls=&#34;gisCertCollapse&#34;&gt;
+        &lt;i class=&#34;fas fa-chevron-down&#34;&gt;&lt;/i&gt; View Program Details
+      &lt;/button&gt;
+    &lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div id=&#34;gisCertCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;gisCertyHeader&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
 &lt;h3 id=&#34;program-overview&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Delivery:&lt;/strong&gt; Asynchronous Online&lt;/li&gt;
@@ -55,37 +65,67 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;apply-now&#34;&gt;Apply Now&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.applyweb.com/northazg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click to apply&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.applyweb.com/northazg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click to apply&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div
+&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/div&gt;
 &lt;h2 id=&#34;recreational-therapy-certificate&#34;&gt;Recreational Therapy Certificate&lt;/h2&gt;
+&lt;div class=&#34;card&#34;&gt;
+  &lt;div class=&#34;card-header&#34; id=&#34;recCertHeader&#34;&gt;
+    &lt;h5 class=&#34;mb-0&#34;&gt;
+      &lt;button class=&#34;btn btn-link btn-block text-left&#34; type=&#34;button&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#recCertCollapse&#34; aria-expanded=&#34;true&#34; aria-controls=&#34;recCertCollapse&#34;&gt;
+        &lt;i class=&#34;fas fa-chevron-down&#34;&gt;&lt;/i&gt; View Program Details
+      &lt;/button&gt;
+    &lt;/h5&gt;
+  &lt;/div&gt;
+  &lt;div id=&#34;recCertCollapse&#34; class=&#34;collapse&#34; aria-labelledby=&#34;recCertyHeader&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
 &lt;h3 id=&#34;program-overview-1&#34;&gt;Program Overview&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Format:&lt;/strong&gt; Online certificate program&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Credits:&lt;/strong&gt; 12 total credit hours&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; Four 8-week courses over two semesters&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Delivery:&lt;/strong&gt; Asynchronous Online format&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Delivery:&lt;/strong&gt; Asynchronous Online&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Credits:&lt;/strong&gt; 18-21 total credit hours&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fieldwork:&lt;/strong&gt; 40 hours of fieldwork or equivalent&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;program-description-1&#34;&gt;Program Description&lt;/h3&gt;
+&lt;p&gt;The Graduate Certificate in Recreational Therapy prepares students for the National Council for Therapeutic Recreation Certification (NCTRC) exam and careers as Certified Therapeutic Recreation Specialists. Therapeutic Recreation uses recreation and activity‑based interventions to enhance quality of life for people of all backgrounds. Practitioners work in hospitals, schools, behavioral health, corrections, long‑term care, community agencies, and outdoor programs. The curriculum aligns with all ten NCTRC job task domains, building skills in assessment, intervention planning, implementation, evaluation, documentation, teamwork, and program management. The certificate supports both the academic and professional eligibility pathways, providing the required coursework for national credentialing.&lt;/p&gt;
+&lt;h3 id=&#34;curicculum&#34;&gt;Curicculum&lt;/h3&gt;
+&lt;p&gt;Take the following 18-21 units:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PRM 502, PRM 503, PRM 504, PRM 505, PRM 506, PRM 507 (18 units)&lt;/li&gt;
+&lt;li&gt;Students are required to complete 40 hours of fieldwork, with consultation of the advisor. This may be through paid or unpaid work experiences, through additional field experiences in courses, or by completing one of the following courses (0-3 units):
+&lt;ul&gt;
+&lt;li&gt;PRM 525 (0 - 3 units)&lt;/li&gt;
+&lt;li&gt;PRM 555 (0 - 3 units)&lt;/li&gt;
+&lt;li&gt;PRM 608 (0 - 3 units)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;student-learning-outcomes-1&#34;&gt;Student Learning Outcomes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstrate entry-level knowledge of the therapeutic recreation profession in history, theory, philosophy, and sciences and the scope and practices of recreation therapy/therapeutic recreation across diverse delivery systems.&lt;/li&gt;
+&lt;li&gt;Demonstrate the ability to assess, plan, implement, document, and evaluate therapeutic recreation services that facilitate targeted outcomes, and that embrace personal and cultural dimensions of diversity (including international application of recreational therapy).&lt;/li&gt;
+&lt;li&gt;Demonstrate entry-level knowledge and competence of the theories, principles, and practices of management/administration of therapeutic recreation services.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;admission-requirements-1&#34;&gt;Admission Requirements&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Undergraduate Degree:&lt;/strong&gt; Bachelor&amp;rsquo;s degree from an accredited institution&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GPA Requirement:&lt;/strong&gt; Minimum 3.0 cumulative GPA&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://catalog.nau.edu/Catalog/details?plan=GHGAGCT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Find out more information about the Certificate here&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Transcripts&lt;/li&gt;
+&lt;li&gt;Undergraduate degree from a regionally accredited institution with a 3.0 GPA on 4.0 scale or the equivalent.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;application-process&#34;&gt;Application Process&lt;/h3&gt;
-&lt;h4 id=&#34;complete-online-application&#34;&gt;Complete online application&lt;/h4&gt;
+&lt;h3 id=&#34;contact-information-1&#34;&gt;Contact Information&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.applyweb.com/northazg/index.ftl?_gl=1*1r4mvg5*_gcl_au*MTA0OTQyMjY5OS4xNzUxMzAwMDM3*FPAU*MTA0OTQyMjY5OS4xNzUxMzAwMDM3*_ga*NTQxMTgxMDEyLjE3MzMyNTE1ODg.*_ga_3Z09XZBPK5*czE3NTczNjEwNTkkbzM2JGcxJHQxNzU3MzYxNzgwJGo0OSRsMCRoMTQyMzg2MzAxOA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Apply Now&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dr. Sandra Heath: &lt;a href=&#34;mailto:Sandy.Heath@nau.edu&#34;&gt;Sandy.Heath@nau.edu&lt;/a&gt;. Phone: (928) 523-7768&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;application-deadlines&#34;&gt;Application Deadlines&lt;/h4&gt;
+&lt;h3 id=&#34;apply-now-1&#34;&gt;Apply Now&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Rolling Admissions:&lt;/strong&gt; Applications reviewed on ongoing basis&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fall Start:&lt;/strong&gt; The Graduate Certificate in GHG Accounting begins at the start of every Fall semester. Courses must be taken in sequence.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.applyweb.com/northazg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click to apply&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;contact-information-1&#34;&gt;Contact Information&lt;/h2&gt;
-&lt;p&gt;For information about the Graduate Certificate in Greenhouse Gas Accounting, including curriculum details and application procedures, please contact the Program Creator and Director, Dr. Deb Huntzinger&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:deborah.huntzinger@nau.edu&#34;&gt;deborah.huntzinger@nau.edu&lt;/a&gt;&lt;br&gt;
-&lt;strong&gt;Phone:&lt;/strong&gt; 928-523-1669&lt;/p&gt;
+&lt;/div&gt;
 </description>
     </item>
     

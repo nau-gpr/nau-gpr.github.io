@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nau-gpr.github.io/faculty/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/analytics/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/research/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/students/</loc>
-    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nau-gpr.github.io/academic-programs/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
@@ -542,11 +542,23 @@
     <loc>https://nau-gpr.github.io/publication-type/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/arron-divine/</loc>
+  </url><url>
     <loc>https://nau-gpr.github.io/about/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/academic-themes/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/alder-saxena/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/alumni/</loc>
   </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/alyssa-payne/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/amanda-stan/</loc>
+  </url><url>
     <loc>https://nau-gpr.github.io/tag/biodiversity/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/brian-petersen/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/carbon-accounting/</loc>
   </url><url>
@@ -557,6 +569,8 @@
     <loc>https://nau-gpr.github.io/tag/certificate/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/certificates/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/charles-hammersley/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/climate-action/</loc>
   </url><url>
@@ -570,6 +584,8 @@
   </url><url>
     <loc>https://nau-gpr.github.io/contact/</loc>
   </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/corryn-smith/</loc>
+  </url><url>
     <loc>https://nau-gpr.github.io/author/darrell-kaufman/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/degrees/</loc>
@@ -582,11 +598,19 @@
   </url><url>
     <loc>https://nau-gpr.github.io/tag/education/</loc>
   </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/emanuel-preciado/</loc>
+  </url><url>
     <loc>https://nau-gpr.github.io/research-themes/environment-society/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/category/environmental-science/</loc>
   </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/erik-schiefer/</loc>
+  </url><url>
     <loc>https://nau-gpr.github.io/author/eva-baransky/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/frank-vernon/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/academic-themes/gis/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/academic-programs/ges-programs/</loc>
   </url><url>
@@ -620,33 +644,65 @@
   </url><url>
     <loc>https://nau-gpr.github.io/tag/hydrology/</loc>
   </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/jessica-barnes/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/john-lynch/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/josh-merced/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/josh-ramirez/</loc>
+  </url><url>
     <loc>https://nau-gpr.github.io/tag/landscape-evolution/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/lwa-enforcement/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/marieke-taney/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/mark-manone/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/masters/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/author/nicholas-mckay/</loc>
   </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/nora-timmerman/</loc>
+  </url><url>
     <loc>https://nau-gpr.github.io/tag/online-learning/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/academic-themes/outdoor-education/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/park-ranger/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/academic-programs/prtp-programs/</loc>
   </url><url>
+    <loc>https://nau-gpr.github.io/academic-themes/parks-and-leisure/</loc>
+  </url><url>
     <loc>https://nau-gpr.github.io/academic-programs/prm-programs/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/research-themes/climate-change/</loc>
   </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/pat-chavez/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/patrick-oconnor/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/peter-friederici/</loc>
+  </url><url>
     <loc>https://nau-gpr.github.io/tag/professional-certificates/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/professional-development/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/academic-themes/law-enforcement/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/dawn-hawley/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/recreational-therapy/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/highlights/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/research-themes/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/sandy-heath/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/scott-kelly/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/sedimentary-geology/</loc>
   </url><url>
@@ -656,11 +712,15 @@
   </url><url>
     <loc>https://nau-gpr.github.io/tag/specialized-training/</loc>
   </url><url>
+    <loc>https://nau-gpr.github.io/faculty-profiles/steven-gehrke/</loc>
+  </url><url>
     <loc>https://nau-gpr.github.io/tag/student-achievement/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/category/student-research/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/surface-processes/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/academic-themes/sustainability/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/research-themes/tectonics-interior/</loc>
   </url><url>
@@ -673,6 +733,8 @@
     <loc>https://nau-gpr.github.io/academic-programs/undergraduate-degrees/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/student-opportunities/undergraduate-degrees/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/academic-themes/urban-planning/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/water-management/</loc>
   </url><url>
