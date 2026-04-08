@@ -1,6 +1,6 @@
 ---
 title: "David C. Folch, Chair"
-last_name: "Folch"
+last_name: Folch
 authors: 
 - David Folch
 doi: ""

@@ -1,6 +1,6 @@
 ---
 title: "Ruihong Huang"
-last_name: "Huang"
+last_name: Huang
 authors: 
 - Ruihong Huang
 doi: ""
@@ -12,7 +12,7 @@ publication_short: ""
 
 abstract: "Professor of Geography specializing in Geographic Information Systems (GIS), spatial analysis and modeling, and urban transportation."
 
-summary: "Expert in GIS especially GIS for urban transportation. Published in transit network modeling, schedule-based pathfinding algorithms, online transit trip planning, tranist-facilitated accessibility, spatial modeling and data analysis, etc."
+summary: "Specializes in GIS especially GIS for urban transportation. Published in transit network modeling, schedule-based pathfinding algorithms, online transit trip planning, tranist-facilitated accessibility, spatial modeling and data analysis, etc."
 
 tags:
 - GIS

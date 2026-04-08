@@ -30,6 +30,4 @@ sections:
     design:
       columns: 3
       view: card
-
-
 ---
