@@ -1,16 +1,114 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic Themes | NAU Geography, Planning and Recreation</title>
+    <title>Academic Themes | NAU Geography, Planning &amp; Recreation | NAU Geography, Planning and Recreation</title>
     <link>https://nau-gpr.github.io/academic-themes/</link>
       <atom:link href="https://nau-gpr.github.io/academic-themes/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic Themes</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <description>Academic Themes | NAU Geography, Planning &amp; Recreation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
-      <title>Academic Themes</title>
+      <title>Academic Themes | NAU Geography, Planning &amp; Recreation</title>
       <link>https://nau-gpr.github.io/academic-themes/</link>
     </image>
+    
+    <item>
+      <title>Geography and Planning Programs</title>
+      <link>https://nau-gpr.github.io/academic-themes/ges-programs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nau-gpr.github.io/academic-themes/ges-programs/</guid>
+      <description>&lt;p&gt;Geography is a keystone in understanding the inter-relationships between the earth and humankind.&lt;/p&gt;
+&lt;p&gt;Our department emphasizes careers in human-environment relationships, geospatial technologies (GIS) and community planning. Our graduates play important roles in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Local and state government&lt;/li&gt;
+&lt;li&gt;Federal land management agencies&lt;/li&gt;
+&lt;li&gt;International development organizations&lt;/li&gt;
+&lt;li&gt;Private sector land development and resource management companies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you want to go into a career in sustainability, geospatial technologies (GIS), city, regional or community planning or tourism, check out our degrees, minors and certificates.&lt;/p&gt;
+&lt;h2 id=&#34;undergraduate-minors&#34;&gt;Undergraduate minors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Critical Sustainability Studies (starting Fall 2023)&lt;/li&gt;
+&lt;li&gt;Geographic Information Systems (GIS)&lt;/li&gt;
+&lt;li&gt;Physical Geography&lt;/li&gt;
+&lt;li&gt;Regional Geography&lt;/li&gt;
+&lt;li&gt;Sustainable and Resilient Communities (ending Summer 2023)&lt;/li&gt;
+&lt;li&gt;Urban Planning and Community Design&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;undergraduate-bs-degree&#34;&gt;Undergraduate BS degree&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://in.nau.edu/department-geography-planning-recreation/home/degrees-programs/undergraduate-degrees/geography-environment-and-society-bs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bachelors of Science in Geography, Environment and Society&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://in.nau.edu/department-geography-planning-recreation/home/degrees-programs/undergraduate-degrees/bs-geographic-science-community-planning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bachelors of Science in Geographic Science and Community Planning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;integrated-bsms-degrees-program&#34;&gt;Integrated BS–MS degrees program&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We offer an &lt;a href=&#34;https://in.nau.edu/department-geography-planning-recreation/integrated-program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;integrated bachelor to master degree program&lt;/a&gt; that offers highly qualified and mature undergraduate students in either Parks and Recreation Management or Geographic Science and Community Planning the opportunity to complete both their BS and MS degrees in five years.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;graduate-certificates&#34;&gt;Graduate certificates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://in.nau.edu/department-geography-planning-recreation/gis-certificate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geographic Information Systems (GIS) Certificate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://in.nau.edu/department-geography-planning-recreation/home/degrees-programs/graduate-degrees-certificates/community-planning-graduate-certificate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Community Planning Certificate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;graduate-degrees&#34;&gt;Graduate degrees&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://in.nau.edu/department-geography-planning-recreation/home/degrees-programs/graduate-degrees-certificates/ms-geography/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Masters of Science in Geography&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Thesis and practicum options&lt;/li&gt;
+&lt;li&gt;On-campus options&lt;/li&gt;
+&lt;li&gt;Flexible course and focus area options&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://in.nau.edu/department-geography-planning-recreation/home/gis_rs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Masters of Science in Geographic Information Science with Remote Sensing&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;One year (12 credits fall, 12 credits spring, 6 credits summer)&lt;/li&gt;
+&lt;li&gt;Online&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Park Ranger Law Enforcement Academy</title>
+      <link>https://nau-gpr.github.io/academic-themes/prtp-programs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nau-gpr.github.io/academic-themes/prtp-programs/</guid>
+      <description>&lt;h2 id=&#34;nau-offers-this-unique-program-for-students-pursuing-parks--recreation-degrees&#34;&gt;NAU offers this unique program for students pursuing parks &amp;amp; recreation degrees.&lt;/h2&gt;
+&lt;p&gt;Welcome to Northern Arizona University’s Park Ranger Law Enforcement Academy (PRLEA), one of only a few nationally accredited programs that provide the training required to work as a seasonal park ranger in law enforcement in the National Park Service. Upon graduation from the program, students receive a “Certificate of Completion” issued by the National Park Service. This certificate is also recognized by the other land management agencies.&lt;/p&gt;
+&lt;p&gt;For more details see the &lt;a href=&#34;https://lerangers.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRLEA’s external web page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parks and Recreation Management Programs</title>
+      <link>https://nau-gpr.github.io/academic-themes/prm-programs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nau-gpr.github.io/academic-themes/prm-programs/</guid>
+      <description>&lt;p&gt;Northern Arizona University has been offering Bachelor of Science degrees in Recreation since 1961. We offered our online Parks and Recreation Management (PRM) Certificate in 2001 and the first accredited online Bachelor of Science degree in Parks and Recreation Management in 2003. Additionally, the PRM program has offered a Masters of Science degree in Parks and Recreation since 2018. The PRM faculty have continually demonstrated a commitment to providing a unique, diverse and innovative student centered educational experience. The Parks and Recreation Management Program is located in the Geography, Planning and Recreation Department, a unit within the College of Social and Behavioral Sciences.&lt;/p&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;360&#34; src=&#34;https://www.youtube.com/embed/3Qj6NJDHO80?si=ucQB7M-5qSX1bKCg&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;undergraduate-programs&#34;&gt;Undergraduate Programs&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://in.nau.edu/department-geography-planning-recreation/parks-and-recreation-management/bs-parks-and-recreation-management/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Major in PRM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://in.nau.edu/department-geography-planning-recreation/prm-degrees-and-programs/minor-parks-and-recreation-management/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Minor in PRM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://in.nau.edu/department-geography-planning-recreation/prm-degrees-and-programs/parks-and-recreation-management-certificate-program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRM Certificate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://in.nau.edu/department-geography-planning-recreation/prm-degrees-and-programs/outdoor-education-leadership-certificate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Outdoor Education &amp;amp; Leadership Certificate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;emphasis-areas&#34;&gt;Emphasis Areas&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://in.nau.edu/department-geography-planning-recreation/prm-degrees-and-programs/community-commercial-tourism-emphasis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Community, Commercial &amp;amp; Tourism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://in.nau.edu/department-geography-planning-recreation/prm-degrees-and-programs/outdoor-education-leadership-emphasis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Outdoor Education &amp;amp; Leadership&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://in.nau.edu/department-geography-planning-recreation/prm-degrees-and-programs/park-protection-emphasis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Park Ranger Law Enforcement Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://in.nau.edu/department-geography-planning-recreation/prm-degrees-and-programs/individualized-emphasis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Individualized Study&lt;/a&gt; (Customized emphasis option pending faculty approval)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;graduate-programs&#34;&gt;Graduate Programs&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://in.nau.edu/department-geography-planning-recreation/prm-degrees-and-programs/recreational-therapy-graduate-certificate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recreational Therapy Graduate Certificate (Online)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://in.nau.edu/department-geography-planning-recreation/prm-degrees-and-programs/ms-parks-and-recreation-management/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Master of Science in Parks and Recreation Management&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

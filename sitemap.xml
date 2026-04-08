@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nau-gpr.github.io/academic-themes/</loc>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nau-gpr.github.io/faculty/</loc>
     <lastmod>2026-04-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -546,8 +549,6 @@
   </url><url>
     <loc>https://nau-gpr.github.io/about/</loc>
   </url><url>
-    <loc>https://nau-gpr.github.io/academic-themes/</loc>
-  </url><url>
     <loc>https://nau-gpr.github.io/tag/adaptive-capacity/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/faculty-profiles/alder-saxena/</loc>
@@ -600,6 +601,10 @@
   </url><url>
     <loc>https://nau-gpr.github.io/faculty-profiles/corryn-smith/</loc>
   </url><url>
+    <loc>https://nau-gpr.github.io/tag/critical-ethnography/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/tag/critical-qualitative-inquiry/</loc>
+  </url><url>
     <loc>https://nau-gpr.github.io/author/darrell-kaufman/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/degrees/</loc>
@@ -616,17 +621,23 @@
   </url><url>
     <loc>https://nau-gpr.github.io/research-themes/ecology-conservation/</loc>
   </url><url>
+    <loc>https://nau-gpr.github.io/tag/ecopsychology/</loc>
+  </url><url>
     <loc>https://nau-gpr.github.io/tag/education/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/faculty-profiles/emanuel-preciado/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/research-themes/environment-society/</loc>
   </url><url>
+    <loc>https://nau-gpr.github.io/tag/environmental-humanity/</loc>
+  </url><url>
     <loc>https://nau-gpr.github.io/tag/environmental-planning/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/category/environmental-science/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/faculty-profiles/erik-schiefer/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/tag/ethnography/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/author/eva-baransky/</loc>
   </url><url>
@@ -640,7 +651,7 @@
   </url><url>
     <loc>https://nau-gpr.github.io/academic-themes/gis/</loc>
   </url><url>
-    <loc>https://nau-gpr.github.io/academic-programs/ges-programs/</loc>
+    <loc>https://nau-gpr.github.io/academic-themes/ges-programs/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/geophysics/</loc>
   </url><url>
@@ -696,11 +707,17 @@
   </url><url>
     <loc>https://nau-gpr.github.io/tag/lwa-enforcement/</loc>
   </url><url>
+    <loc>https://nau-gpr.github.io/tag/mapping/</loc>
+  </url><url>
     <loc>https://nau-gpr.github.io/faculty-profiles/marieke-taney/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/faculty-profiles/mark-manone/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/masters/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/tag/national-parks/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/tag/natural-resources/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/author/nicholas-mckay/</loc>
   </url><url>
@@ -714,13 +731,13 @@
   </url><url>
     <loc>https://nau-gpr.github.io/tag/park-ranger/</loc>
   </url><url>
-    <loc>https://nau-gpr.github.io/academic-programs/prtp-programs/</loc>
+    <loc>https://nau-gpr.github.io/academic-themes/prtp-programs/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/academic-themes/parks-and-leisure/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/parks-and-recreation/</loc>
   </url><url>
-    <loc>https://nau-gpr.github.io/academic-programs/prm-programs/</loc>
+    <loc>https://nau-gpr.github.io/academic-themes/prm-programs/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/research-themes/climate-change/</loc>
   </url><url>
@@ -738,7 +755,9 @@
   </url><url>
     <loc>https://nau-gpr.github.io/tag/public-land-management/</loc>
   </url><url>
-    <loc>https://nau-gpr.github.io/academic-themes/law-enforcement/</loc>
+    <loc>https://nau-gpr.github.io/tag/public-lands/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/tag/qualitative-methods/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/faculty-profiles/dawn-hawley/</loc>
   </url><url>
@@ -805,6 +824,8 @@
     <loc>https://nau-gpr.github.io/tag/water-resources/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/watershed-hydrology/</loc>
+  </url><url>
+    <loc>https://nau-gpr.github.io/tag/whiteness-studies/</loc>
   </url><url>
     <loc>https://nau-gpr.github.io/tag/wildfire/</loc>
   </url><url>
