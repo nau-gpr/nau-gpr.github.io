@@ -15,7 +15,7 @@ tags:
 featured: false
 
 image:
-  caption: ''
+  caption: 'Prof. Manone'
   focal_point: ""
   preview_only: false
 

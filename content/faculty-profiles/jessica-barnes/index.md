@@ -1,6 +1,6 @@
 ---
 title: "Jessica Barnes"
-lasg_name: Barnes
+last_name: Barnes
 output: html_document
 
 abstract: "Associate Teaching Professor in human Geography, regional geography, and development"
