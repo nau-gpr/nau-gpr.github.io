@@ -1,66 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social Movements | NAU Geography, Planning and Recreation</title>
-    <link>https://nau-gpr.github.io/tag/social-movements/</link>
-      <atom:link href="https://nau-gpr.github.io/tag/social-movements/index.xml" rel="self" type="application/rss+xml" />
-    <description>Social Movements</description>
+    <title>Critical Ecofeminsm | NAU Geography, Planning and Recreation</title>
+    <link>https://nau-gpr.github.io/tag/critical-ecofeminsm/</link>
+      <atom:link href="https://nau-gpr.github.io/tag/critical-ecofeminsm/index.xml" rel="self" type="application/rss+xml" />
+    <description>Critical Ecofeminsm</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
       <url>https://nau-gpr.github.io/media/logo_hu_a3c17d8070e8a619.png</url>
-      <title>Social Movements</title>
-      <link>https://nau-gpr.github.io/tag/social-movements/</link>
+      <title>Critical Ecofeminsm</title>
+      <link>https://nau-gpr.github.io/tag/critical-ecofeminsm/</link>
     </image>
-    
-    <item>
-      <title>Emanuel Preciado</title>
-      <link>https://nau-gpr.github.io/faculty-profiles/emanuel-preciado/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nau-gpr.github.io/faculty-profiles/emanuel-preciado/</guid>
-      <description>&lt;h2 id=&#34;degrees&#34;&gt;Degrees&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;M.A. Urban and Regional Planning&lt;/strong&gt;
-University Of California Irvine&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Ph.D. Urban and Environmental Planning and Policy&lt;/strong&gt;
-University Of California Irvine&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;interests&#34;&gt;Interests&lt;/h2&gt;
-&lt;h3 id=&#34;teaching&#34;&gt;Teaching&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;I design and teach courses examining how urban and environmental planning intersect with community development, social movements, and food systems.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;research&#34;&gt;Research&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;I am a community (re)builder researching and supporting community-led planning and grassroots governance systems. My research agenda aims to improve structural conditions for working families and frontline communities.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;
-&lt;h3 id=&#34;spring-2026&#34;&gt;Spring 2026&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;GSP 201: Introduction To City Planning&lt;/li&gt;
-&lt;li&gt;GSP 414: Planning Sustainable Cities&lt;/li&gt;
-&lt;li&gt;GSP 499: Contemporary Developments&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Urban Food Justice Planning&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;GSP 514: Planning Sustainable Cities&lt;/li&gt;
-&lt;li&gt;GSP 599: Contemporary Developments&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Urban Food Justice Planning&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;SUS 220: Environmental Inequalities&lt;/li&gt;
-&lt;li&gt;SUS 485H: Undergraduate Research - Honors&lt;/li&gt;
-&lt;li&gt;SUS 485: Undergraduate Research&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;fall-2025&#34;&gt;Fall 2025&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;GSP 201: Introduction To City Planning&lt;/li&gt;
-&lt;li&gt;GSP 220: United States Geography&lt;/li&gt;
-&lt;li&gt;GSP 414: Planning Sustainable Cities&lt;/li&gt;
-&lt;li&gt;GSP 514: Planning Sustainable Cities&lt;/li&gt;
-&lt;li&gt;SUS 485: Undergraduate Research&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
     
     <item>
       <title>Nora Timmerman</title>
