@@ -7,9 +7,6 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: People
-    url: faculty-profiles
-    weight: 20
   - name: Programs
     url: academic-programs
     weight: 30
@@ -65,6 +62,9 @@ main:
   # - name: Research Highlights
   #   url: highlights
   #   weight: 45
+  - name: People
+    url: faculty-profiles
+    weight: 50
   - name: Alumni
     url: alumni
-    weight: 50
+    weight: 60
