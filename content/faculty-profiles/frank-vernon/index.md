@@ -3,7 +3,7 @@ title: "Franklin Lee Vernon"
 last_name: Vernon
 output: html_document
 
-abstract: ""
+abstract: "Associate Teaching Professor in the Department of Geography, Planning, and Recreation."
 
 summary: "Dr. Vernon is an Associate Teaching Professor in the Department of Geography, Planning, and Recreation."
 

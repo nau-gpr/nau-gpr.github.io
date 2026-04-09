@@ -1,6 +1,6 @@
 ---
 title: "Nora Timmerman"
-last_name: 
+last_name: Timmerman
 output: html_document
 
 abstract: "Teaches and researches environmental justice/sustainability education, ecofeminist philosophy, activism, higher edu, and community organizing."

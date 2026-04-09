@@ -1,6 +1,6 @@
 ---
 title: "Marieke Taney"
-last_name: 
+last_name: Taney
 output: html_document
 
 abstract: "Teaches in Parks and Recreation Management | Outdoor Education and Leadership. Interests: Interpretation, Leadership, Curriculum Design and Experiential Ed."
